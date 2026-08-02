@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2069044669347238294",
+    "created_at": "2026-06-23T00:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069215039551410628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069215039551410628",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069210939199750601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede 好像现在在官网注册还需要邮箱呢，中国人有几个知道自己需要邮箱的，最多也就知道个自己的qq号能拿来当邮箱\n之前一个朋友想看看世界，就给他弄了梯子。注册机场要邮箱，他就填了自己的qq号邮箱，我无语的同时也挺无奈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2069044669347238294",
+        "created_at": "2026-06-23T00:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069215039551410628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069215039551410628",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069210939199750601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede 好像现在在官网注册还需要邮箱呢，中国人有几个知道自己需要邮箱的，最多也就知道个自己的qq号能拿来当邮箱\n之前一个朋友想看看世界，就给他弄了梯子。注册机场要邮箱，他就填了自己的qq号邮箱，我无语的同时也挺无奈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2069044669347238294",
+        "created_at": "2026-06-23T00:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069210939199750601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069210939199750601",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069210307667644672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 是啊 十多年前买老爹给我买4s那会儿我好像邮箱都是初中才有的 他们就给我装了个手机助手但是会有个问题，隔一段时间签名会掉 所以后来我自己申请了苹果 ID哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 342,
+          "like_count": 8981,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 6317
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "name": "高小姐的皮卡丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 63,
+          "like_count": 3419,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 6615
+        },
+        "url": "",
+        "username": "gaoxiaojiede",
+        "verified": true
+      }
+    ]
+  }
+}

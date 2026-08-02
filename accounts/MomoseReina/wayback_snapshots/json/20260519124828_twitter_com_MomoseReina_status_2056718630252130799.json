@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2056714880221327502",
+    "created_at": "2026-05-19T12:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056718630252130799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 31,
+          "id": "1909562414162755584",
+          "start": 16,
+          "username": "ThirteenYizuka"
+        },
+        {
+          "end": 41,
+          "id": "1601893417549967360",
+          "start": 32,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 53,
+          "id": "1386539491054088198",
+          "start": 42,
+          "username": "yoooyoyooy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056718630252130799",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056714880221327502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @ThirteenYizuka @AcboxLiu @yoooyoyooy xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2084,
+        "media_key": "3_2056714870545113089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrrRx8a4AEqCwA.jpg",
+        "width": 2184
+      },
+      {
+        "height": 2084,
+        "media_key": "3_2056714870645805056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrrRyUbUAAnlcN.jpg",
+        "width": 2184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2056714880221327502",
+        "created_at": "2026-05-19T12:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056718630252130799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 31,
+              "id": "1909562414162755584",
+              "start": 16,
+              "username": "ThirteenYizuka"
+            },
+            {
+              "end": 41,
+              "id": "1601893417549967360",
+              "start": 32,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 53,
+              "id": "1386539491054088198",
+              "start": 42,
+              "username": "yoooyoyooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718630252130799",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056714880221327502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @ThirteenYizuka @AcboxLiu @yoooyoyooy xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056714870545113089",
+            "3_2056714870645805056"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056714880221327502",
+        "created_at": "2026-05-19T12:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056714880221327502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAVZpSbwRH",
+              "end": 26,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2056714880221327502/photo/1",
+              "media_key": "3_2056714870545113089",
+              "start": 3,
+              "url": "https://t.co/vAVZpSbwRH"
+            },
+            {
+              "display_url": "pic.x.com/vAVZpSbwRH",
+              "end": 26,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2056714880221327502/photo/1",
+              "media_key": "3_2056714870645805056",
+              "start": 3,
+              "url": "https://t.co/vAVZpSbwRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056714880221327502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃! https://t.co/vAVZpSbwRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 339,
+          "like_count": 8253,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 5725
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」 | 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 1335,
+          "like_count": 42939,
+          "listed_count": 7,
+          "media_count": 1690,
+          "tweet_count": 26766
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 272,
+          "like_count": 6905,
+          "listed_count": 10,
+          "media_count": 162,
+          "tweet_count": 1465
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦神秘纸箱 / GitHub: https://t.co/hUTrNHa19i / 💖现实中是一个很可爱的人 / 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 39,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 16,
+                "url": "https://t.co/hUTrNHa19i"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11917,
+          "following_count": 2972,
+          "like_count": 3368,
+          "listed_count": 59,
+          "media_count": 1079,
+          "tweet_count": 6115
+        },
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LannchanOwo"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 923,
+          "like_count": 245543,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 5262
+        },
+        "username": "yoooyoyooy",
+        "verified": true
+      }
+    ]
+  }
+}

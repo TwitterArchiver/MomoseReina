@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977361987806835107",
+    "created_at": "2025-10-13T06:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T07:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977624559613571226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1763154586221813760",
+          "start": 0,
+          "username": "xiaolang2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977624559613571226",
+    "in_reply_to_user_id": "1763154586221813760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977366405365252441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaolang2006 早安哦(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977361987806835107",
+        "created_at": "2025-10-13T06:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T07:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977624559613571226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1763154586221813760",
+              "start": 0,
+              "username": "xiaolang2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977624559613571226",
+        "in_reply_to_user_id": "1763154586221813760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977366405365252441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaolang2006 早安哦(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763154586221813760",
+        "conversation_id": "1977361987806835107",
+        "created_at": "2025-10-12T13:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T14:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977366405365252441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977366405365252441",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977361987806835107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 晚安\n/\\_/\\\n꒰˘ᴥ˘꒱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 127,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T10:49:53.000Z",
+        "description": "大涩狼一只，大家的关注我都会回应，也可以找我聊天哦。ദ്ദി˶ｰ̀֊ｰ́ )✧\n/\\_/\\ 🐺₍˄₎\n꒰¯ᴥ¯꒱ \\__|/\n | | | |（_   ）\n ꒳ ꒳    ꒳¯¯",
+        "id": "1763154586221813760",
+        "location": "露西亚的膝枕上",
+        "name": "小狼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916194361056104449/ktFtobUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 39,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 572
+        },
+        "username": "xiaolang2006",
+        "verified": false
+      }
+    ]
+  }
+}

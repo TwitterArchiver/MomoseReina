@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1993677334675853665",
+    "created_at": "2025-11-28T01:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994217099456053601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629688098505510912",
+          "start": 0,
+          "username": "Unknow_CVC"
+        },
+        {
+          "end": 21,
+          "id": "1601893417549967360",
+          "start": 12,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994217099456053601",
+    "in_reply_to_user_id": "1629688098505510912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994184541947199942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknow_CVC @AcboxLiu 太早了起不来（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1993677334675853665",
+        "created_at": "2025-11-28T01:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994217099456053601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629688098505510912",
+              "start": 0,
+              "username": "Unknow_CVC"
+            },
+            {
+              "end": 21,
+              "id": "1601893417549967360",
+              "start": 12,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994217099456053601",
+        "in_reply_to_user_id": "1629688098505510912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994184541947199942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknow_CVC @AcboxLiu 太早了起不来（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629688098505510912",
+        "conversation_id": "1993677334675853665",
+        "created_at": "2025-11-27T23:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994184541947199942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 22,
+              "id": "1601893417549967360",
+              "start": 13,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994184541947199942",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993705701580103974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @AcboxLiu 工作日早鸟就好了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 256,
+          "like_count": 2462,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1881
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9dLjU"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級のCenVCee🍤",
+        "pinned_tweet_id": "1947612288292114903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 1482,
+          "like_count": 22762,
+          "listed_count": 2,
+          "media_count": 1985,
+          "tweet_count": 15091
+        },
+        "url": "https://t.co/3dxIv9dLjU",
+        "username": "Unknow_CVC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChatTutor/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1991551177834819860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9536,
+          "following_count": 2985,
+          "like_count": 2922,
+          "listed_count": 35,
+          "media_count": 1145,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

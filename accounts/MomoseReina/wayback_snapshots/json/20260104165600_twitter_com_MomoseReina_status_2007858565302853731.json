@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007858562693832704"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2007748997600186499",
+    "created_at": "2026-01-04T16:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007858565302853731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MzrO3TsQvX",
+          "end": 36,
+          "expanded_url": "https://x.com/MomoseReina/status/2007858565302853731/photo/1",
+          "media_key": "3_2007858562693832704",
+          "start": 13,
+          "url": "https://t.co/MzrO3TsQvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007858565302853731",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007748997600186499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress https://t.co/MzrO3TsQvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2007858562693832704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91YuYSXoAAi0E0.jpg",
+        "width": 556
+      },
+      {
+        "height": 1135,
+        "media_key": "3_2007748990453108736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9z1Eb4bUAA09Jc.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007858562693832704"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2007748997600186499",
+        "created_at": "2026-01-04T16:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007858565302853731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzrO3TsQvX",
+              "end": 36,
+              "expanded_url": "https://x.com/MomoseReina/status/2007858565302853731/photo/1",
+              "media_key": "3_2007858562693832704",
+              "start": 13,
+              "url": "https://t.co/MzrO3TsQvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007858565302853731",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007748997600186499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress https://t.co/MzrO3TsQvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007748990453108736"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2007748997600186499",
+        "created_at": "2026-01-04T09:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007748997600186499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZDridgzVh",
+              "end": 56,
+              "expanded_url": "https://x.com/NagiExpress/status/2007748997600186499/photo/1",
+              "media_key": "3_2007748990453108736",
+              "start": 33,
+              "url": "https://t.co/fZDridgzVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007748997600186499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1262,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟nagi面基注意事项\n1. 不许草我\n2. 不许乱说自己是男生 https://t.co/fZDridgzVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 290,
+          "like_count": 4233,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 3169
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "你不妨o的再大一点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2006011354390352303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4630,
+          "following_count": 2060,
+          "like_count": 20008,
+          "listed_count": 6,
+          "media_count": 1731,
+          "tweet_count": 17413
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

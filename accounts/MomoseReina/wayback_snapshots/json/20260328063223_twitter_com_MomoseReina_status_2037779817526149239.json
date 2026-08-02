@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2037739608168165497",
+    "created_at": "2026-03-28T06:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037779817526149239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1358958695921582085",
+          "start": 0,
+          "username": "Haresora_Yen"
+        },
+        {
+          "end": 22,
+          "id": "1593799138893873152",
+          "start": 14,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037779817526149239",
+    "in_reply_to_user_id": "1358958695921582085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037753988570091856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haresora_Yen @Yujiudu ip地址啥的都不重要，最重要的是手机号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2037739608168165497",
+        "created_at": "2026-03-28T06:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037779817526149239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1358958695921582085",
+              "start": 0,
+              "username": "Haresora_Yen"
+            },
+            {
+              "end": 22,
+              "id": "1593799138893873152",
+              "start": 14,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037779817526149239",
+        "in_reply_to_user_id": "1358958695921582085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037753988570091856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haresora_Yen @Yujiudu ip地址啥的都不重要，最重要的是手机号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358958695921582085",
+        "conversation_id": "2037739608168165497",
+        "created_at": "2026-03-28T04:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037753988570091856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037753988570091856",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739608168165497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yujiudu 现在除了申请公网了的人，上网不都是NAT吗，获取到成千上万户共用的一个IP又有什么意义呢？🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 322,
+          "like_count": 7128,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4895
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-09T01:59:45.000Z",
+        "description": "「She/Her」Do anything for fun. 🥰 Recording & Mixing. Xi'An Conservatory of Music.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haresora.uk",
+                "end": 23,
+                "expanded_url": "https://haresora.uk",
+                "start": 0,
+                "url": "https://t.co/36ho6mN0aK"
+              }
+            ]
+          }
+        },
+        "id": "1358958695921582085",
+        "location": "Hi",
+        "name": "晴れ空☀️",
+        "pinned_tweet_id": "1511097956274900995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876164810511114241/HW5AAMb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 345,
+          "like_count": 1481,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/36ho6mN0aK",
+        "username": "Haresora_Yen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4333,
+          "following_count": 1959,
+          "like_count": 44417,
+          "listed_count": 7,
+          "media_count": 1185,
+          "tweet_count": 8604
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

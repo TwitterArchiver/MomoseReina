@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+          "id": "10027336022",
+          "name": "Top of the Pops"
+        }
+      }
+    ],
+    "conversation_id": "2065655349563318339",
+    "created_at": "2026-06-13T05:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T06:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065664844762906968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4421941038",
+          "start": 0,
+          "username": "stevehongkong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065664844762906968",
+    "in_reply_to_user_id": "4421941038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065664499231981880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevehongkong TOTP，passkey都是标准协议，系统自带肯定更好\n除非你想用那个app令牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Hear the best tracks from the chart, interviews with chart artists, and gossip from the music world.",
+              "id": "10027336022",
+              "name": "Top of the Pops"
+            }
+          }
+        ],
+        "conversation_id": "2065655349563318339",
+        "created_at": "2026-06-13T05:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065664844762906968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4421941038",
+              "start": 0,
+              "username": "stevehongkong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065664844762906968",
+        "in_reply_to_user_id": "4421941038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065664499231981880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevehongkong TOTP，passkey都是标准协议，系统自带肯定更好\n除非你想用那个app令牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4421941038",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2065655349563318339",
+        "created_at": "2026-06-13T05:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T06:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065664499231981880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065664499231981880",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065664228258984137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 我试试看，因为是Microsoft Account，就想当然的用上了Microsoft Authenticator"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 342,
+          "like_count": 8797,
+          "listed_count": 5,
+          "media_count": 369,
+          "tweet_count": 6170
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-01T16:07:07.000Z",
+        "description": "",
+        "id": "4421941038",
+        "location": "Hong Kong",
+        "name": "Steve YANG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/794733616324481025/lUuf9DYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 549,
+          "like_count": 464,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1566
+        },
+        "username": "stevehongkong",
+        "verified": false
+      }
+    ]
+  }
+}

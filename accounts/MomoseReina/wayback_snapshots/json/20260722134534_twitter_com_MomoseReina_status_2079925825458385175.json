@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2079925825458385175",
+    "created_at": "2026-07-22T13:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079925825458385175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079925825458385175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚才跟朋友聊天\n“你知道我们学校机房电脑配置是什么吗？都是i7 12700+5060”\n我“xmsl，我们都是 i3 8100 9100什么的，独显想都别想”\n“xm什么，这都是我的学费啊！”\n我“你不要不识好歹，起码你的学费没变成校领导的奔驰或者学校门口的大石头”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2079925825458385175",
+        "created_at": "2026-07-22T13:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079925825458385175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079925825458385175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才跟朋友聊天\n“你知道我们学校机房电脑配置是什么吗？都是i7 12700+5060”\n我“xmsl，我们都是 i3 8100 9100什么的，独显想都别想”\n“xm什么，这都是我的学费啊！”\n我“你不要不识好歹，起码你的学费没变成校领导的奔驰或者学校门口的大石头”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 340,
+          "like_count": 9416,
+          "listed_count": 5,
+          "media_count": 432,
+          "tweet_count": 6704
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

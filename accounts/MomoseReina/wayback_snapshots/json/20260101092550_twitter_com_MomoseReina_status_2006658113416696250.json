@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006658076133453824"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2006657051339248056",
+    "created_at": "2026-01-01T09:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T10:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006658113416696250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/brdn1Mhk3A",
+          "end": 45,
+          "expanded_url": "https://x.com/MomoseReina/status/2006658113416696250/photo/1",
+          "media_key": "3_2006658076133453824",
+          "start": 22,
+          "url": "https://t.co/brdn1Mhk3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006658113416696250",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006657051339248056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA 之前咱试过拿这个排卡（ https://t.co/brdn1Mhk3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2006658076133453824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kU43WacAAIvNE.jpg",
+        "width": 790
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2006657041394462720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9kT8opacAAwtXo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006658076133453824"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2006657051339248056",
+        "created_at": "2026-01-01T09:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006658113416696250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/brdn1Mhk3A",
+              "end": 45,
+              "expanded_url": "https://x.com/MomoseReina/status/2006658113416696250/photo/1",
+              "media_key": "3_2006658076133453824",
+              "start": 22,
+              "url": "https://t.co/brdn1Mhk3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006658113416696250",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006657051339248056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA 之前咱试过拿这个排卡（ https://t.co/brdn1Mhk3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006657041394462720"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006657051339248056",
+        "created_at": "2026-01-01T09:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006657051339248056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0M9NMeq0ER",
+              "end": 26,
+              "expanded_url": "https://x.com/57crz3oA/status/2006657051339248056/photo/1",
+              "media_key": "3_2006657041394462720",
+              "start": 3,
+              "url": "https://t.co/0M9NMeq0ER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006657051339248056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈人 https://t.co/0M9NMeq0ER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 286,
+          "like_count": 4054,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "id": "1494669485214633984",
+        "location": "距你14.9km",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997726001468690433/TMiBRj75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 1321,
+          "like_count": 60141,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 3210
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1978066200921018377",
+    "created_at": "2025-10-15T05:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978336196087451745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978336196087451745",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978066200921018377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook 姐姐可爱(⁠☆⁠▽⁠☆⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978066190225551360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OAuEKasAA1SFW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1978066200921018377",
+        "created_at": "2025-10-15T05:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978336196087451745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978336196087451745",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978066200921018377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook 姐姐可爱(⁠☆⁠▽⁠☆⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978066190225551360"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "1978066200921018377",
+        "created_at": "2025-10-14T11:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978066200921018377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo5wdM6kM4",
+              "end": 35,
+              "expanded_url": "https://x.com/zhishi_cook/status/1978066200921018377/photo/1",
+              "media_key": "3_1978066190225551360",
+              "start": 12,
+              "url": "https://t.co/Bo5wdM6kM4"
+            },
+            {
+              "display_url": "x.com/zhishi_cook/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/zhishi_cook/status/1977953560676741233",
+              "start": 36,
+              "url": "https://t.co/QRzE5qo08t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978066200921018377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2333,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977953560676741233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我连头都不敢抬.... https://t.co/Bo5wdM6kM4 https://t.co/QRzE5qo08t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 156,
+          "like_count": 770,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/已出柜/有小证/家长不管(/ENFP-T/提问:https://t.co/bDeKeMQNaN / 会写php py的小孩/生产日期:2009-03-07/同类互fo喵🤓/笨蛋老婆:@Tangyuwenmtf/目前版本:3rd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "Tangyuwenmtf"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 46,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "坐在唐毓文的大鸡巴上",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1973798123471536197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 1512,
+          "like_count": 1267,
+          "listed_count": 5,
+          "media_count": 358,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      }
+    ]
+  }
+}

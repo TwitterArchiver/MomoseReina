@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2047636170570711193",
+    "created_at": "2026-04-24T11:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047637229821169850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025183590011858944",
+          "start": 0,
+          "username": "Cachetide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047637229821169850",
+    "in_reply_to_user_id": "2025183590011858944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047636170570711193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cachetide 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047636158595936256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqqPMZbMAAIR5W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2047636170570711193",
+        "created_at": "2026-04-24T11:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047637229821169850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025183590011858944",
+              "start": 0,
+              "username": "Cachetide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047637229821169850",
+        "in_reply_to_user_id": "2025183590011858944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047636170570711193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cachetide 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047636158595936256"
+          ]
+        },
+        "author_id": "2025183590011858944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047636170570711193",
+        "created_at": "2026-04-24T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047636170570711193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxFxExibIQ",
+              "end": 28,
+              "expanded_url": "https://x.com/Cachetide/status/2047636170570711193/photo/1",
+              "media_key": "3_2047636158595936256",
+              "start": 5,
+              "url": "https://t.co/bxFxExibIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047636170570711193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃的～ https://t.co/bxFxExibIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 332,
+          "like_count": 7774,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 5317
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T12:19:52.000Z",
+        "description": "抹茶&香芋爱好者w\n美食爱好者\n绝对的吃货",
+        "id": "2025183590011858944",
+        "location": "Neko猫咖",
+        "name": "编汐译梦CacheTide",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025185792193429504/APVx24M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 89
+        },
+        "username": "Cachetide",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980275926043607041"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980276043413164104",
+    "created_at": "2025-10-20T14:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T15:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980276043413164104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LI5zfXnoLR",
+          "end": 37,
+          "expanded_url": "https://x.com/MomoseReina/status/1980276043413164104/photo/1",
+          "media_key": "3_1980275926043607041",
+          "start": 14,
+          "url": "https://t.co/LI5zfXnoLR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980276043413164104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你有彩框吗你就配跟我说话？ https://t.co/LI5zfXnoLR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1061,
+        "media_key": "3_1980275926043607041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tadnkWQAE9Cyq.jpg",
+        "width": 1909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980275926043607041"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980276043413164104",
+        "created_at": "2025-10-20T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980276043413164104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LI5zfXnoLR",
+              "end": 37,
+              "expanded_url": "https://x.com/MomoseReina/status/1980276043413164104/photo/1",
+              "media_key": "3_1980275926043607041",
+              "start": 14,
+              "url": "https://t.co/LI5zfXnoLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980276043413164104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你有彩框吗你就配跟我说话？ https://t.co/LI5zfXnoLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 191,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

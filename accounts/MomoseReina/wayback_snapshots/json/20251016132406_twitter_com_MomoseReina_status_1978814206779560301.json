@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1978788283648979308",
+    "created_at": "2025-10-16T13:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978814206779560301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1252463831185371136",
+          "start": 0,
+          "username": "Dadadajie01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978814206779560301",
+    "in_reply_to_user_id": "1252463831185371136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978788283648979308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dadadajie01 草(⁠≧⁠▽⁠≦⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 924,
+        "media_key": "3_1978788269862338560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YRcobawAApTOa.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1978788283648979308",
+        "created_at": "2025-10-16T13:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978814206779560301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1252463831185371136",
+              "start": 0,
+              "username": "Dadadajie01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978814206779560301",
+        "in_reply_to_user_id": "1252463831185371136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978788283648979308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dadadajie01 草(⁠≧⁠▽⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978788269862338560"
+          ]
+        },
+        "author_id": "1252463831185371136",
+        "conversation_id": "1978788283648979308",
+        "created_at": "2025-10-16T11:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T12:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978788283648979308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqN0ish9Vh",
+              "end": 37,
+              "expanded_url": "https://x.com/Dadadajie01/status/1978788283648979308/photo/1",
+              "media_key": "3_1978788269862338560",
+              "start": 14,
+              "url": "https://t.co/oqN0ish9Vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978788283648979308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我25块的华莱士都被人偷了 https://t.co/oqN0ish9Vh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 170,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-21T05:07:10.000Z",
+        "description": "こんにちは。私はBG4JIE、10代后半の大学生で、いま2回目JLPT-N2備考中、趣味はACGNとアマチュア無線とairsoftと撮影で、面白いものが好き、よろしくお願いします😸",
+        "id": "1252463831185371136",
+        "location": "德州",
+        "name": "βGΨ丁|E",
+        "pinned_tweet_id": "1864231526059393330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809050334725353473/GTm1-qUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 2050,
+          "like_count": 36022,
+          "listed_count": 9,
+          "media_count": 1097,
+          "tweet_count": 6327
+        },
+        "username": "Dadadajie01",
+        "verified": false
+      }
+    ]
+  }
+}

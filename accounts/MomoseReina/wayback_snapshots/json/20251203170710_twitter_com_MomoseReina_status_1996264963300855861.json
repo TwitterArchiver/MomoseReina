@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1995975463408463956",
+    "created_at": "2025-12-03T17:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996264963300855861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        },
+        {
+          "end": 19,
+          "id": "1618557658163970049",
+          "start": 11,
+          "username": "qqqqqf5"
+        },
+        {
+          "end": 28,
+          "id": "6782882",
+          "start": 20,
+          "username": "oran_ge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996264963300855861",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996264345395929224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz @qqqqqf5 @oran_ge 你只要有美区Google号，我就可以拉你进家庭组共享Google One（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1995975463408463956",
+        "created_at": "2025-12-03T17:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996264963300855861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            },
+            {
+              "end": 19,
+              "id": "1618557658163970049",
+              "start": 11,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 28,
+              "id": "6782882",
+              "start": 20,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996264963300855861",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996264345395929224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz @qqqqqf5 @oran_ge 你只要有美区Google号，我就可以拉你进家庭组共享Google One（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "1995975463408463956",
+        "created_at": "2025-12-03T17:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996264345395929224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 21,
+              "id": "1618557658163970049",
+              "start": 13,
+              "username": "qqqqqf5"
+            },
+            {
+              "end": 30,
+              "id": "6782882",
+              "start": 22,
+              "username": "oran_ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996264345395929224",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996263055898947900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @qqqqqf5 @oran_ge 求教程（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 267,
+          "like_count": 2722,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2059
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 也可以 | 生日27/04 | AMAB | 爱压抑 | 舞萌痴 | MBTI: ISTP | 里推：@45_206io | 世界上最好的@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "45_206io"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "舞萌DX 2025",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960182280988872704/xhIqtoxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 429,
+          "like_count": 22697,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "拒绝键政 | 如果你有键政成分我都会block\n爱发梗图和生活日常 ｜ 偶尔爆照\n都是转发的图!!! 如果图片让你生气了 请不要骂我好不好\n逃生舱:@qqqqqf_\nNGL匿名提问箱:https://t.co/vkfKFLuIsm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/qqqqqf51",
+                "end": 115,
+                "expanded_url": "https://ngl.link/qqqqqf51",
+                "start": 92,
+                "url": "https://t.co/vkfKFLuIsm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "1989724969690173744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4158,
+          "following_count": 1966,
+          "like_count": 8281,
+          "listed_count": 11,
+          "media_count": 1065,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "聊硅基 AI，看有机 Orange。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "listenhub.ai",
+                "end": 23,
+                "expanded_url": "https://listenhub.ai",
+                "start": 0,
+                "url": "https://t.co/vbXB95311n"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "Mars",
+        "name": "Orange AI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141603,
+          "following_count": 787,
+          "like_count": 2006,
+          "listed_count": 1807,
+          "media_count": 6095,
+          "tweet_count": 134066
+        },
+        "url": "https://t.co/vbXB95311n",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

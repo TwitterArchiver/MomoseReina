@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1984550247818019164",
+    "created_at": "2025-11-01T14:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T15:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984622856219791673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984622856219791673",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984550247818019164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 感觉好费电QAQ\n咱家里云待机120w左右qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1984550203912044545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qJ5VcbQAEGmHX.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1984550228016717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qJ6vPbYAA3T1-.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1984550247818019164",
+        "created_at": "2025-11-01T14:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984622856219791673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984622856219791673",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984550247818019164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 感觉好费电QAQ\n咱家里云待机120w左右qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984550203912044545",
+            "3_1984550228016717824"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "1984550247818019164",
+        "created_at": "2025-11-01T09:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984550247818019164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6J4gqvLSb",
+              "end": 198,
+              "expanded_url": "https://x.com/tcdwww/status/1984550247818019164/photo/1",
+              "media_key": "3_1984550203912044545",
+              "start": 175,
+              "url": "https://t.co/J6J4gqvLSb"
+            },
+            {
+              "display_url": "pic.x.com/J6J4gqvLSb",
+              "end": 198,
+              "expanded_url": "https://x.com/tcdwww/status/1984550247818019164/photo/1",
+              "media_key": "3_1984550228016717824",
+              "start": 175,
+              "url": "https://t.co/J6J4gqvLSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984550247818019164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 925,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对我在老家的 Homelab 进行了复旧：\n- 将 PVE 从 8 升级到 9，期间 grub 还爆炸了一次\n- 解决了带外管理服务器失联的问题 -&gt; 修正了一台网管交换机的 VLAN 配置\n- 修正了 minio 服务的远程存储连接 -&gt; TrueNAS Scale 的 NFS 分享配置\n- 更换了米家温湿度计的 CR2032 电池 https://t.co/J6J4gqvLSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 217,
+          "like_count": 1561,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/tcdw",
+                "end": 23,
+                "expanded_url": "https://bento.me/tcdw",
+                "start": 0,
+                "url": "https://t.co/X2P4LSRBqe"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "1982115159259922654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437146221764609/c3ln4Y-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 377,
+          "like_count": 56494,
+          "listed_count": 6,
+          "media_count": 572,
+          "tweet_count": 7557
+        },
+        "url": "https://t.co/X2P4LSRBqe",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

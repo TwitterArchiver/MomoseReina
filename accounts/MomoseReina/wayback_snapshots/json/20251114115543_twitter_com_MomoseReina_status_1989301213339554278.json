@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1989301213339554278",
+    "created_at": "2025-11-14T11:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989301213339554278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JyushitiYizuka…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/JyushitiYizuka/status/1988906239409967299",
+          "start": 14,
+          "url": "https://t.co/z9SVr3SqiX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989301213339554278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988906239409967299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类需要舞萌，中二和音击！ https://t.co/z9SVr3SqiX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1989301213339554278",
+        "created_at": "2025-11-14T11:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989301213339554278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JyushitiYizuka…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/JyushitiYizuka/status/1988906239409967299",
+              "start": 14,
+              "url": "https://t.co/z9SVr3SqiX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989301213339554278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988906239409967299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类需要舞萌，中二和音击！ https://t.co/z9SVr3SqiX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "1988906239409967299",
+        "created_at": "2025-11-13T09:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988906239409967299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ayanami_rin0/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Ayanami_rin0/status/1988887162188644674",
+              "start": 14,
+              "url": "https://t.co/8f3y0I5ZFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988906239409967299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1812,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988887162188644674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类需要吃饭，睡觉和音乐！ https://t.co/8f3y0I5ZFG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 233,
+          "like_count": 1818,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1987383574241419311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961690372398354433/Ulif6df4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1144,
+          "like_count": 32415,
+          "listed_count": 4,
+          "media_count": 1154,
+          "tweet_count": 18353
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

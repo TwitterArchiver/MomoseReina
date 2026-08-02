@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1998643456433074570",
+    "created_at": "2025-12-11T08:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999035963268567189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        },
+        {
+          "end": 22,
+          "id": "942120697769246725",
+          "start": 10,
+          "username": "frostming90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999035963268567189",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998666587935748259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery @frostming90 草，乍一眼还以为是你的项目（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1998643456433074570",
+        "created_at": "2025-12-11T08:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999035963268567189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            },
+            {
+              "end": 22,
+              "id": "942120697769246725",
+              "start": 10,
+              "username": "frostming90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999035963268567189",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998666587935748259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery @frostming90 草，乍一眼还以为是你的项目（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2721275622",
+        "conversation_id": "1998643456433074570",
+        "created_at": "2025-12-10T08:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998666587935748259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "942120697769246725",
+              "start": 0,
+              "username": "frostming90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998666587935748259",
+        "in_reply_to_user_id": "942120697769246725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4505,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998643456433074570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frostming90 怎么跟我长得这么像（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 269,
+          "like_count": 3070,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "码字码文，单身狗做一辈子 | AI Coder | INFP-T | Front-end | NestJS | React | NeoVim | NextJS | ex @xiaohongshu | All views are my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "xiaohongshu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/innei",
+                "end": 23,
+                "expanded_url": "http://github.com/innei",
+                "start": 0,
+                "url": "https://t.co/kWzqaOopaT"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": "杭州",
+        "name": "拾一.ens18",
+        "pinned_tweet_id": "1835524241740939322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995369282969239552/A3PhLZRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9581,
+          "following_count": 955,
+          "like_count": 11928,
+          "listed_count": 72,
+          "media_count": 848,
+          "tweet_count": 7783
+        },
+        "url": "https://t.co/kWzqaOopaT",
+        "username": "__oQuery",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-16T19:54:12.000Z",
+        "description": "赵客缦胡缨，吴钩霜雪明\n🐍Python developer / PyPA member / Creator of @pdm_project / @frostming@mas.to / TG channel: https://t.co/eTgAKqBQ2C\nY4UNURKV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "pdm_project"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/fming_weekly",
+                "end": 127,
+                "expanded_url": "https://t.me/fming_weekly",
+                "start": 104,
+                "url": "https://t.co/eTgAKqBQ2C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "frostming.com",
+                "end": 23,
+                "expanded_url": "https://frostming.com",
+                "start": 0,
+                "url": "https://t.co/nwppt4jPAA"
+              }
+            ]
+          }
+        },
+        "id": "942120697769246725",
+        "name": "𝔽𝕣𝕠𝕤𝕥 𝕄𝕚𝕟𝕘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699639663928184832/0QF28pJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6862,
+          "following_count": 214,
+          "like_count": 2875,
+          "listed_count": 58,
+          "media_count": 278,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/nwppt4jPAA",
+        "username": "frostming90",
+        "verified": false
+      }
+    ]
+  }
+}

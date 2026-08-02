@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977886068176195737",
+    "created_at": "2025-10-13T23:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T00:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977886696348807413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711840683638792192",
+          "start": 0,
+          "username": "xiaogudu423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977886696348807413",
+    "in_reply_to_user_id": "1711840683638792192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977886068176195737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogudu423 雨泠姐姐早上好哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977886068176195737",
+        "created_at": "2025-10-13T23:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977886696348807413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711840683638792192",
+              "start": 0,
+              "username": "xiaogudu423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977886696348807413",
+        "in_reply_to_user_id": "1711840683638792192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977886068176195737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogudu423 雨泠姐姐早上好哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711840683638792192",
+        "conversation_id": "1977886068176195737",
+        "created_at": "2025-10-13T23:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977886068176195737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977886068176195737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枣！！尚！！耗！！(´▽｀)ノ♪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 144,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / 无证含糖 / infp / 家长反对党 / 欢迎随时找我聊天~ / 喜欢作词，小说，钢琴和猫猫 / 愿望是和他永远在一起❤️",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1975147988461961561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1052,
+          "like_count": 5887,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1175
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

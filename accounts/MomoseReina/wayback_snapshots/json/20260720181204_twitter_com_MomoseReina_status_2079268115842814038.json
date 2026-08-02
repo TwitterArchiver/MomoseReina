@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2079241406711992394",
+    "created_at": "2026-07-20T18:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079268115842814038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895142421027266562",
+          "start": 0,
+          "username": "rating3pro"
+        },
+        {
+          "end": 28,
+          "id": "1689214483481452544",
+          "start": 12,
+          "username": "ZianTT_Official"
+        },
+        {
+          "end": 42,
+          "id": "1319578357395156993",
+          "start": 29,
+          "username": "yoshino_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079268115842814038",
+    "in_reply_to_user_id": "1895142421027266562",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079256516809601476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating3pro @ZianTT_Official @yoshino_2333 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2079241406711992394",
+        "created_at": "2026-07-20T18:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079268115842814038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895142421027266562",
+              "start": 0,
+              "username": "rating3pro"
+            },
+            {
+              "end": 28,
+              "id": "1689214483481452544",
+              "start": 12,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 42,
+              "id": "1319578357395156993",
+              "start": 29,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079268115842814038",
+        "in_reply_to_user_id": "1895142421027266562",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079256516809601476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating3pro @ZianTT_Official @yoshino_2333 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895142421027266562",
+        "conversation_id": "2079241406711992394",
+        "created_at": "2026-07-20T17:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079256516809601476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 30,
+              "id": "1319578357395156993",
+              "start": 17,
+              "username": "yoshino_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079256516809601476",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079256452620009610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official @yoshino_2333 看看你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 340,
+          "like_count": 9389,
+          "listed_count": 5,
+          "media_count": 433,
+          "tweet_count": 6695
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T16:02:27.000Z",
+        "description": "你好！\n会一点运维和网络工程，Homelab玩家\nGithub：https://t.co/FvavRW85Wq\n不知道是什么：@rating3project",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "rating3project"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/rating3pro",
+                "end": 55,
+                "expanded_url": "http://github.com/rating3pro",
+                "start": 32,
+                "url": "https://t.co/FvavRW85Wq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xie.today",
+                "end": 23,
+                "expanded_url": "https://www.xie.today",
+                "start": 0,
+                "url": "https://t.co/DnJdutCEUJ"
+              }
+            ]
+          }
+        },
+        "id": "1895142421027266562",
+        "name": "rating3pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924650024274952196/BSGXBM2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 361,
+          "like_count": 25344,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 2001
+        },
+        "url": "https://t.co/DnJdutCEUJ",
+        "username": "rating3pro",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 502,
+          "like_count": 2992,
+          "listed_count": 9,
+          "media_count": 227,
+          "tweet_count": 3629
+        },
+        "url": "",
+        "username": "ZianTT_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079004361674612736/h7YYpveH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 697,
+          "like_count": 22159,
+          "listed_count": 5,
+          "media_count": 996,
+          "tweet_count": 14501
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

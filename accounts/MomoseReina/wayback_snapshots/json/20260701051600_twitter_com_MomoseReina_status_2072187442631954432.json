@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2072173744106115561",
+    "created_at": "2026-07-01T05:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072187442631954432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025183590011858944",
+          "start": 0,
+          "username": "Cachetide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072187442631954432",
+    "in_reply_to_user_id": "2025183590011858944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072173744106115561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cachetide xm，我也要吃🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2072173734971199488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHXCHnaUAAPDkU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2072173744106115561",
+        "created_at": "2026-07-01T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072187442631954432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025183590011858944",
+              "start": 0,
+              "username": "Cachetide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072187442631954432",
+        "in_reply_to_user_id": "2025183590011858944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072173744106115561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cachetide xm，我也要吃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072173734971199488"
+          ]
+        },
+        "author_id": "2025183590011858944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072173744106115561",
+        "created_at": "2026-07-01T04:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072173744106115561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHUZuv0oco",
+              "end": 66,
+              "expanded_url": "https://x.com/Cachetide/status/2072173744106115561/photo/1",
+              "media_key": "3_2072173734971199488",
+              "start": 43,
+              "url": "https://t.co/gHUZuv0oco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072173744106115561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天中午在朋友家做的鸡蛋饼和凉拌豆干\n诶不对，昨晚她梦到我变成她妈妈是怎么回事啊喂！ https://t.co/gHUZuv0oco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 338,
+          "like_count": 9066,
+          "listed_count": 6,
+          "media_count": 402,
+          "tweet_count": 6442
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-21T12:19:52.000Z",
+        "description": "抹茶&香芋爱好者w\n美食爱好者\n绝对的吃货\n🦑！",
+        "id": "2025183590011858944",
+        "location": "Neko猫咖",
+        "name": "编汐译梦CacheTide",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055877579517943809/8T-26EAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 45,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "Cachetide",
+        "verified": false
+      }
+    ]
+  }
+}

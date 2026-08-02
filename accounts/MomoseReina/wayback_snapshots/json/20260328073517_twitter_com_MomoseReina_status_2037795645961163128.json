@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2037493020191601140",
+    "created_at": "2026-03-28T07:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037795645961163128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "Canmi21"
+        },
+        {
+          "end": 20,
+          "id": "1552918719440924672",
+          "start": 9,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037795645961163128",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037508710202052906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Canmi21 @itsCatRoll 🐈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2037493020191601140",
+        "created_at": "2026-03-28T07:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037795645961163128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "Canmi21"
+            },
+            {
+              "end": 20,
+              "id": "1552918719440924672",
+              "start": 9,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037795645961163128",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037508710202052906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canmi21 @itsCatRoll 🐈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799009511333830656",
+        "conversation_id": "2037493020191601140",
+        "created_at": "2026-03-27T12:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037508710202052906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037508710202052906",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037493020191601140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 🐈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 322,
+          "like_count": 7142,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4906
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "正在摸鱼中 | ENTP(INFJ?) | CN/EN/JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/canmi21",
+                "end": 23,
+                "expanded_url": "https://github.com/canmi21",
+                "start": 0,
+                "url": "https://t.co/T8jDsQAxmt"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Lost in code",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025283475520323586/Zbhxllol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 152,
+          "like_count": 12177,
+          "listed_count": 16,
+          "media_count": 535,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/T8jDsQAxmt",
+        "username": "Canmi21",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "solo practitioner\n@hobartr6 @_furryfur_ 头像画师@TUTAIiiiii\n小猫卷@astykxs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "hobartr6"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "TUTAIiiiii"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "astykxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷",
+        "pinned_tweet_id": "2036092660185018783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032795972015894532/PilHEyZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3598,
+          "following_count": 851,
+          "like_count": 2983,
+          "listed_count": 7,
+          "media_count": 98,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

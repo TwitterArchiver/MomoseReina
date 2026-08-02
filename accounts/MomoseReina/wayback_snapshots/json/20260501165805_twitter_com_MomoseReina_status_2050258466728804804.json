@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2050185348404461603",
+    "created_at": "2026-05-01T16:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T17:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050258466728804804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012826439356383232",
+          "start": 0,
+          "username": "hoshimiasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050258466728804804",
+    "in_reply_to_user_id": "2012826439356383232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050257716573315429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshimiasa 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2050185348404461603",
+        "created_at": "2026-05-01T16:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050258466728804804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012826439356383232",
+              "start": 0,
+              "username": "hoshimiasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050258466728804804",
+        "in_reply_to_user_id": "2012826439356383232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050257716573315429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshimiasa 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012826439356383232",
+        "conversation_id": "2050185348404461603",
+        "created_at": "2026-05-01T16:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T17:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050257716573315429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            },
+            {
+              "end": 15,
+              "id": "1902568136450424832",
+              "start": 8,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050257716573315429",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050185348404461603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu @aoim33 其实去外地，也是去机厅里玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 335,
+          "like_count": 7919,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 5422
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi     11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师 ‖舞萌内屏w5 外键w0.5玩家     希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "梓鸠phi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044117441543114752/kqYfUnIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 70,
+          "like_count": 1671,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 149
+        },
+        "username": "hoshimiasa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2020576542116761982",
+    "created_at": "2026-02-08T19:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T20:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020576542116761982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BethanyLan5212…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/BethanyLan52126/status/2020520247179071630",
+          "start": 23,
+          "url": "https://t.co/iDBjuoXYaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020576542116761982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020520247179071630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有，在万达广场的机厅里，在打拍拍机，要拼机吗 https://t.co/iDBjuoXYaO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2020576542116761982",
+        "created_at": "2026-02-08T19:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T20:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020576542116761982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BethanyLan5212…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/BethanyLan52126/status/2020520247179071630",
+              "start": 23,
+              "url": "https://t.co/iDBjuoXYaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020576542116761982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020520247179071630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有，在万达广场的机厅里，在打拍拍机，要拼机吗 https://t.co/iDBjuoXYaO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010297677129654272",
+        "conversation_id": "2020444096695771605",
+        "created_at": "2026-02-08T15:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020520247179071630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020520247179071630",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020444096695771605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 有万达广场附近的吗😜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 306,
+          "like_count": 5744,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 4151
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-11T10:28:18.000Z",
+        "description": "已入驻约p平台:👉https://t.co/JKkaDElXyv，只在平台上约，推特绝大部分女主播都入驻的平台，安全可靠，线上约有保障，下载直接搜我名字，日常更新具体位置平台都有显示哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "w6m2.top",
+                "end": 32,
+                "expanded_url": "https://w6m2.top",
+                "start": 9,
+                "url": "https://t.co/JKkaDElXyv"
+              }
+            ]
+          }
+        },
+        "id": "2010297677129654272",
+        "location": "附近2.88km",
+        "name": "肾虚小狗带",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020520533729906688/CLn_m4lU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "BethanyLan52126",
+        "verified": false
+      }
+    ]
+  }
+}

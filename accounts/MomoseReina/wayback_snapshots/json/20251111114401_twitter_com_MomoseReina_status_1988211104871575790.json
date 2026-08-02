@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826466780124262400"
+      ],
+      "media_source_tweet_id": [
+        "1826466782762467678"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1988211104871575790",
+    "created_at": "2025-11-11T11:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T12:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988211104871575790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RFD18kL5j",
+          "end": 102,
+          "expanded_url": "https://x.com/8964_wxd/status/1826466782762467678/photo/1",
+          "media_key": "3_1826466780124262400",
+          "start": 79,
+          "url": "https://t.co/5RFD18kL5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988211104871575790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826466782762467678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: 今天是日向千夏的生日，转发这条消息到5个群，日向千夏会对你发射TiNA-II导弹，我试过了，是假的，但是今天真的是日向千夏的生日 https://t.co/5RFD18kL5j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 212,
+        "media_key": "3_1826466780124262400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVjp3AdbsAASfj5.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826466780124262400"
+          ],
+          "media_source_tweet_id": [
+            "1826466782762467678"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1988211104871575790",
+        "created_at": "2025-11-11T11:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988211104871575790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RFD18kL5j",
+              "end": 102,
+              "expanded_url": "https://x.com/8964_wxd/status/1826466782762467678/photo/1",
+              "media_key": "3_1826466780124262400",
+              "start": 79,
+              "url": "https://t.co/5RFD18kL5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988211104871575790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826466782762467678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_8964: 今天是日向千夏的生日，转发这条消息到5个群，日向千夏会对你发射TiNA-II导弹，我试过了，是假的，但是今天真的是日向千夏的生日 https://t.co/5RFD18kL5j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826466780124262400"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "conversation_id": "1826466782762467678",
+        "created_at": "2024-08-22T03:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T04:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826466782762467678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RFD18kL5j",
+              "end": 88,
+              "expanded_url": "https://x.com/8964_wxd/status/1826466782762467678/photo/1",
+              "media_key": "3_1826466780124262400",
+              "start": 65,
+              "url": "https://t.co/5RFD18kL5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826466782762467678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天是日向千夏的生日，转发这条消息到5个群，日向千夏会对你发射TiNA-II导弹，我试过了，是假的，但是今天真的是日向千夏的生日 https://t.co/5RFD18kL5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 234,
+          "like_count": 1809,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4121,
+          "following_count": 4409,
+          "like_count": 90502,
+          "listed_count": 15,
+          "media_count": 4275,
+          "tweet_count": 12371
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

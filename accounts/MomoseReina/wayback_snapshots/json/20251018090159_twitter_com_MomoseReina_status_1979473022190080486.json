@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979435697565241568",
+    "created_at": "2025-10-18T09:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979473022190080486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830192967120011266",
+          "start": 0,
+          "username": "RikuSakaLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979473022190080486",
+    "in_reply_to_user_id": "1830192967120011266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979443123005854043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuSakaLine (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979435697565241568",
+        "created_at": "2025-10-18T09:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979473022190080486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830192967120011266",
+              "start": 0,
+              "username": "RikuSakaLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979473022190080486",
+        "in_reply_to_user_id": "1830192967120011266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979443123005854043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuSakaLine (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192967120011266",
+        "conversation_id": "1979435697565241568",
+        "created_at": "2025-10-18T07:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979443123005854043"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6499,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979443123005854043",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979435697565241568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 180,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "繁华之下，尽是丑恶｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·EEW系统爱好者｜擅长人文地理·应用地质·地质灾害·观测气象研究｜似理科生｜努力学习中｜高考日语生｜地方主义｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "1971869633751011837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974849521286094848/KjhtbY6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 199,
+          "like_count": 3227,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1408
+        },
+        "username": "RikuSakaLine",
+        "verified": false
+      }
+    ]
+  }
+}

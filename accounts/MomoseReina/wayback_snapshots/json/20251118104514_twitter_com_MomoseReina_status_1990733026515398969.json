@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990424534240079940",
+    "created_at": "2025-11-18T10:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990733026515398969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1298258298630635521",
+          "start": 0,
+          "username": "soulwood233"
+        },
+        {
+          "end": 25,
+          "id": "1552918719440924672",
+          "start": 13,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990733026515398969",
+    "in_reply_to_user_id": "1298258298630635521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990608980604051474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soulwood233 @LumiCatRoll 中转又不是必须得国内，都是国外优化当中转，或者国内入口国外出口专线"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-18T10:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990733026515398969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1298258298630635521",
+              "start": 0,
+              "username": "soulwood233"
+            },
+            {
+              "end": 25,
+              "id": "1552918719440924672",
+              "start": 13,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990733026515398969",
+        "in_reply_to_user_id": "1298258298630635521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990608980604051474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soulwood233 @LumiCatRoll 中转又不是必须得国内，都是国外优化当中转，或者国内入口国外出口专线"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298258298630635521",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-18T02:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990608980604051474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 25,
+              "id": "1552918719440924672",
+              "start": 13,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990608980604051474",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990467183311532532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @LumiCatRoll 中转怎么搞得，国内服务器都好贵的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 234,
+          "like_count": 1938,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1505
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-25T13:58:09.000Z",
+        "description": "男，幻想被调教UWU，叫我小狗\n168/58，2?岁，有在健身，瘦\nSub×bratx4i(no peg(可以考虑，但是不要)可以舔你(⁠ㆁ⁠ω⁠ㆁ⁠))\n最喜欢健康的帅帅壮壮的女生(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)\n不帅的也行(⁠｡⁠ŏ⁠﹏⁠ŏ⁠)\nfurry控(存疑)\n私信给照（长的很普通）\n❗看到我就是喜欢我，快找我聊天❗",
+        "id": "1298258298630635521",
+        "location": "上海",
+        "name": "soulwood233",
+        "pinned_tweet_id": "1940744149713801278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979020163723776000/bX1-B4nR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 1656,
+          "like_count": 1189,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 788
+        },
+        "username": "soulwood233",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "虾仁芹菜馅猫卷 @Dontbesadforit 是香香软软的xyn喵 @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Dontbesadforit"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "HobartR6"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1990369987639525748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987241584170311681/z73T6Iii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 888,
+          "like_count": 1090,
+          "listed_count": 6,
+          "media_count": 27,
+          "tweet_count": 313
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

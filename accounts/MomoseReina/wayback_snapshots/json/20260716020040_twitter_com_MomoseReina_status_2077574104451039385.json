@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077574096511234048",
+        "3_2077574096502902784"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077574104451039385",
+    "created_at": "2026-07-16T02:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T03:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077574104451039385"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qvFhznQamG",
+          "end": 47,
+          "expanded_url": "https://x.com/MomoseReina/status/2077574104451039385/photo/1",
+          "media_key": "3_2077574096511234048",
+          "start": 24,
+          "url": "https://t.co/qvFhznQamG"
+        },
+        {
+          "display_url": "pic.x.com/qvFhznQamG",
+          "end": 47,
+          "expanded_url": "https://x.com/MomoseReina/status/2077574104451039385/photo/1",
+          "media_key": "3_2077574096502902784",
+          "start": 24,
+          "url": "https://t.co/qvFhznQamG"
+        },
+        {
+          "display_url": "x.com/jaciezyt/statu…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/jaciezyt/status/2077256221699322082",
+          "start": 48,
+          "url": "https://t.co/8J94tXQUue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077574104451039385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077256221699322082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实爽炸了！那种极致的亮度和对比度真的太爽了😭 https://t.co/qvFhznQamG https://t.co/8J94tXQUue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077574096511234048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUGoiEa8AAkI2N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2077574096502902784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUGoiCb0AA8eq8.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2077255594621485056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPk9SEbQAASN7J.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1689,
+        "media_key": "3_2077255594583715840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPk9R7a8AAsswq.jpg",
+        "width": 2779
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2077256209766510592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPlhFqbcAA3oIq.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077574096511234048",
+            "3_2077574096502902784"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077574104451039385",
+        "created_at": "2026-07-16T02:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T03:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077574104451039385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qvFhznQamG",
+              "end": 47,
+              "expanded_url": "https://x.com/MomoseReina/status/2077574104451039385/photo/1",
+              "media_key": "3_2077574096511234048",
+              "start": 24,
+              "url": "https://t.co/qvFhznQamG"
+            },
+            {
+              "display_url": "pic.x.com/qvFhznQamG",
+              "end": 47,
+              "expanded_url": "https://x.com/MomoseReina/status/2077574104451039385/photo/1",
+              "media_key": "3_2077574096502902784",
+              "start": 24,
+              "url": "https://t.co/qvFhznQamG"
+            },
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/jaciezyt/status/2077256221699322082",
+              "start": 48,
+              "url": "https://t.co/8J94tXQUue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077574104451039385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077256221699322082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实爽炸了！那种极致的亮度和对比度真的太爽了😭 https://t.co/qvFhznQamG https://t.co/8J94tXQUue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077255594621485056",
+            "3_2077255594583715840",
+            "3_2077256209766510592"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077256221699322082",
+        "created_at": "2026-07-15T04:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:55:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077255609762922711",
+          "2077256221699322082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5iF6hrmv6",
+              "end": 49,
+              "expanded_url": "https://x.com/Jaciezyt/status/2077256221699322082/photo/1",
+              "media_key": "3_2077255594621485056",
+              "start": 26,
+              "url": "https://t.co/v5iF6hrmv6"
+            },
+            {
+              "display_url": "pic.x.com/v5iF6hrmv6",
+              "end": 49,
+              "expanded_url": "https://x.com/Jaciezyt/status/2077256221699322082/photo/1",
+              "media_key": "3_2077255594583715840",
+              "start": 26,
+              "url": "https://t.co/v5iF6hrmv6"
+            },
+            {
+              "display_url": "pic.x.com/v5iF6hrmv6",
+              "end": 49,
+              "expanded_url": "https://x.com/Jaciezyt/status/2077256221699322082/photo/1",
+              "media_key": "3_2077256209766510592",
+              "start": 26,
+              "url": "https://t.co/v5iF6hrmv6"
+            },
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2077013277897597069",
+              "start": 50,
+              "url": "https://t.co/8dlwqa0zJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077256221699322082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5418,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077013277897597069",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "加钱上 XDR 就是为了爽\n虽然大部分时间都用不到 https://t.co/v5iF6hrmv6 https://t.co/8dlwqa0zJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 337,
+          "like_count": 9305,
+          "listed_count": 6,
+          "media_count": 428,
+          "tweet_count": 6636
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 JK刚刚退役😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 111,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 964,
+          "like_count": 65628,
+          "listed_count": 11,
+          "media_count": 1434,
+          "tweet_count": 16548
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true
+      }
+    ]
+  }
+}

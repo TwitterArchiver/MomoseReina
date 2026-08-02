@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1994697732511207715",
+    "created_at": "2025-11-29T09:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994701671709249747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629688098505510912",
+          "start": 0,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994701671709249747",
+    "in_reply_to_user_id": "1629688098505510912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994701090559070497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknow_CVC 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1994697732511207715",
+        "created_at": "2025-11-29T09:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994701671709249747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629688098505510912",
+              "start": 0,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994701671709249747",
+        "in_reply_to_user_id": "1629688098505510912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994701090559070497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknow_CVC 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629688098505510912",
+        "conversation_id": "1994697732511207715",
+        "created_at": "2025-11-29T09:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994701090559070497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994701090559070497",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994700699410862501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 其实是医生下达的运动要求😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 259,
+          "like_count": 2541,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1951
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9dLjU"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級のCenVCee🍤",
+        "pinned_tweet_id": "1947612288292114903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1487,
+          "like_count": 22904,
+          "listed_count": 2,
+          "media_count": 1994,
+          "tweet_count": 15165
+        },
+        "url": "https://t.co/3dxIv9dLjU",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

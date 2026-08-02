@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1993402705596006769",
+    "created_at": "2025-11-27T12:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994017302925508796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "257720269",
+          "start": 0,
+          "username": "ever1309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994017302925508796",
+    "in_reply_to_user_id": "257720269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994016420016082978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ever1309 要开会员\n如果开了会员，哪家不能在线看剧啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1993402705596006769",
+        "created_at": "2025-11-27T12:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994017302925508796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "257720269",
+              "start": 0,
+              "username": "ever1309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994017302925508796",
+        "in_reply_to_user_id": "257720269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994016420016082978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ever1309 要开会员\n如果开了会员，哪家不能在线看剧啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "257720269",
+        "conversation_id": "1993402705596006769",
+        "created_at": "2025-11-27T12:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994016420016082978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994016420016082978",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993402705596006769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 其他我不知道，但夸克的客户端可以直接看网盘内的超清影视剧，既不需要先把完整视频下载到本地，也不走网页所以不占用梯子流量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 255,
+          "like_count": 2452,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1877
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-26T01:22:34.000Z",
+        "description": "Living in past.",
+        "id": "257720269",
+        "name": "Yun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481750122/_______normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 5980,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 5361
+        },
+        "username": "ever1309",
+        "verified": false
+      }
+    ]
+  }
+}

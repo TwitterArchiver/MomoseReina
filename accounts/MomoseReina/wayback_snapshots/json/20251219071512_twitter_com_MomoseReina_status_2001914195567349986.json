@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2001909425800642913",
+    "created_at": "2025-12-19T07:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T08:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001914195567349986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982386432573591552",
+          "start": 0,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001914195567349986",
+    "in_reply_to_user_id": "1982386432573591552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001909425800642913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynNanaNya 咱也想🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2001909425800642913",
+        "created_at": "2025-12-19T07:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T08:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001914195567349986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982386432573591552",
+              "start": 0,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001914195567349986",
+        "in_reply_to_user_id": "1982386432573591552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001909425800642913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynNanaNya 咱也想🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982386432573591552",
+        "conversation_id": "2001909425800642913",
+        "created_at": "2025-12-19T06:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001909425800642913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001909425800642913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃几把🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 274,
+          "like_count": 3411,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄1年的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 妈妈@DianaAnya0 // 想要主人，想被永远的囚禁起来 //",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 70,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 35,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974486645295718557",
+    "created_at": "2025-10-06T13:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T14:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975194701658742980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1877920276316585984",
+          "start": 0,
+          "username": "CelestialSayuki"
+        },
+        {
+          "end": 24,
+          "id": "1676228046247038976",
+          "start": 17,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975194701658742980",
+    "in_reply_to_user_id": "1877920276316585984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974529166512107550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CelestialSayuki @ElP15_ 咱也想要qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974486645295718557",
+        "created_at": "2025-10-06T13:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975194701658742980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1877920276316585984",
+              "start": 0,
+              "username": "CelestialSayuki"
+            },
+            {
+              "end": 24,
+              "id": "1676228046247038976",
+              "start": 17,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975194701658742980",
+        "in_reply_to_user_id": "1877920276316585984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974529166512107550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CelestialSayuki @ElP15_ 咱也想要qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877920276316585984",
+        "conversation_id": "1974486645295718557",
+        "created_at": "2025-10-04T17:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974529166512107550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974529166512107550",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974525462111248789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 没有喵！QuQ\n泥要是真想舔，也不是不可以（目移"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 59,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T03:27:49.000Z",
+        "description": "19岁 | 摆烂大学生 | UESTC | Arcaea | https://t.co/VMTivG91k7 维护者 | 想找对象 | 发些日常 | 想和大家做朋友❤️ | 无🍥不术mtf (心理上可能是)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 54,
+                "expanded_url": "http://infodrop.cn",
+                "start": 31,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "infodrop.cn",
+                "end": 23,
+                "expanded_url": "http://infodrop.cn",
+                "start": 0,
+                "url": "https://t.co/VMTivG91k7"
+              }
+            ]
+          }
+        },
+        "id": "1877920276316585984",
+        "location": " Celestial Ethereal Labs",
+        "name": "Celestial紗雪",
+        "pinned_tweet_id": "1973418421938532376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879836377480900608/zKNfkNH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 64,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 1357
+        },
+        "url": "https://t.co/VMTivG91k7",
+        "username": "CelestialSayuki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "cn鸢安（0_an）/高一/maimai/chunithm/鸣潮/喵斯/phigros/cytoid/o!m 4k/cs(完美&官匹)/友跨/成分正常的都会回\nfo/好朋友@Quitewaterqwq | @Allknowbody2 /最喜欢的姐姐@FusiKayoko/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 86,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "FusiKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975093401365442560/KysMdOiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1271,
+          "like_count": 33189,
+          "listed_count": 5,
+          "media_count": 341,
+          "tweet_count": 10455
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

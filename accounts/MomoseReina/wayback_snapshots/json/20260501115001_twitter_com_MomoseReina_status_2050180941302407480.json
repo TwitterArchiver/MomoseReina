@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2049838732925337979",
+    "created_at": "2026-05-01T11:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050180941302407480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        },
+        {
+          "end": 24,
+          "id": "1356514988223918080",
+          "start": 11,
+          "username": "StarrySkyOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050180941302407480",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050070766386139552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@MengXi969 @StarrySkyOvO 跟你的亚朵金会员过去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2049838732925337979",
+        "created_at": "2026-05-01T11:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050180941302407480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 24,
+              "id": "1356514988223918080",
+              "start": 11,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050180941302407480",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050070766386139552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@MengXi969 @StarrySkyOvO 跟你的亚朵金会员过去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "2049838732925337979",
+        "created_at": "2026-05-01T04:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050070766386139552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356514988223918080",
+              "start": 0,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050070766386139552",
+        "in_reply_to_user_id": "1356514988223918080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049838732925337979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@StarrySkyOvO 我日常去住亚朵轻居（4 号线旁边的） 200 一晚（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 335,
+          "like_count": 7913,
+          "listed_count": 4,
+          "media_count": 314,
+          "tweet_count": 5417
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2217,
+          "following_count": 3043,
+          "like_count": 89668,
+          "listed_count": 5,
+          "media_count": 1081,
+          "tweet_count": 6370
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-02T08:09:33.000Z",
+        "description": " EN/漢語/日本語 INFP-T Dev. 💻+📷微单+🎧重度发烧友 05后 友🏳️‍🌈 常驻武汉 接场照正片📷接旅拍私房 逃生舱@StarrySkyUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "StarrySkyUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySkyOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySkyOvO",
+                "start": 0,
+                "url": "https://t.co/qZoRN6mwUP"
+              }
+            ]
+          }
+        },
+        "id": "1356514988223918080",
+        "location": "🚪0 欢迎扩列",
+        "name": "StarrySky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005986133562605569/Z0ysuDeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 3433,
+          "like_count": 86999,
+          "listed_count": 29,
+          "media_count": 2390,
+          "tweet_count": 22057
+        },
+        "url": "https://t.co/qZoRN6mwUP",
+        "username": "StarrySkyOvO",
+        "verified": true
+      }
+    ]
+  }
+}

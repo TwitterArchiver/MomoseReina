@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2053479265472295220",
+    "created_at": "2026-05-11T00:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T01:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053638506543800691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Chise_wo"
+        },
+        {
+          "end": 22,
+          "id": "1942218528100134912",
+          "start": 10,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053638506543800691",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053637983577027068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chise_wo @youling_qaq 翻！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2053479265472295220",
+        "created_at": "2026-05-11T00:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053638506543800691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Chise_wo"
+            },
+            {
+              "end": 22,
+              "id": "1942218528100134912",
+              "start": 10,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053638506543800691",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053637983577027068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chise_wo @youling_qaq 翻！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "2053479265472295220",
+        "created_at": "2026-05-11T00:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T01:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053637983577027068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 25,
+              "id": "1942218528100134912",
+              "start": 13,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053637983577027068",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053636952512143562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @youling_qaq 啊呜我就算翻车了也不是年龄党欸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 334,
+          "like_count": 8065,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 5555
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 永远爱自己♥️ | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "location": "Address",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050128439362166784/ceUDKMYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 1390,
+          "like_count": 29072,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 7062
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Chise_wo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "14岁初二生 低龄傻福推u  2*/2/2012\nmtf🍥hrt:26.3.30\n平时想发啥发啥\n家暴党 年龄党\n不谈论政治\n成分复杂，部分帖子带有玩梗性质（求求你们别骂了😭😭😭）\n随机互fo（私信也行）\n坐标hncs\n（taffy唐笑.mp3）\n（想开我就直说）\n\n私信慢回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basibatuoooooo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basibatuoooooo",
+                "start": 0,
+                "url": "https://t.co/4lMrqR4lwO"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "有在万达广场附近的吗",
+        "name": "basibatuo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 939,
+          "like_count": 1698,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/4lMrqR4lwO",
+        "username": "youling_qaq",
+        "verified": true
+      }
+    ]
+  }
+}

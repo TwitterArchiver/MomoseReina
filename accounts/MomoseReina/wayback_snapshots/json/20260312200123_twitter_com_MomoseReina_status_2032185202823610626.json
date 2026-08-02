@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2031740716175782188",
+    "created_at": "2026-03-12T20:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032185202823610626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1384487248184320002",
+          "start": 0,
+          "username": "chqx_15"
+        },
+        {
+          "end": 22,
+          "id": "1769078117052854272",
+          "start": 9,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 28,
+          "id": "1720665183188922368",
+          "start": 23,
+          "username": "grok"
+        },
+        {
+          "end": 34,
+          "id": "1720665183188922368",
+          "start": 29,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032185202823610626",
+    "in_reply_to_user_id": "1384487248184320002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031740716175782188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chqx_15 @huahuojiang_ @grok @grok 你怎么看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2031740716175782188",
+        "created_at": "2026-03-12T20:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032185202823610626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1384487248184320002",
+              "start": 0,
+              "username": "chqx_15"
+            },
+            {
+              "end": 22,
+              "id": "1769078117052854272",
+              "start": 9,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            },
+            {
+              "end": 34,
+              "id": "1720665183188922368",
+              "start": 29,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032185202823610626",
+        "in_reply_to_user_id": "1384487248184320002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031740716175782188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chqx_15 @huahuojiang_ @grok @grok 你怎么看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384487248184320002",
+        "conversation_id": "2031740716175782188",
+        "created_at": "2026-03-11T14:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031740716175782188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1720665183188922368",
+              "start": 6,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031740716175782188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 39724,
+          "like_count": 99,
+          "quote_count": 4,
+          "reply_count": 38,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "现在只有会员@grok 他才会回答问题了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 313,
+          "like_count": 6781,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 4708
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-20T12:41:03.000Z",
+        "description": "愿此行，终抵群星 | 生活号 @chsx_15 | © 原创头像，请勿使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "chsx_15"
+              }
+            ]
+          }
+        },
+        "id": "1384487248184320002",
+        "location": "🥥大椰子理工大学图书馆",
+        "name": "萤草 Йнцо ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964146124295671808/xrr-qOoZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15602,
+          "following_count": 1097,
+          "like_count": 11952,
+          "listed_count": 32,
+          "media_count": 3280,
+          "tweet_count": 35658
+        },
+        "username": "chqx_15",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2031764184460063217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6946,
+          "following_count": 3585,
+          "like_count": 98358,
+          "listed_count": 18,
+          "media_count": 6811,
+          "tweet_count": 89829
+        },
+        "username": "huahuojiang_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8393558,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6495,
+          "media_count": 8634823,
+          "tweet_count": 116837288
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

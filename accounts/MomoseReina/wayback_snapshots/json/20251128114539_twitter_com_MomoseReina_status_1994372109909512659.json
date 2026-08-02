@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1994372109909512659",
+    "created_at": "2025-11-28T11:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994372109909512659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982386432573591552",
+          "start": 3,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994372109909512659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994306269709025712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XynNanaNya: 如果现实世界也能存档就好了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1994372109909512659",
+        "created_at": "2025-11-28T11:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994372109909512659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1982386432573591552",
+              "start": 3,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994372109909512659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994306269709025712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XynNanaNya: 如果现实世界也能存档就好了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982386432573591552",
+        "conversation_id": "1994306269709025712",
+        "created_at": "2025-11-28T07:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994306269709025712"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994306269709025712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "如果现实世界也能存档就好了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 257,
+          "like_count": 2505,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄52周的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 最烦人的姐姐@DianaAnya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 32,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 160
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": true
+      }
+    ]
+  }
+}

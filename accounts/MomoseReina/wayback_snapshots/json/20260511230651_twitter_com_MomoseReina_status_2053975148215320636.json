@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2053495585853034892",
+    "created_at": "2026-05-11T23:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053975148215320636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1264697772021706752",
+          "start": 0,
+          "username": "waterhydroxyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053975148215320636",
+    "in_reply_to_user_id": "1264697772021706752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053695285373890810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@waterhydroxyl 上链接！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053695270882525184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAw98naQAAZu4r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2053495585853034892",
+        "created_at": "2026-05-11T23:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053975148215320636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1264697772021706752",
+              "start": 0,
+              "username": "waterhydroxyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053975148215320636",
+        "in_reply_to_user_id": "1264697772021706752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053695285373890810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@waterhydroxyl 上链接！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053695270882525184"
+          ]
+        },
+        "author_id": "1264697772021706752",
+        "conversation_id": "2053495585853034892",
+        "created_at": "2026-05-11T04:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053695285373890810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTQecXzB6J",
+              "end": 32,
+              "expanded_url": "https://x.com/waterhydroxyl/status/2053695285373890810/photo/1",
+              "media_key": "3_2053695270882525184",
+              "start": 9,
+              "url": "https://t.co/PTQecXzB6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053695285373890810",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2445,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053495585853034892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@acnekot https://t.co/PTQecXzB6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 336,
+          "like_count": 8078,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 5564
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-24T23:20:36.000Z",
+        "description": "fine",
+        "id": "1264697772021706752",
+        "name": "望穿秋水的氢氧根",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538897160439500800/WnIuwbyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 112,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 74
+        },
+        "username": "waterhydroxyl",
+        "verified": false
+      }
+    ]
+  }
+}

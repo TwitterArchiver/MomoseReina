@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1985317300023771453",
+    "created_at": "2025-11-04T03:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985553991825310062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297736984186757121",
+          "start": 0,
+          "username": "Luka9637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985553991825310062",
+    "in_reply_to_user_id": "1297736984186757121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985317300023771453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luka9637 大神降临😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985317291630940160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41Djt4aUAAUNTg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985317296202805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41Dj-6bcAAznBk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985317292012666880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41DjvTbAAAyhSf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985317296534151168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41DkAJbYAA3hNx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1985317300023771453",
+        "created_at": "2025-11-04T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985553991825310062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297736984186757121",
+              "start": 0,
+              "username": "Luka9637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985553991825310062",
+        "in_reply_to_user_id": "1297736984186757121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985317300023771453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luka9637 大神降临😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985317291630940160",
+            "3_1985317296202805248",
+            "3_1985317292012666880",
+            "3_1985317296534151168"
+          ]
+        },
+        "author_id": "1297736984186757121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985317300023771453",
+        "created_at": "2025-11-03T12:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985317300023771453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kv0SjppDwk",
+              "end": 33,
+              "expanded_url": "https://x.com/Luka9637/status/1985317300023771453/photo/1",
+              "media_key": "3_1985317291630940160",
+              "start": 10,
+              "url": "https://t.co/kv0SjppDwk"
+            },
+            {
+              "display_url": "pic.x.com/kv0SjppDwk",
+              "end": 33,
+              "expanded_url": "https://x.com/Luka9637/status/1985317300023771453/photo/1",
+              "media_key": "3_1985317296202805248",
+              "start": 10,
+              "url": "https://t.co/kv0SjppDwk"
+            },
+            {
+              "display_url": "pic.x.com/kv0SjppDwk",
+              "end": 33,
+              "expanded_url": "https://x.com/Luka9637/status/1985317300023771453/photo/1",
+              "media_key": "3_1985317292012666880",
+              "start": 10,
+              "url": "https://t.co/kv0SjppDwk"
+            },
+            {
+              "display_url": "pic.x.com/kv0SjppDwk",
+              "end": 33,
+              "expanded_url": "https://x.com/Luka9637/status/1985317300023771453/photo/1",
+              "media_key": "3_1985317296534151168",
+              "start": 10,
+              "url": "https://t.co/kv0SjppDwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985317300023771453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日舞萌\n我好厉害 https://t.co/kv0SjppDwk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 224,
+          "like_count": 1650,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-24T03:26:35.000Z",
+        "description": "If the surrounding is a luminous color, my existence might be thin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/luka9637",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/luka9637",
+                "start": 0,
+                "url": "https://t.co/FYQ9gVCkiV"
+              }
+            ]
+          }
+        },
+        "id": "1297736984186757121",
+        "location": "任何地方",
+        "name": "Luka",
+        "pinned_tweet_id": "1981077292295344191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919019167367221248/p5CwNPRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 203,
+          "like_count": 4572,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/FYQ9gVCkiV",
+        "username": "Luka9637",
+        "verified": false
+      }
+    ]
+  }
+}

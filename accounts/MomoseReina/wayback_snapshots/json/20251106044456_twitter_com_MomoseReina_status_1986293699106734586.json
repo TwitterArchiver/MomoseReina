@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1986260040827941055",
+    "created_at": "2025-11-06T04:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986293699106734586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632336255823519744",
+          "start": 0,
+          "username": "y2Kstar___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986293699106734586",
+    "in_reply_to_user_id": "1632336255823519744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986260040827941055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2Kstar___ 真正的好梯子，从应用商店是下不到的(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)\n最好用那些开源的客户端+公有协议"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986260034247163904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Cc-jzbgAA3c-5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1986260040827941055",
+        "created_at": "2025-11-06T04:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986293699106734586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "y2Kstar___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986293699106734586",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986260040827941055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2Kstar___ 真正的好梯子，从应用商店是下不到的(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)\n最好用那些开源的客户端+公有协议"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986260034247163904"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1986260040827941055",
+        "created_at": "2025-11-06T02:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986260040827941055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cgyrvi4Gdc",
+              "end": 32,
+              "expanded_url": "https://x.com/y2Kstar___/status/1986260040827941055/photo/1",
+              "media_key": "3_1986260034247163904",
+              "start": 9,
+              "url": "https://t.co/Cgyrvi4Gdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986260040827941055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个梯子怎么样🤔 https://t.co/Cgyrvi4Gdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 1707,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1287
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "🐡🐡🐡🐡🐡🐡",
+        "id": "1632336255823519744",
+        "name": "y2Kstar",
+        "pinned_tweet_id": "1984833282329231389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977994751371890688/kIfsCgbl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 274,
+          "like_count": 320,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 240
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

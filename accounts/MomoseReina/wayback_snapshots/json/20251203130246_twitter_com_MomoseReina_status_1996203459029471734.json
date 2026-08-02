@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996184470735733235",
+    "created_at": "2025-12-03T13:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996203459029471734"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "大神降",
+          "probability": 0.4212,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996203459029471734",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996184470735733235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA 大神降临~🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996184445360201728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PfLUPa4AADYZM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996184445339230208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7PfLUKa4AARBHz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996184470735733235",
+        "created_at": "2025-12-03T13:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996203459029471734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "大神降",
+              "probability": 0.4212,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996203459029471734",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996184470735733235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA 大神降临~🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996184445360201728",
+            "3_1996184445339230208"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996184470735733235",
+        "created_at": "2025-12-03T11:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996184470735733235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOx4houTkW",
+              "end": 28,
+              "expanded_url": "https://x.com/57crz3oA/status/1996184470735733235/photo/1",
+              "media_key": "3_1996184445360201728",
+              "start": 5,
+              "url": "https://t.co/ZOx4houTkW"
+            },
+            {
+              "display_url": "pic.x.com/ZOx4houTkW",
+              "end": 28,
+              "expanded_url": "https://x.com/57crz3oA/status/1996184470735733235/photo/1",
+              "media_key": "3_1996184445339230208",
+              "start": 5,
+              "url": "https://t.co/ZOx4houTkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996184470735733235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "w2确认 https://t.co/ZOx4houTkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 264,
+          "like_count": 2671,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "ad astra per aspera",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stcr2304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stcr2304",
+                "start": 0,
+                "url": "https://t.co/u1lxDXQeX0"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "name": "s2R2304",
+        "pinned_tweet_id": "1931931078182547903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935336561887076352/EYsfHVDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1169,
+          "like_count": 55469,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 2835
+        },
+        "url": "https://t.co/u1lxDXQeX0",
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993705698686009344"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993677334675853665",
+    "created_at": "2025-11-26T15:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993705701580103974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5LOsTx7bP",
+          "end": 71,
+          "expanded_url": "https://x.com/MomoseReina/status/1993705701580103974/photo/1",
+          "media_key": "3_1993705698686009344",
+          "start": 48,
+          "url": "https://t.co/L5LOsTx7bP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993705701580103974",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993677334675853665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu 咱这边的，千万别周末去啊，人太多\n咱都是挑工作日，有时候能霸一个下午机呢😋 https://t.co/L5LOsTx7bP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993705698686009344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sQxRTaAAAVxeC.jpg",
+        "width": 989
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993677328627679232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6r296maQAAVA-x.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993705698686009344"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993677334675853665",
+        "created_at": "2025-11-26T15:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993705701580103974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5LOsTx7bP",
+              "end": 71,
+              "expanded_url": "https://x.com/MomoseReina/status/1993705701580103974/photo/1",
+              "media_key": "3_1993705698686009344",
+              "start": 48,
+              "url": "https://t.co/L5LOsTx7bP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993705701580103974",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993677334675853665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 咱这边的，千万别周末去啊，人太多\n咱都是挑工作日，有时候能霸一个下午机呢😋 https://t.co/L5LOsTx7bP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993677328627679232"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1993677334675853665",
+        "created_at": "2025-11-26T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993677334675853665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/utIIVuNT90",
+              "end": 97,
+              "expanded_url": "https://x.com/AcboxLiu/status/1993677334675853665/photo/1",
+              "media_key": "3_1993677328627679232",
+              "start": 74,
+              "url": "https://t.co/utIIVuNT90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993677334675853665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去广州雁窝玩了\n厂内两台mai一台中二，打累了还可以去玩日麻，呆了两个小时25块钱\n可惜今天时间比较赶，不然找个周末来坐一天还是很舒适惬意的🥰 https://t.co/utIIVuNT90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 249,
+          "like_count": 2389,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1823
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChatTutor/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1991551177834819860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9536,
+          "following_count": 2987,
+          "like_count": 2916,
+          "listed_count": 35,
+          "media_count": 1144,
+          "tweet_count": 5811
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

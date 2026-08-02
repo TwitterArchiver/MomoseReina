@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982794144570363904"
+      ],
+      "media_source_tweet_id": [
+        "1982794154233987550"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983567657271210367",
+    "created_at": "2025-10-29T16:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T17:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983567657271210367"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 15,
+          "tag": "顔だけで何リポスト来るか"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1104269354596593664",
+          "start": 3,
+          "username": "Lida_2617"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/77nx0mQnJO",
+          "end": 52,
+          "expanded_url": "https://x.com/Lida_2617/status/1982794154233987550/photo/1",
+          "media_key": "3_1982794144570363904",
+          "start": 29,
+          "url": "https://t.co/77nx0mQnJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983567657271210367",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982794154233987550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lida_2617: #顔だけで何リポスト来るか https://t.co/77nx0mQnJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1982794144570363904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4RMxOnXUAAjzD9.jpg",
+        "width": 1521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982794144570363904"
+          ],
+          "media_source_tweet_id": [
+            "1982794154233987550"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983567657271210367",
+        "created_at": "2025-10-29T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983567657271210367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 15,
+              "tag": "顔だけで何リポスト来るか"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1104269354596593664",
+              "start": 3,
+              "username": "Lida_2617"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77nx0mQnJO",
+              "end": 52,
+              "expanded_url": "https://x.com/Lida_2617/status/1982794154233987550/photo/1",
+              "media_key": "3_1982794144570363904",
+              "start": 29,
+              "url": "https://t.co/77nx0mQnJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983567657271210367",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982794154233987550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lida_2617: #顔だけで何リポスト来るか https://t.co/77nx0mQnJO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982794144570363904"
+          ]
+        },
+        "author_id": "1104269354596593664",
+        "conversation_id": "1982794154233987550",
+        "created_at": "2025-10-27T12:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982794154233987550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "顔だけで何リポスト来るか"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/77nx0mQnJO",
+              "end": 37,
+              "expanded_url": "https://x.com/Lida_2617/status/1982794154233987550/photo/1",
+              "media_key": "3_1982794144570363904",
+              "start": 14,
+              "url": "https://t.co/77nx0mQnJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982794154233987550",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 46491,
+          "like_count": 2522,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "#顔だけで何リポスト来るか https://t.co/77nx0mQnJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 206,
+          "like_count": 1432,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-09T06:35:05.000Z",
+        "description": "Illustrator／【KALPA】ジャケット／お仕事募集中です(最短12月下旬納期）HP→ https://t.co/ROXZ5UuX2B ◾︎mail→Lida2617A@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lida2617.wixsite.com/mysite",
+                "end": 71,
+                "expanded_url": "https://lida2617.wixsite.com/mysite",
+                "start": 48,
+                "url": "https://t.co/ROXZ5UuX2B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Lida",
+                "end": 23,
+                "expanded_url": "https://lit.link/Lida",
+                "start": 0,
+                "url": "https://t.co/lpn4GHDIz9"
+              }
+            ]
+          }
+        },
+        "id": "1104269354596593664",
+        "location": "ご依頼はDMまたはメールまでお願いいたします🙇‍♀️",
+        "name": "蒼流リダ🎐",
+        "pinned_tweet_id": "1971517460374499639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942148466920345600/4_xtJATc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14197,
+          "following_count": 1979,
+          "like_count": 73565,
+          "listed_count": 134,
+          "media_count": 3861,
+          "tweet_count": 22351
+        },
+        "url": "https://t.co/lpn4GHDIz9",
+        "username": "Lida_2617",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2011723403284336808",
+    "created_at": "2026-01-15T11:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T12:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011768522108809491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982692566715027456",
+          "start": 0,
+          "username": "MaxWsl374246"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011768522108809491",
+    "in_reply_to_user_id": "1982692566715027456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011750546508824701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MaxWsl374246 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2011723403284336808",
+        "created_at": "2026-01-15T11:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T12:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011768522108809491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982692566715027456",
+              "start": 0,
+              "username": "MaxWsl374246"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011768522108809491",
+        "in_reply_to_user_id": "1982692566715027456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011750546508824701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxWsl374246 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982692566715027456",
+        "conversation_id": "2011723403284336808",
+        "created_at": "2026-01-15T10:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T11:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011750546508824701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011750546508824701",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011723403284336808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 橘55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 291,
+          "like_count": 4648,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-27T06:16:49.000Z",
+        "description": "09年5月/180+死亡东京塔+石墩子🤐/🎭/脑子里貌似有好几个人在开应怕😈🔪😖💊😆⏰️😔🪦😶💤/MTF/HRT25.11.6🍥/₍˄·͈༝·͈˄₎◞ ̑̑同类互fo！/OD（在戒了👿）/有时自残/ 逆天劳保生物跌离我远点  (;﹏;)/已退学/终于可以留头发了！😇",
+        "id": "1982692566715027456",
+        "name": "ChibaMax🍥😶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009905820062932992/5Q94aU2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 283,
+          "like_count": 8689,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1069
+        },
+        "username": "MaxWsl374246",
+        "verified": false
+      }
+    ]
+  }
+}

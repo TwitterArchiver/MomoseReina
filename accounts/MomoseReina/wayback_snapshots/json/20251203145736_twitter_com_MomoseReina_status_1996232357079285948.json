@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996232349626040320"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1995763907772797344",
+    "created_at": "2025-12-03T14:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996232357079285948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875115728166342656",
+          "start": 0,
+          "username": "3253212MCZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFf3zt2aRB",
+          "end": 40,
+          "expanded_url": "https://x.com/MomoseReina/status/1996232357079285948/photo/1",
+          "media_key": "3_1996232349626040320",
+          "start": 17,
+          "url": "https://t.co/pFf3zt2aRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996232357079285948",
+    "in_reply_to_user_id": "1875115728166342656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995763907772797344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3253212MCZ xm似了 https://t.co/pFf3zt2aRB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1996232349626040320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QKvtiagAAymX3.jpg",
+        "width": 512
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995763061739978758",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Jf7j7bgAYeieY.jpg",
+        "width": 1151
+      },
+      {
+        "height": 2460,
+        "media_key": "3_1995763842593554434",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JgpA1bgAI_g2X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996232349626040320"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1995763907772797344",
+        "created_at": "2025-12-03T14:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996232357079285948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFf3zt2aRB",
+              "end": 40,
+              "expanded_url": "https://x.com/MomoseReina/status/1996232357079285948/photo/1",
+              "media_key": "3_1996232349626040320",
+              "start": 17,
+              "url": "https://t.co/pFf3zt2aRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996232357079285948",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995763907772797344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ xm似了 https://t.co/pFf3zt2aRB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995763061739978758",
+            "3_1995763842593554434"
+          ]
+        },
+        "author_id": "1875115728166342656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995763907772797344",
+        "created_at": "2025-12-02T07:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995763907772797344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jK2N2uukdR",
+              "end": 149,
+              "expanded_url": "https://x.com/3253212MCZ/status/1995763907772797344/photo/1",
+              "media_key": "3_1995763061739978758",
+              "start": 126,
+              "url": "https://t.co/jK2N2uukdR"
+            },
+            {
+              "display_url": "pic.x.com/jK2N2uukdR",
+              "end": 149,
+              "expanded_url": "https://x.com/3253212MCZ/status/1995763907772797344/photo/1",
+              "media_key": "3_1995763842593554434",
+              "start": 126,
+              "url": "https://t.co/jK2N2uukdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995763907772797344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10368,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老公真的把我宠的很好！\n从来不会嫌弃我体弱多病，每次生病感觉比我都难受😭\n遇见他以后才明白，我也值得被宠爱，我也可以成为被捧在手心里的公主☺️\n那就让我在未来的路上坚定不移的陪伴老公，成为老公最忠诚最温柔的妻子吧❤️\n遇见你，是我这辈子最幸福的事❤️ https://t.co/jK2N2uukdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 266,
+          "like_count": 2695,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜！ | 178cm超大只 | ❤️‍🩹抑郁症自愈者 |🍬已断糖| MIKU重度依赖 |❤️最最爱的公主大人@xiaogudu423「共享账号中～」 | 💌努力互fo |❤️‍🔥分享欲旺 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "xiaogudu423"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天漫步中～",
+        "name": "零落孤潮＆雨泠🏳️‍⚧️",
+        "pinned_tweet_id": "1984571565917552657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981215826695864320/R2lI5jqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 934,
+          "like_count": 5186,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3599
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

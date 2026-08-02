@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974855972071072050",
+    "created_at": "2025-10-05T15:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974857248091557995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "kagura_yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974857248091557995",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974855972071072050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagura_yukikaze 雪风姐姐好厉害awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1974855965028802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2gZCXYaYAAilPX.jpg",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974855972071072050",
+        "created_at": "2025-10-05T15:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974857248091557995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "kagura_yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974857248091557995",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974855972071072050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagura_yukikaze 雪风姐姐好厉害awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974855965028802560"
+          ]
+        },
+        "author_id": "1565981667746914304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974855972071072050",
+        "created_at": "2025-10-05T15:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974855972071072050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/brGv9CZteO",
+              "end": 31,
+              "expanded_url": "https://x.com/kagura_yukikaze/status/1974855972071072050/photo/1",
+              "media_key": "3_1974855965028802560",
+              "start": 8,
+              "url": "https://t.co/brGv9CZteO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974855972071072050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吗哇路领域大神 https://t.co/brGv9CZteO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 37,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 71
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "Here is kagura yukikaze |MTF🏳️‍⚧️Femboy🍥 16 years old|A student |want to be friends with everyone! |en/cn/jp(a little)| ここは日常しかないよ",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥推友寻回中",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970155325631418368/b5_M38dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1439,
+          "like_count": 60797,
+          "listed_count": 3,
+          "media_count": 507,
+          "tweet_count": 6824
+        },
+        "username": "kagura_yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980308345333460997"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1980287877369205111",
+    "created_at": "2025-10-20T16:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T17:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980308347732754923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 31,
+          "id": "1847835560175685635",
+          "start": 16,
+          "username": "OPPOFANS114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vtGFMyJKHW",
+          "end": 70,
+          "expanded_url": "https://x.com/MomoseReina/status/1980308347732754923/photo/1",
+          "media_key": "3_1980308345333460997",
+          "start": 47,
+          "url": "https://t.co/vtGFMyJKHW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980308347732754923",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980288164070904269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @OPPOFANS114514 拾柒就天天乱草吧，迟早草似你 https://t.co/vtGFMyJKHW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_1980308345333460997",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3t38q1XsAUNX-P.jpg",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980308345333460997"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1980287877369205111",
+        "created_at": "2025-10-20T16:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T17:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980308347732754923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 31,
+              "id": "1847835560175685635",
+              "start": 16,
+              "username": "OPPOFANS114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vtGFMyJKHW",
+              "end": 70,
+              "expanded_url": "https://x.com/MomoseReina/status/1980308347732754923/photo/1",
+              "media_key": "3_1980308345333460997",
+              "start": 47,
+              "url": "https://t.co/vtGFMyJKHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980308347732754923",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980288164070904269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @OPPOFANS114514 拾柒就天天乱草吧，迟早草似你 https://t.co/vtGFMyJKHW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "1980287877369205111",
+        "created_at": "2025-10-20T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980288164070904269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980288164070904269",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980287877369205111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 需要被我草一下♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 191,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 909
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka｜目前可能是发情期（？）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961690372398354433/Ulif6df4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 1059,
+          "like_count": 29586,
+          "listed_count": 5,
+          "media_count": 1050,
+          "tweet_count": 16068
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "OPPO粉的推特账号,发些日常,不会安慰人(｡í _ ì｡)丨偶尔会emo,请忽略,我也有情绪(；ω；)丨如果哪天突然消失了,就是VPN炸了(つд⊂)丨会互fo哦੭ ᐕ)੭*⁾⁾丨可以叫我OPPO粉,OPPOFANS,OPPO酱,粉猫猫,小粉,饭饭丨成分就是天天开心(*๓´╰╯`๓)♡丨INFP丨颜文字万岁喵(／ω＼)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949868551441195008/00dhN88I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 1586,
+          "like_count": 12250,
+          "listed_count": 8,
+          "media_count": 378,
+          "tweet_count": 13016
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

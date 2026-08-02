@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2049835761189728746",
+    "created_at": "2026-04-30T17:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049905287579287814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkSU_Official"
+        },
+        {
+          "end": 24,
+          "id": "1301448384612450304",
+          "start": 17,
+          "username": "yqhOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049905287579287814",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049905119639241136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkSU_Official @yqhOvO 没瓜，就是吐槽（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T17:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049905287579287814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            },
+            {
+              "end": 24,
+              "id": "1301448384612450304",
+              "start": 17,
+              "username": "yqhOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049905287579287814",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049905119639241136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official @yqhOvO 没瓜，就是吐槽（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T17:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049905119639241136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 20,
+              "id": "1301448384612450304",
+              "start": 13,
+              "username": "yqhOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049905119639241136",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049835761189728746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @yqhOvO 咦 有瓜吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 336,
+          "like_count": 7893,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4792,
+          "following_count": 2575,
+          "like_count": 39347,
+          "listed_count": 19,
+          "media_count": 1492,
+          "tweet_count": 12955
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-03T09:14:22.000Z",
+        "description": "✨～ ｜掛件_ @Ame_Shiyo ｜ENTJ /.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Ame_Shiyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/UkiStelo",
+                "end": 23,
+                "expanded_url": "http://x.com/UkiStelo",
+                "start": 0,
+                "url": "https://t.co/u5NyXCGOlE"
+              }
+            ]
+          }
+        },
+        "id": "1301448384612450304",
+        "location": "紀在你心裡💕，許小許👉",
+        "name": "𝑁𝑎𝑛𝑜. ❀",
+        "pinned_tweet_id": "2005522557479633338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048088148341825536/ecl397n__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 367,
+          "like_count": 9833,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 4028
+        },
+        "url": "https://t.co/u5NyXCGOlE",
+        "username": "yqhOvO",
+        "verified": false
+      }
+    ]
+  }
+}

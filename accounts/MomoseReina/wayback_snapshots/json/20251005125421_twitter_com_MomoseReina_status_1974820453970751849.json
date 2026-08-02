@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974804478055551345",
+    "created_at": "2025-10-05T12:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T13:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974820453970751849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1711840683638792192",
+          "start": 0,
+          "username": "xiaogudu423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974820453970751849",
+    "in_reply_to_user_id": "1711840683638792192",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974815838596366791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaogudu423 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠*⁠。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974804478055551345",
+        "created_at": "2025-10-05T12:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974820453970751849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1711840683638792192",
+              "start": 0,
+              "username": "xiaogudu423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974820453970751849",
+        "in_reply_to_user_id": "1711840683638792192",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974815838596366791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaogudu423 (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠✧⁠*⁠。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711840683638792192",
+        "conversation_id": "1974804478055551345",
+        "created_at": "2025-10-05T12:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T13:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974815838596366791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974815838596366791",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974814765537972422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina (ˊ˘ˋ*)♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 35,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 62
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T20:27:20.000Z",
+        "description": "05 年/ MTF / 无证含糖 / infp / 家长反对党 / 欢迎随时找我聊天~ / 喜欢钢琴和猫猫 / 愿望是成功srs",
+        "id": "1711840683638792192",
+        "name": "雨泠🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1972719581832818752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960278385118298112/eLB4LArM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1014,
+          "like_count": 5180,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1035
+        },
+        "username": "xiaogudu423",
+        "verified": false
+      }
+    ]
+  }
+}

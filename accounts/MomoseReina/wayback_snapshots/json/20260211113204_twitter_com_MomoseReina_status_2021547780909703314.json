@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2021504836202791076",
+    "created_at": "2026-02-11T11:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T12:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021547780909703314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "Canmi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021547780909703314",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021507647305113961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Canmi21 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2021504836202791076",
+        "created_at": "2026-02-11T11:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T12:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021547780909703314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "Canmi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021547780909703314",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021507647305113961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canmi21 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799009511333830656",
+        "conversation_id": "2021504836202791076",
+        "created_at": "2026-02-11T08:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021507647305113961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021507647305113961",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021507204252328283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 窝那台已经卖了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 304,
+          "like_count": 5815,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 4184
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "在做一些奇怪的事情？以后都会被理解的！睡觉最舒服了嘛💤 什么时候才能睡醒呢🤔 | ENTP(INFJ?) 🐾 CN/EN/JP | 日本語 & アニメ 🎨 | ⚠️ NSFW Corner ❤️ | 猫のファン & 观察 淡淡的色彩 👀 ⚓🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/canmi21",
+                "end": 23,
+                "expanded_url": "https://github.com/canmi21",
+                "start": 0,
+                "url": "https://t.co/T8jDsQAxmt"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Lost in code",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997994664670982144/Q4Yi5q4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 127,
+          "like_count": 8869,
+          "listed_count": 10,
+          "media_count": 435,
+          "tweet_count": 3113
+        },
+        "url": "https://t.co/T8jDsQAxmt",
+        "username": "Canmi21",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977235405385711805",
+    "created_at": "2025-10-13T23:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T00:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977874935251935623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803067123171799040",
+          "start": 0,
+          "username": "LunDi50171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977874935251935623",
+    "in_reply_to_user_id": "1803067123171799040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977235405385711805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunDi50171 这个爱丽丝的吊坠咱也有awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1977235385320132608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CNG2tW0AAFN1f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977235384745517056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CNG0kW4AAYA4s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977235384787423232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CNG0uWUAAXHTT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977235405385711805",
+        "created_at": "2025-10-13T23:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977874935251935623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803067123171799040",
+              "start": 0,
+              "username": "LunDi50171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977874935251935623",
+        "in_reply_to_user_id": "1803067123171799040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977235405385711805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunDi50171 这个爱丽丝的吊坠咱也有awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977235385320132608",
+            "3_1977235384745517056",
+            "3_1977235384787423232"
+          ]
+        },
+        "author_id": "1803067123171799040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "1977235405385711805",
+        "created_at": "2025-10-12T04:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977235405385711805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEgdj09Nwa",
+              "end": 77,
+              "expanded_url": "https://x.com/LunDi50171/status/1977235405385711805/photo/1",
+              "media_key": "3_1977235385320132608",
+              "start": 54,
+              "url": "https://t.co/lEgdj09Nwa"
+            },
+            {
+              "display_url": "pic.x.com/lEgdj09Nwa",
+              "end": 77,
+              "expanded_url": "https://x.com/LunDi50171/status/1977235405385711805/photo/1",
+              "media_key": "3_1977235384745517056",
+              "start": 54,
+              "url": "https://t.co/lEgdj09Nwa"
+            },
+            {
+              "display_url": "pic.x.com/lEgdj09Nwa",
+              "end": 77,
+              "expanded_url": "https://x.com/LunDi50171/status/1977235405385711805/photo/1",
+              "media_key": "3_1977235384787423232",
+              "start": 54,
+              "url": "https://t.co/lEgdj09Nwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977235405385711805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The new box makes these pendants even more exquisite. https://t.co/lEgdj09Nwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 142,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-18T14:08:09.000Z",
+        "description": "If necessary, I will provide a wide variety of Blue Archive products.",
+        "id": "1803067123171799040",
+        "name": "凯伦迪亚",
+        "pinned_tweet_id": "1965087369968935224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803106200814493700/KVxJM2E3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 190,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 64
+        },
+        "username": "LunDi50171",
+        "verified": false
+      }
+    ]
+  }
+}

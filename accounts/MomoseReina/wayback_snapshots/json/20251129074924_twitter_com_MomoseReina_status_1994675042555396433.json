@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1994454221941608899",
+    "created_at": "2025-11-29T07:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994675042555396433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954538447856979968",
+          "start": 0,
+          "username": "kuna1573661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994675042555396433",
+    "in_reply_to_user_id": "1954538447856979968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994454221941608899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuna1573661 自己留😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1994454221941608899",
+        "created_at": "2025-11-29T07:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994675042555396433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954538447856979968",
+              "start": 0,
+              "username": "kuna1573661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994675042555396433",
+        "in_reply_to_user_id": "1954538447856979968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994454221941608899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuna1573661 自己留😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954538447856979968",
+        "conversation_id": "1994454221941608899",
+        "created_at": "2025-11-28T17:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994454221941608899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994454221941608899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的长发男呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 259,
+          "like_count": 2533,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1946
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T13:41:05.000Z",
+        "description": "アアア…足りないもの　なーんだ　僕らの人生",
+        "id": "1954538447856979968",
+        "location": "精神健康殡仪馆",
+        "name": "Y=kun∀☆",
+        "pinned_tweet_id": "1985040743661252959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980689357301227520/4y1KZEoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 211,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 457
+        },
+        "username": "kuna1573661",
+        "verified": false
+      }
+    ]
+  }
+}

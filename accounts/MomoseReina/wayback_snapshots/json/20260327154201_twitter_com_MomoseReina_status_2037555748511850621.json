@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037555662813855744"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2037415694367916306",
+    "created_at": "2026-03-27T15:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T16:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037555748511850621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/73G7boikKo",
+          "end": 54,
+          "expanded_url": "https://x.com/MomoseReina/status/2037555748511850621/photo/1",
+          "media_key": "3_2037555662813855744",
+          "start": 31,
+          "url": "https://t.co/73G7boikKo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037555748511850621",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037415694367916306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 你拿出来分享就用得完了，比如我😭 https://t.co/73G7boikKo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 84,
+        "media_key": "3_2037555662813855744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbaFHQbAAAQMAP.png",
+        "width": 171
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2037415674881159169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZawvkasAEHK3g.jpg",
+        "width": 472
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2037415674881163264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZawvkawAAO4MF.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037555662813855744"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2037415694367916306",
+        "created_at": "2026-03-27T15:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T16:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037555748511850621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/73G7boikKo",
+              "end": 54,
+              "expanded_url": "https://x.com/MomoseReina/status/2037555748511850621/photo/1",
+              "media_key": "3_2037555662813855744",
+              "start": 31,
+              "url": "https://t.co/73G7boikKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037555748511850621",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037415694367916306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 你拿出来分享就用得完了，比如我😭 https://t.co/73G7boikKo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037415674881159169",
+            "3_2037415674881163264"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "2037415694367916306",
+        "created_at": "2026-03-27T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037415694367916306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AF9Oe7TMmA",
+              "end": 36,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2037415694367916306/photo/1",
+              "media_key": "3_2037415674881159169",
+              "start": 13,
+              "url": "https://t.co/AF9Oe7TMmA"
+            },
+            {
+              "display_url": "pic.x.com/AF9Oe7TMmA",
+              "end": 36,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2037415694367916306/photo/1",
+              "media_key": "3_2037415674881163264",
+              "start": 13,
+              "url": "https://t.co/AF9Oe7TMmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037415694367916306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 738,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自建梯子的流量根本用不完 https://t.co/AF9Oe7TMmA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 322,
+          "like_count": 7119,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "普通兽一只 | 术力口厨 | 数码爱好者 | 16岁 | feat.君 | 窝对象@sharksOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "sharksOvO"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2037404743212179528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 2283,
+          "like_count": 51868,
+          "listed_count": 6,
+          "media_count": 1852,
+          "tweet_count": 11532
+        },
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

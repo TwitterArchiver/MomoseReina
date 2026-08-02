@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069218138391228416"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "description": "Valve Corporation",
+          "id": "988798454049652736",
+          "name": "Valve Corporation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Valve Corporation",
+          "id": "988798454049652736",
+          "name": "Valve Corporation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2069218252086190289",
+    "created_at": "2026-06-23T00:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069218252086190289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PqPEfPWk0h",
+          "end": 36,
+          "expanded_url": "https://x.com/MomoseReina/status/2069218252086190289/photo/1",
+          "media_key": "3_2069218138391228416",
+          "start": 13,
+          "url": "https://t.co/PqPEfPWk0h"
+        },
+        {
+          "display_url": "x.com/valvesoftware/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/valvesoftware/status/2069105962947080247",
+          "start": 37,
+          "url": "https://t.co/0Z9HnBfcFp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069218252086190289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069105962947080247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Valve你怎么不去抢？ https://t.co/PqPEfPWk0h https://t.co/0Z9HnBfcFp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 670,
+        "media_key": "3_2069218138391228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdW7wWasAAnG8u.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 10043,
+        "height": 1080,
+        "media_key": "13_2069096123164454914",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069096123164454914/img/c7_tLsUOOGLPhWwq.jpg",
+        "public_metrics": {
+          "view_count": 2801773
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069096123164454914/vid/avc1/1280x720/pf2DBLjGWE2AnvQQ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069096123164454914/vid/avc1/480x270/j-mSCBlHhULTkywB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069096123164454914/pl/QzD_m0zGH2tKFUVr.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069096123164454914/vid/avc1/1920x1080/0pP1xVoGeUJhHx8Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069096123164454914/vid/avc1/640x360/Sn4-BbURtRXfbpXw.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069218138391228416"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2069218252086190289",
+        "created_at": "2026-06-23T00:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069218252086190289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PqPEfPWk0h",
+              "end": 36,
+              "expanded_url": "https://x.com/MomoseReina/status/2069218252086190289/photo/1",
+              "media_key": "3_2069218138391228416",
+              "start": 13,
+              "url": "https://t.co/PqPEfPWk0h"
+            },
+            {
+              "display_url": "x.com/valvesoftware/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/valvesoftware/status/2069105962947080247",
+              "start": 37,
+              "url": "https://t.co/0Z9HnBfcFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069218252086190289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069105962947080247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Valve你怎么不去抢？ https://t.co/PqPEfPWk0h https://t.co/0Z9HnBfcFp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069096123164454914"
+          ]
+        },
+        "author_id": "1141417774201184257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2069105962947080247",
+        "created_at": "2026-06-22T17:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069105962947080247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Your games on the big screen",
+              "display_url": "store.steampowered.com/hardware/steam…",
+              "end": 184,
+              "expanded_url": "https://store.steampowered.com/hardware/steammachine",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/2069103659464765440/qYByLnfj?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069103659464765440/qYByLnfj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 161,
+              "status": 200,
+              "title": "Steam Machine",
+              "unwound_url": "https://store.steampowered.com/hardware/steammachine",
+              "url": "https://t.co/n6RlOy3wHd"
+            },
+            {
+              "display_url": "pic.x.com/8W42GfYo6n",
+              "end": 208,
+              "expanded_url": "https://x.com/valvesoftware/status/2069105962947080247/video/1",
+              "media_key": "13_2069096123164454914",
+              "start": 185,
+              "url": "https://t.co/8W42GfYo6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069105962947080247",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/hardware/steam…",
+                "end": 184,
+                "expanded_url": "https://store.steampowered.com/hardware/steammachine",
+                "start": 161,
+                "url": "https://t.co/dSr8sbm8db"
+              }
+            ]
+          },
+          "text": "Steam Machine is here, and you can sign up now:\n\nSteam Machine 512GB\nSteam Machine 2TB\n\nPlus bundled versions with Steam Controller\nLearn more and sign up here: https://t.co/dSr8sbm8db"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5539,
+          "impression_count": 9858079,
+          "like_count": 43687,
+          "quote_count": 2842,
+          "reply_count": 3972,
+          "retweet_count": 4841
+        },
+        "reply_settings": "everyone",
+        "text": "Steam Machine is here, and you can sign up now:\n\nSteam Machine 512GB\nSteam Machine 2TB\n\nPlus bundled versions with Steam Controller\nLearn more and sign up here: https://t.co/n6RlOy3wHd https://t.co/8W42GfYo6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 342,
+          "like_count": 8981,
+          "listed_count": 5,
+          "media_count": 384,
+          "tweet_count": 6319
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-19T18:49:38.000Z",
+        "description": "We make games, Steam, and hardware.\n\nFor support, visit https://t.co/VRsFD4GURP.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "help.steampowered.com",
+                "end": 79,
+                "expanded_url": "http://help.steampowered.com",
+                "start": 56,
+                "url": "https://t.co/VRsFD4GURP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "valvesoftware.com",
+                "end": 23,
+                "expanded_url": "http://valvesoftware.com",
+                "start": 0,
+                "url": "https://t.co/IdkyuOPKeB"
+              }
+            ]
+          }
+        },
+        "id": "1141417774201184257",
+        "location": "Bellevue, WA",
+        "name": "Valve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1196563043150204928/X6pfa2YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873678,
+          "following_count": 11,
+          "like_count": 3,
+          "listed_count": 1558,
+          "media_count": 72,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/IdkyuOPKeB",
+        "username": "valvesoftware",
+        "verified": true
+      }
+    ]
+  }
+}

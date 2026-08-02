@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980929573471531008"
+      ],
+      "media_source_tweet_id": [
+        "1980929726798827719"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1981260746643427788",
+    "created_at": "2025-10-23T07:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981260746643427788"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "まのさば"
+        },
+        {
+          "end": 31,
+          "start": 22,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871928876345225216",
+          "start": 3,
+          "username": "tabedesuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x7ZcWkXNYz",
+          "end": 55,
+          "expanded_url": "https://x.com/tabedesuyo/status/1980929726798827719/photo/1",
+          "media_key": "3_1980929573471531008",
+          "start": 32,
+          "url": "https://t.co/x7ZcWkXNYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981260746643427788",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 348
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980929726798827719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabedesuyo: #まのさば #まのさば二次創作 https://t.co/x7ZcWkXNYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1980929573471531008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G32s85_WMAApNcT.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980929573471531008"
+          ],
+          "media_source_tweet_id": [
+            "1980929726798827719"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1981260746643427788",
+        "created_at": "2025-10-23T07:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981260746643427788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "まのさば"
+            },
+            {
+              "end": 31,
+              "start": 22,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871928876345225216",
+              "start": 3,
+              "username": "tabedesuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7ZcWkXNYz",
+              "end": 55,
+              "expanded_url": "https://x.com/tabedesuyo/status/1980929726798827719/photo/1",
+              "media_key": "3_1980929573471531008",
+              "start": 32,
+              "url": "https://t.co/x7ZcWkXNYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981260746643427788",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 348
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980929726798827719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabedesuyo: #まのさば #まのさば二次創作 https://t.co/x7ZcWkXNYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980929573471531008"
+          ]
+        },
+        "author_id": "1871928876345225216",
+        "conversation_id": "1980929726798827719",
+        "created_at": "2025-10-22T09:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T10:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980929726798827719"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まのさば"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7ZcWkXNYz",
+              "end": 39,
+              "expanded_url": "https://x.com/tabedesuyo/status/1980929726798827719/photo/1",
+              "media_key": "3_1980929573471531008",
+              "start": 16,
+              "url": "https://t.co/x7ZcWkXNYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980929726798827719",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1176,
+          "impression_count": 76507,
+          "like_count": 5554,
+          "quote_count": 22,
+          "reply_count": 11,
+          "retweet_count": 348
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさば #まのさば二次創作 https://t.co/x7ZcWkXNYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 203,
+          "like_count": 1298,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T14:40:05.000Z",
+        "description": "曲と絵とプログラム\n\nhttps://t.co/4L8EyEN74C\nhttps://t.co/sVpWVCNilJ\nhttps://t.co/dQUDAFwvp5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tabetabetabet…",
+                "end": 34,
+                "expanded_url": "https://www.youtube.com/@tabetabetabetabetabetabetabe",
+                "start": 11,
+                "url": "https://t.co/4L8EyEN74C"
+              },
+              {
+                "display_url": "skeb.jp/@tabedesuyo",
+                "end": 58,
+                "expanded_url": "https://skeb.jp/@tabedesuyo",
+                "start": 35,
+                "url": "https://t.co/sVpWVCNilJ"
+              },
+              {
+                "display_url": "tabedesuyo.fanbox.cc",
+                "end": 82,
+                "expanded_url": "https://tabedesuyo.fanbox.cc/",
+                "start": 59,
+                "url": "https://t.co/dQUDAFwvp5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tabedesuyo",
+                "end": 23,
+                "expanded_url": "https://lit.link/tabedesuyo",
+                "start": 0,
+                "url": "https://t.co/zBRtyd6JYG"
+              }
+            ]
+          }
+        },
+        "id": "1871928876345225216",
+        "location": "pͪoͣnͬpͣoͥnͭpͣa͡inͥ",
+        "name": "たべ",
+        "pinned_tweet_id": "1972622230317343010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881028046314147840/Bb7TW-gG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2937,
+          "following_count": 217,
+          "like_count": 6756,
+          "listed_count": 10,
+          "media_count": 123,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/zBRtyd6JYG",
+        "username": "tabedesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

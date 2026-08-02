@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2046096556911439924",
+    "created_at": "2026-04-20T20:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046326067666026907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555888810700836865",
+          "start": 0,
+          "username": "Lonnet_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046326067666026907",
+    "in_reply_to_user_id": "1555888810700836865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046096556911439924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lonnet_Official 别说什么一键部署脚本了，3xui都已经满足不了我了\n我现在都手搓XrayR/V2bX对接Xboard，增减修改节点舒服得多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2046096556911439924",
+        "created_at": "2026-04-20T20:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046326067666026907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555888810700836865",
+              "start": 0,
+              "username": "Lonnet_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046326067666026907",
+        "in_reply_to_user_id": "1555888810700836865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046096556911439924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lonnet_Official 别说什么一键部署脚本了，3xui都已经满足不了我了\n我现在都手搓XrayR/V2bX对接Xboard，增减修改节点舒服得多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555888810700836865",
+        "conversation_id": "2046096556911439924",
+        "created_at": "2026-04-20T05:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046096556911439924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yigeking/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/yigeking/status/2045723257727537157",
+              "start": 64,
+              "url": "https://t.co/bOsLzpSINh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046096556911439924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 33541,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045723257727537157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自建翻墙的意义就在于可以自己选择协议，通信方式\n我说2026年了还有人在一键翻墙vps部署脚本，裸ss起手，你买vps意义何在 https://t.co/bOsLzpSINh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 333,
+          "like_count": 7711,
+          "listed_count": 1,
+          "media_count": 305,
+          "tweet_count": 5267
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T12:09:52.000Z",
+        "description": "Mail：kirasamelonnet@gmail.com 在虚无中寻找自我价值",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/vHyyS3f",
+                "end": 23,
+                "expanded_url": "https://b23.tv/vHyyS3f",
+                "start": 0,
+                "url": "https://t.co/FNGo8KCP2C"
+              }
+            ]
+          }
+        },
+        "id": "1555888810700836865",
+        "location": "Shanghai",
+        "name": "Lonnet",
+        "pinned_tweet_id": "1961952208205042047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725707400030859264/C-NT6pZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 568,
+          "like_count": 4454,
+          "listed_count": 0,
+          "media_count": 787,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/FNGo8KCP2C",
+        "username": "Lonnet_Official",
+        "verified": false
+      }
+    ]
+  }
+}

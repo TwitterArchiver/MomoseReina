@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1997236393396113543",
+    "created_at": "2025-12-06T18:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997368085016391723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1889692193230905344",
+          "start": 0,
+          "username": "X16_46280721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997368085016391723",
+    "in_reply_to_user_id": "1889692193230905344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997236393396113543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X16_46280721 好强🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1997236375893266432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eb5u2bUAAGuoZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1997236375838744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eb5upbYAACegm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1997236375729614848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7eb5uPaMAAM7gj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1997236393396113543",
+        "created_at": "2025-12-06T18:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997368085016391723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1889692193230905344",
+              "start": 0,
+              "username": "X16_46280721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997368085016391723",
+        "in_reply_to_user_id": "1889692193230905344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997236393396113543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X16_46280721 好强🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997236375893266432",
+            "3_1997236375838744576",
+            "3_1997236375729614848"
+          ]
+        },
+        "author_id": "1889692193230905344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997236393396113543",
+        "created_at": "2025-12-06T09:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997236393396113543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbIeJ30jEX",
+              "end": 39,
+              "expanded_url": "https://x.com/X16_46280721/status/1997236393396113543/photo/1",
+              "media_key": "3_1997236375893266432",
+              "start": 16,
+              "url": "https://t.co/zbIeJ30jEX"
+            },
+            {
+              "display_url": "pic.x.com/zbIeJ30jEX",
+              "end": 39,
+              "expanded_url": "https://x.com/X16_46280721/status/1997236393396113543/photo/1",
+              "media_key": "3_1997236375838744576",
+              "start": 16,
+              "url": "https://t.co/zbIeJ30jEX"
+            },
+            {
+              "display_url": "pic.x.com/zbIeJ30jEX",
+              "end": 39,
+              "expanded_url": "https://x.com/X16_46280721/status/1997236393396113543/photo/1",
+              "media_key": "3_1997236375729614848",
+              "start": 16,
+              "url": "https://t.co/zbIeJ30jEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997236393396113543",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "乌蒙地插喵，今天手感很好⊙ω⊙ https://t.co/zbIeJ30jEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 270,
+          "like_count": 2873,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2156
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T15:05:32.000Z",
+        "description": "不想说话，不会表达，不敢拒绝/日本語が勉強してある/07/165cm/50kg/音游入/打三角洲（虽然很拉）/对象@maika111nobu/提问箱https://t.co/U9FK4wj4il",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "maika111nobu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/x1665432/",
+                "end": 97,
+                "expanded_url": "https://ngl.link/x1665432/",
+                "start": 74,
+                "url": "https://t.co/U9FK4wj4il"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/X16_1107",
+                "end": 23,
+                "expanded_url": "http://t.me/X16_1107",
+                "start": 0,
+                "url": "https://t.co/4sVB1wx3Hz"
+              }
+            ]
+          }
+        },
+        "id": "1889692193230905344",
+        "location": "罗德岛",
+        "name": "小石榴🍥",
+        "pinned_tweet_id": "1996615589281022376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995513608839831552/X3rTTkN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 732,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/4sVB1wx3Hz",
+        "username": "X16_46280721",
+        "verified": false
+      }
+    ]
+  }
+}

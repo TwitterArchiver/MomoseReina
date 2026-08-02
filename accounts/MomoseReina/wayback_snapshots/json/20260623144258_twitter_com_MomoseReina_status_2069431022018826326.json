@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2069218252086190289",
+    "created_at": "2026-06-23T14:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069431022018826326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3232768652",
+          "start": 0,
+          "username": "jbjezp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069431022018826326",
+    "in_reply_to_user_id": "3232768652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069430517733413324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jbjezp 光5060就已经是他性能的150%了，那你tm被坑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2069218252086190289",
+        "created_at": "2026-06-23T14:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069431022018826326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3232768652",
+              "start": 0,
+              "username": "jbjezp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069431022018826326",
+        "in_reply_to_user_id": "3232768652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069430517733413324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jbjezp 光5060就已经是他性能的150%了，那你tm被坑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3232768652",
+        "conversation_id": "2069218252086190289",
+        "created_at": "2026-06-23T14:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069430517733413324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069430517733413324",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069429410420453799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 硬杠是么？\n你就正面说说这价格在国外能买到的硬件，能配出比它好的么？\n你去美亚上查查硬件价格？\n我他妈两台高性能PC，一个全塔一个miniATX。\n你算个卵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 342,
+          "like_count": 9005,
+          "listed_count": 5,
+          "media_count": 387,
+          "tweet_count": 6345
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-01T16:51:25.000Z",
+        "description": "I do it for me.I am good at it.I feel so alive.",
+        "id": "3232768652",
+        "location": "Kawasaki-shi Nakahara-ku",
+        "name": "陳金一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026992442227269632/-w4UPaTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 1324,
+          "like_count": 18882,
+          "listed_count": 7,
+          "media_count": 290,
+          "tweet_count": 10520
+        },
+        "url": "",
+        "username": "jbjezp",
+        "verified": false
+      }
+    ]
+  }
+}

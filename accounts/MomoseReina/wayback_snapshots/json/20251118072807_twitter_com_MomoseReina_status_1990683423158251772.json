@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990424534240079940",
+    "created_at": "2025-11-18T07:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990683423158251772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        },
+        {
+          "end": 24,
+          "id": "1642768402652737537",
+          "start": 13,
+          "username": "FFrankiedo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990683423158251772",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990683161379193338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll @FFrankiedo 炒作🐶！\n我都没啥流量了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-18T07:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990683423158251772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            },
+            {
+              "end": 24,
+              "id": "1642768402652737537",
+              "start": 13,
+              "username": "FFrankiedo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990683423158251772",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990683161379193338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll @FFrankiedo 炒作🐶！\n我都没啥流量了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1990424534240079940",
+        "created_at": "2025-11-18T07:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990683161379193338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 24,
+              "id": "1642768402652737537",
+              "start": 13,
+              "username": "FFrankiedo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990683161379193338",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990682719051972757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @FFrankiedo 你还在认真解释，其实本来这条推是我拿来炒作的，什么技术细节和业务需求都不说然后只发一个400块钱一个月100G😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 234,
+          "like_count": 1927,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1494
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "虾仁芹菜馅猫卷 @Dontbesadforit 是香香软软的xyn喵 @HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Dontbesadforit"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "HobartR6"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1990369987639525748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987241584170311681/z73T6Iii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 889,
+          "like_count": 1087,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 307
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-03T05:58:18.000Z",
+        "description": "",
+        "id": "1642768402652737537",
+        "name": "Geo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754918068365754373/4rueAmmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "FFrankiedo",
+        "verified": false
+      }
+    ]
+  }
+}

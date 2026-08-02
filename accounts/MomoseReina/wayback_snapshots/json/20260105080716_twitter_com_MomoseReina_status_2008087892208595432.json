@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2007874229773934614",
+    "created_at": "2026-01-05T08:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T09:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008087892208595432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923051228614897664",
+          "start": 0,
+          "username": "Lisa_Queen_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008087892208595432",
+    "in_reply_to_user_id": "923051228614897664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008028191320084610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lisa_Queen_Me 也可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2007874229773934614",
+        "created_at": "2026-01-05T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008087892208595432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923051228614897664",
+              "start": 0,
+              "username": "Lisa_Queen_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008087892208595432",
+        "in_reply_to_user_id": "923051228614897664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008028191320084610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lisa_Queen_Me 也可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923051228614897664",
+        "conversation_id": "2007874229773934614",
+        "created_at": "2026-01-05T04:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T05:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008028191320084610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008028191320084610",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007874229773934614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 也许可以试试褪黑素软糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 292,
+          "like_count": 4290,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-25T04:58:57.000Z",
+        "description": "大龄已婚，社恐玩家，从小喜欢cs相关的内容却信息闭塞，心态年轻但还是焦虑，期待做更好的自己",
+        "id": "923051228614897664",
+        "name": "LisaQueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671193430392832/cr96Siu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 139,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "username": "Lisa_Queen_Me",
+        "verified": false
+      }
+    ]
+  }
+}

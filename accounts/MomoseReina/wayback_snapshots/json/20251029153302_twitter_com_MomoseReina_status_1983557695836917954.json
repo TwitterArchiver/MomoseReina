@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983519546251391431",
+    "created_at": "2025-10-29T15:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T16:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983557695836917954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1977283341583106052",
+          "start": 0,
+          "username": "Gatn_ID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983557695836917954",
+    "in_reply_to_user_id": "1977283341583106052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983556618102218981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gatn_ID 嗯嗯qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983519546251391431",
+        "created_at": "2025-10-29T15:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983557695836917954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1977283341583106052",
+              "start": 0,
+              "username": "Gatn_ID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983557695836917954",
+        "in_reply_to_user_id": "1977283341583106052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983556618102218981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gatn_ID 嗯嗯qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977283341583106052",
+        "conversation_id": "1983519546251391431",
+        "created_at": "2025-10-29T15:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983556618102218981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983556618102218981",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983556319186669723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 多注重自己的心情吧，其他的什么事后面再说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 205,
+          "like_count": 1429,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-12T08:01:06.000Z",
+        "description": "04的老old，自学过一点梅花易数的数字卦跟阳明心学有领域大神可以一起讨论一下",
+        "id": "1977283341583106052",
+        "name": "GaTn_:D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977287571786153987/anKaiFG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 170,
+          "like_count": 2809,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 957
+        },
+        "username": "Gatn_ID",
+        "verified": false
+      }
+    ]
+  }
+}

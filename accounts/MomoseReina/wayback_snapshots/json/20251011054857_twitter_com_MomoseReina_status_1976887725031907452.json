@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976633061371765245",
+    "created_at": "2025-10-11T05:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T06:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976887725031907452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487459150623756288",
+          "start": 0,
+          "username": "xjyy5211314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976887725031907452",
+    "in_reply_to_user_id": "1487459150623756288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976666501655789950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjyy5211314 不敢去(⁠｡⁠ﾉ⁠ω⁠＼⁠｡⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-11T05:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T06:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976887725031907452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487459150623756288",
+              "start": 0,
+              "username": "xjyy5211314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976887725031907452",
+        "in_reply_to_user_id": "1487459150623756288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976666501655789950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjyy5211314 不敢去(⁠｡⁠ﾉ⁠ω⁠＼⁠｡⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487459150623756288",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-10T15:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976666501655789950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976666501655789950",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976633061371765245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 激光脱毛喵，之前高中越拔越多😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 108,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T16:14:49.000Z",
+        "description": "宁静的地平线，分开了生者和死者的行列。我只能选择天空，决不跪在地上，以显出刽子手们的高大，好阻挡自由的风！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xjyy5211314",
+                "end": 23,
+                "expanded_url": "http://t.me/xjyy5211314",
+                "start": 0,
+                "url": "https://t.co/oKjo3MfzTr"
+              }
+            ]
+          }
+        },
+        "id": "1487459150623756288",
+        "location": "Republic of Free Serica",
+        "name": "夏日海风🌏🕊",
+        "pinned_tweet_id": "1974405529654219009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976833934739881985/iYHU6YPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 999,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/oKjo3MfzTr",
+        "username": "xjyy5211314",
+        "verified": true
+      }
+    ]
+  }
+}

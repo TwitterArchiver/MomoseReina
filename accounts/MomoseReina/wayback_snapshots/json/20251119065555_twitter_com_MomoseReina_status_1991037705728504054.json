@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990791778568696278",
+    "created_at": "2025-11-19T06:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991037705728504054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1442900362373959681",
+          "start": 0,
+          "username": "ClarkOAO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991037705728504054",
+    "in_reply_to_user_id": "1442900362373959681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990873038972498202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClarkOAO 提示词偷了(⁠≧⁠▽⁠≦⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_1990872889533607936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EAWE2bMAABBxq.png",
+        "width": 840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990791778568696278",
+        "created_at": "2025-11-19T06:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991037705728504054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1442900362373959681",
+              "start": 0,
+              "username": "ClarkOAO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991037705728504054",
+        "in_reply_to_user_id": "1442900362373959681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990873038972498202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClarkOAO 提示词偷了(⁠≧⁠▽⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990872889533607936"
+          ]
+        },
+        "author_id": "1442900362373959681",
+        "conversation_id": "1990791778568696278",
+        "created_at": "2025-11-18T20:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990873038972498202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/avuIW7zydT",
+              "end": 63,
+              "expanded_url": "https://x.com/ClarkOAO/status/1990873038972498202/photo/1",
+              "media_key": "3_1990872889533607936",
+              "start": 40,
+              "url": "https://t.co/avuIW7zydT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990873038972498202",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 13309,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990791778568696278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 估计不会真的赔钱, 应该是多送 25 倍服务之类的吧 https://t.co/avuIW7zydT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 241,
+          "like_count": 2007,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-28T17:13:59.000Z",
+        "description": "我叫 Clark, 大概是写代码的, 其他嘛...嗯...让我想想...开发者? 黑客? 投机者? 卑微打工人?\n不不, 其实我只是个 freeman, 做自己喜欢的事情最重要! ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "njump.me/npub1clarklr7c…",
+                "end": 23,
+                "expanded_url": "https://njump.me/npub1clarklr7c43nklyhrr0f6h6j358pc4wfk92r2vjedjj2qk95el5ssm0w8h",
+                "start": 0,
+                "url": "https://t.co/jbXg47mmnK"
+              }
+            ]
+          }
+        },
+        "id": "1442900362373959681",
+        "name": "Clark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988941620331593728/BwAEeEvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/jbXg47mmnK",
+        "username": "ClarkOAO",
+        "verified": false
+      }
+    ]
+  }
+}

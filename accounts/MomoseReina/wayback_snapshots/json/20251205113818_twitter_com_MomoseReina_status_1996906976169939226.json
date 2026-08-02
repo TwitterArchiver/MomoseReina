@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996566622040191318",
+    "created_at": "2025-12-05T11:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T12:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996906976169939226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830192967120011266",
+          "start": 0,
+          "username": "RikuSakaLine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996906976169939226",
+    "in_reply_to_user_id": "1830192967120011266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996566622040191318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuSakaLine 发癫🤪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996566622040191318",
+        "created_at": "2025-12-05T11:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996906976169939226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830192967120011266",
+              "start": 0,
+              "username": "RikuSakaLine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996906976169939226",
+        "in_reply_to_user_id": "1830192967120011266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996566622040191318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuSakaLine 发癫🤪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192967120011266",
+        "conversation_id": "1996566622040191318",
+        "created_at": "2025-12-04T13:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996566622040191318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996566622040191318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道该发啥。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 269,
+          "like_count": 2815,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "繁华之下，尽是丑恶｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·EEW系统爱好者｜擅长人文地理·应用地质·地质灾害·观测气象研究｜似理科生｜努力学习中｜高考日语生｜地方主义｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "1993312142704230886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974849521286094848/KjhtbY6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 233,
+          "like_count": 5220,
+          "listed_count": 0,
+          "media_count": 336,
+          "tweet_count": 1846
+        },
+        "username": "RikuSakaLine",
+        "verified": false
+      }
+    ]
+  }
+}

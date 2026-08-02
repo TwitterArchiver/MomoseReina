@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2045359167977005199",
+    "created_at": "2026-04-18T05:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045375960187613336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418328991493070850",
+          "start": 0,
+          "username": "Strelexia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045375960187613336",
+    "in_reply_to_user_id": "1418328991493070850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045359167977005199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strelexia 怎么搞的😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045359149379387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKTT0DagAA5Agj.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2045359167977005199",
+        "created_at": "2026-04-18T05:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045375960187613336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418328991493070850",
+              "start": 0,
+              "username": "Strelexia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045375960187613336",
+        "in_reply_to_user_id": "1418328991493070850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045359167977005199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strelexia 怎么搞的😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045359149379387392"
+          ]
+        },
+        "author_id": "1418328991493070850",
+        "conversation_id": "2045359167977005199",
+        "created_at": "2026-04-18T04:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045359167977005199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M3cdW8gZKB",
+              "end": 43,
+              "expanded_url": "https://x.com/Strelexia/status/2045359167977005199/photo/1",
+              "media_key": "3_2045359149379387392",
+              "start": 20,
+              "url": "https://t.co/M3cdW8gZKB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045359167977005199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "darksword真的太好玩了你知道吗 https://t.co/M3cdW8gZKB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 330,
+          "like_count": 7630,
+          "listed_count": 1,
+          "media_count": 298,
+          "tweet_count": 5222
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "Anything is what you wish.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ae",
+                "end": 23,
+                "expanded_url": "http://neko.ae",
+                "start": 0,
+                "url": "https://t.co/ohr6JnRF0k"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "location": "和月村",
+        "name": "枫糖郁爹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021018426777665541/h0qqV0IA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 1520,
+          "like_count": 34938,
+          "listed_count": 10,
+          "media_count": 1011,
+          "tweet_count": 8002
+        },
+        "url": "https://t.co/ohr6JnRF0k",
+        "username": "Strelexia",
+        "verified": true
+      }
+    ]
+  }
+}

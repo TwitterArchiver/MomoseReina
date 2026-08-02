@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2056922152302219377",
+    "created_at": "2026-05-20T12:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057081726766358541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969310423322411010",
+          "start": 0,
+          "username": "XiaoTian258"
+        },
+        {
+          "end": 24,
+          "id": "2006896037412352000",
+          "start": 13,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057081726766358541",
+    "in_reply_to_user_id": "1969310423322411010",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057054938069631211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoTian258 @plh1649513 年付吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2056922152302219377",
+        "created_at": "2026-05-20T12:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057081726766358541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969310423322411010",
+              "start": 0,
+              "username": "XiaoTian258"
+            },
+            {
+              "end": 24,
+              "id": "2006896037412352000",
+              "start": 13,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057081726766358541",
+        "in_reply_to_user_id": "1969310423322411010",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057054938069631211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoTian258 @plh1649513 年付吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969310423322411010",
+        "conversation_id": "2056922152302219377",
+        "created_at": "2026-05-20T11:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057054938069631211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057054938069631211",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057047343380476397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 低价的是10美金左右"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 339,
+          "like_count": 8264,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-20T07:59:37.000Z",
+        "description": "大四计算机系在读,  探索AI/金融/Web3. \n我们都有美好的明天~",
+        "id": "1969310423322411010",
+        "name": "Aione",
+        "pinned_tweet_id": "2056677748421390846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032045985778843649/b-9yv0gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 183,
+          "like_count": 1009,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 737
+        },
+        "username": "XiaoTian258",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "乙一笔下的青，川端康成笔下的雪\n不小心患上了文青病，会发点弱智推文，精神病患者在家休学中",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048765550151770112/Gueb8S9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 215,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 424
+        },
+        "username": "plh1649513",
+        "verified": false
+      }
+    ]
+  }
+}

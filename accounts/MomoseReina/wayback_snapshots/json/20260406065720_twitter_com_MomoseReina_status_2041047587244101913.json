@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2040788397791596665",
+    "created_at": "2026-04-06T06:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041047587244101913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012826439356383232",
+          "start": 0,
+          "username": "hoshimiasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041047587244101913",
+    "in_reply_to_user_id": "2012826439356383232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040788397791596665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshimiasa 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040788373653303296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJWNplaMAAAY1U.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040788374907396097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJWNuQaIAE_7ls.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040788374907396096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJWNuQaIAAieHO.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040788376811679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJWN1WbMAAzi0M.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2040788397791596665",
+        "created_at": "2026-04-06T06:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041047587244101913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012826439356383232",
+              "start": 0,
+              "username": "hoshimiasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041047587244101913",
+        "in_reply_to_user_id": "2012826439356383232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040788397791596665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshimiasa 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040788373653303296",
+            "3_2040788374907396097",
+            "3_2040788374907396096",
+            "3_2040788376811679744"
+          ]
+        },
+        "author_id": "2012826439356383232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040788397791596665",
+        "created_at": "2026-04-05T13:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040788397791596665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYDvLBpInR",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshimiasa/status/2040788397791596665/photo/1",
+              "media_key": "3_2040788373653303296",
+              "start": 12,
+              "url": "https://t.co/lYDvLBpInR"
+            },
+            {
+              "display_url": "pic.x.com/lYDvLBpInR",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshimiasa/status/2040788397791596665/photo/1",
+              "media_key": "3_2040788374907396097",
+              "start": 12,
+              "url": "https://t.co/lYDvLBpInR"
+            },
+            {
+              "display_url": "pic.x.com/lYDvLBpInR",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshimiasa/status/2040788397791596665/photo/1",
+              "media_key": "3_2040788374907396096",
+              "start": 12,
+              "url": "https://t.co/lYDvLBpInR"
+            },
+            {
+              "display_url": "pic.x.com/lYDvLBpInR",
+              "end": 35,
+              "expanded_url": "https://x.com/hoshimiasa/status/2040788397791596665/photo/1",
+              "media_key": "3_2040788376811679744",
+              "start": 12,
+              "url": "https://t.co/lYDvLBpInR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040788397791596665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是一个人打更容易吃分 https://t.co/lYDvLBpInR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 323,
+          "like_count": 7386,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 5060
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi     11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师          希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "梓鸠phi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021438487480942594/F9RIPoG4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 51,
+          "like_count": 1116,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 90
+        },
+        "username": "hoshimiasa",
+        "verified": false
+      }
+    ]
+  }
+}

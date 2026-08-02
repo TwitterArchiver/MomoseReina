@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1985938031187280058",
+    "created_at": "2025-11-06T05:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T06:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986303781399916790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821304109451931648",
+          "start": 0,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986303781399916790",
+    "in_reply_to_user_id": "1821304109451931648",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986090065345528145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fisa_wo @Distorted_ming (⁠☆⁠▽⁠☆⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1985938031187280058",
+        "created_at": "2025-11-06T05:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T06:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986303781399916790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821304109451931648",
+              "start": 0,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986303781399916790",
+        "in_reply_to_user_id": "1821304109451931648",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986090065345528145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fisa_wo @Distorted_ming (⁠☆⁠▽⁠☆⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821304109451931648",
+        "conversation_id": "1985938031187280058",
+        "created_at": "2025-11-05T15:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T16:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986090065345528145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 28,
+              "id": "1688101533198475264",
+              "start": 13,
+              "username": "Distorted_ming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986090065345528145",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986066362427666776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @Distorted_ming 欸www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 1710,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "喜欢大家❤️喜欢初音❤️喜欢自己❤️|小号❤️:@fisa_ling（女装/负面）\n老婆❤️:@Distorted_ming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "fisa_ling"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Distorted_ming"
+              }
+            ]
+          }
+        },
+        "id": "1821304109451931648",
+        "location": "Japan",
+        "name": "翎",
+        "pinned_tweet_id": "1984279335466135664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975197411338522624/0WUxbiHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 1280,
+          "like_count": 14925,
+          "listed_count": 4,
+          "media_count": 419,
+          "tweet_count": 2945
+        },
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

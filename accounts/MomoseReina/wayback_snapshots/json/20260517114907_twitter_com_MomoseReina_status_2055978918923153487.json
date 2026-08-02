@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2055964930483126276",
+    "created_at": "2026-05-17T11:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055978918923153487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055978918923153487",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055978137293557823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban 这么大需求啊，关键是你这玩意也不合规啊，容易被ban（\n而且面对这么大需求，如果流量还大，哪家网盘都分分钟ban号的\n这种情况我推荐，自己在家组nas然后开webdav，最经济\n要稳定就上各家云厂商的对象存储"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055978114917056513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNM9WbwAEFhkd.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055978116154294272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNNB9agAArbgG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055978116796010497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNNEWaUAERXnh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2055978117408477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhNNGob0AA2dWM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2055964930483126276",
+        "created_at": "2026-05-17T11:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055978918923153487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055978918923153487",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055978137293557823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban 这么大需求啊，关键是你这玩意也不合规啊，容易被ban（\n而且面对这么大需求，如果流量还大，哪家网盘都分分钟ban号的\n这种情况我推荐，自己在家组nas然后开webdav，最经济\n要稳定就上各家云厂商的对象存储"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055978114917056513",
+            "3_2055978116154294272",
+            "3_2055978116796010497",
+            "3_2055978117408477184"
+          ]
+        },
+        "author_id": "1420072716963520520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055964930483126276",
+        "created_at": "2026-05-17T11:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055978137293557823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNk6trLb3X",
+              "end": 180,
+              "expanded_url": "https://x.com/meiqinyuban/status/2055978137293557823/photo/1",
+              "media_key": "3_2055978114917056513",
+              "start": 157,
+              "url": "https://t.co/ZNk6trLb3X"
+            },
+            {
+              "display_url": "pic.x.com/ZNk6trLb3X",
+              "end": 180,
+              "expanded_url": "https://x.com/meiqinyuban/status/2055978137293557823/photo/1",
+              "media_key": "3_2055978116154294272",
+              "start": 157,
+              "url": "https://t.co/ZNk6trLb3X"
+            },
+            {
+              "display_url": "pic.x.com/ZNk6trLb3X",
+              "end": 180,
+              "expanded_url": "https://x.com/meiqinyuban/status/2055978137293557823/photo/1",
+              "media_key": "3_2055978116796010497",
+              "start": 157,
+              "url": "https://t.co/ZNk6trLb3X"
+            },
+            {
+              "display_url": "pic.x.com/ZNk6trLb3X",
+              "end": 180,
+              "expanded_url": "https://x.com/meiqinyuban/status/2055978137293557823/photo/1",
+              "media_key": "3_2055978117408477184",
+              "start": 157,
+              "url": "https://t.co/ZNk6trLb3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055978137293557823",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055977384508346586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina a？我主要是有大存储需求，需要大约10个T的空间，存大约22万首歌，服务器只有可怜巴巴的30个g，我打算给已停服的天行视点点歌机建立云下载曲库，前两天好不容易把ngnix通讯问题解决，现在可以正常从服务器拉文件，网盘每个月很便宜，我就考虑把网盘挂载到服务器，因为服务器买10个t空间太贵 https://t.co/ZNk6trLb3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 346,
+          "like_count": 8195,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 5669
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，\n成分：娱乐级街机音游玩家、电子DIY 、GNU/Linux、卡拉OK、讨论一些奇怪的问题  把我当男的当女的都行 或许是男娘（？ 专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "2005599456377667826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035389972740739072/zyUO7hv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 845,
+          "like_count": 18658,
+          "listed_count": 1,
+          "media_count": 1644,
+          "tweet_count": 8739
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

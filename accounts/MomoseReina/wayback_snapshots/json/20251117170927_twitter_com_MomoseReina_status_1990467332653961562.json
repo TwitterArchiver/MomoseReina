@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990447778267537744",
+    "created_at": "2025-11-17T17:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T18:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990467332653961562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297736984186757121",
+          "start": 0,
+          "username": "Luka9637"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990467332653961562",
+    "in_reply_to_user_id": "1297736984186757121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990447778267537744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luka9637 好冷🥶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990447778267537744",
+        "created_at": "2025-11-17T17:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990467332653961562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297736984186757121",
+              "start": 0,
+              "username": "Luka9637"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990467332653961562",
+        "in_reply_to_user_id": "1297736984186757121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990447778267537744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luka9637 好冷🥶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297736984186757121",
+        "conversation_id": "1990447778267537744",
+        "created_at": "2025-11-17T15:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990447778267537744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990447778267537744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好冷🥶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 234,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-24T03:26:35.000Z",
+        "description": "If the surrounding is a luminous color, my existence might be thin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vlink.cc/luka9637",
+                "end": 23,
+                "expanded_url": "https://vlink.cc/luka9637",
+                "start": 0,
+                "url": "https://t.co/FYQ9gVCkiV"
+              }
+            ]
+          }
+        },
+        "id": "1297736984186757121",
+        "location": "任何地方",
+        "name": "Luka",
+        "pinned_tweet_id": "1986100247555453290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919019167367221248/p5CwNPRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 213,
+          "like_count": 4973,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2108
+        },
+        "url": "https://t.co/FYQ9gVCkiV",
+        "username": "Luka9637",
+        "verified": false
+      }
+    ]
+  }
+}

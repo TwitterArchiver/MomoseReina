@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983767084128682388",
+    "created_at": "2025-10-30T10:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983844341648125990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923225863602294784",
+          "start": 0,
+          "username": "jiujiuSama8512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983844341648125990",
+    "in_reply_to_user_id": "1923225863602294784",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983767084128682388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiujiuSama8512 1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 224,
+        "media_key": "3_1983767081805025280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fBpoQaEAAHDGy.jpg",
+        "width": 230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983767084128682388",
+        "created_at": "2025-10-30T10:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983844341648125990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923225863602294784",
+              "start": 0,
+              "username": "jiujiuSama8512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983844341648125990",
+        "in_reply_to_user_id": "1923225863602294784",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983767084128682388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiujiuSama8512 1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983767081805025280"
+          ]
+        },
+        "author_id": "1923225863602294784",
+        "conversation_id": "1983767084128682388",
+        "created_at": "2025-10-30T05:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983767084128682388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcI4zt98nD",
+              "end": 50,
+              "expanded_url": "https://x.com/jiujiuSama8512/status/1983767084128682388/photo/1",
+              "media_key": "3_1983767081805025280",
+              "start": 27,
+              "url": "https://t.co/rcI4zt98nD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983767084128682388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 246,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣1和我互fo喵，已经互fo的可以贴贴抱抱举高高喵😋 https://t.co/rcI4zt98nD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 208,
+          "like_count": 1475,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "玖玖不明不白就被封掉了（@JiuMiao58736）生日09.8.12,坐标沧州，173/65kg 高中牲，是MTF欢迎同类互fo，无天赋全损党，偶尔涩涩，🚪10米 ，负能警告⚠️，同类可以直接问好友位喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "JiuMiao58736"
+              }
+            ]
+          }
+        },
+        "id": "1923225863602294784",
+        "location": "河北",
+        "name": "玖玖Sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1982300386489983444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 114,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 379
+        },
+        "username": "jiujiuSama8512",
+        "verified": false
+      }
+    ]
+  }
+}

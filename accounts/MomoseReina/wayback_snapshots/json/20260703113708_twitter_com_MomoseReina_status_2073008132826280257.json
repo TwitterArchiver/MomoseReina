@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2072865910206124128",
+    "created_at": "2026-07-03T11:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073008132826280257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        },
+        {
+          "end": 24,
+          "id": "1647075197277847552",
+          "start": 15,
+          "username": "1942ILSX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073008132826280257",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073007932036505736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty @1942ILSX 目前是的，但是我是几年前硬盘白菜价时买的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2072865910206124128",
+        "created_at": "2026-07-03T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073008132826280257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            },
+            {
+              "end": 24,
+              "id": "1647075197277847552",
+              "start": 15,
+              "username": "1942ILSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073008132826280257",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073007932036505736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty @1942ILSX 目前是的，但是我是几年前硬盘白菜价时买的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031743711737040897",
+        "conversation_id": "2072865910206124128",
+        "created_at": "2026-07-03T11:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073007932036505736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 22,
+              "id": "1647075197277847552",
+              "start": 13,
+              "username": "1942ILSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073007932036505736",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072986019797041313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @1942ILSX nas成本是不是有点高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 339,
+          "like_count": 9093,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 6474
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "不会有mainland的蠢货用自己照片当推特头像吧",
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "祈酱",
+        "pinned_tweet_id": "2012839043222929547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068016955630788608/n2M2HH3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 609,
+          "like_count": 510,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "LittleQiKitty",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T03:11:53.000Z",
+        "description": "Somewhere over the world. | HTTP 200 OK | ssh rosmontis@terminal -i ~/.ssh/1942ILSX_id_ed25519 | 🇨🇳🇺🇸 | sudo echo meow~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "re45.cn",
+                "end": 23,
+                "expanded_url": "http://re45.cn",
+                "start": 0,
+                "url": "https://t.co/TEjA8cGbSW"
+              }
+            ]
+          }
+        },
+        "id": "1647075197277847552",
+        "location": "Cupertino, CA",
+        "name": "1942ILSX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072317366407475200/x0K5OkXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 59,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/TEjA8cGbSW",
+        "username": "1942ILSX",
+        "verified": false
+      }
+    ]
+  }
+}

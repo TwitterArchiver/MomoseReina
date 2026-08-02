@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1989301996659069217",
+    "created_at": "2025-11-14T11:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T12:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989301996659069217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chise_awa/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Chise_awa/status/1989125164647555457",
+          "start": 6,
+          "url": "https://t.co/PNqf0EW0iK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989301996659069217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989125164647555457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是迪拉熊 https://t.co/PNqf0EW0iK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1989301996659069217",
+        "created_at": "2025-11-14T11:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T12:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989301996659069217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chise_awa/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Chise_awa/status/1989125164647555457",
+              "start": 6,
+              "url": "https://t.co/PNqf0EW0iK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989301996659069217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989125164647555457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是迪拉熊 https://t.co/PNqf0EW0iK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "1989125164647555457",
+        "created_at": "2025-11-14T00:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989125164647555457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/1988999185140756751",
+              "start": 5,
+              "url": "https://t.co/U6q6fF7J7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989125164647555457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6763,
+          "like_count": 63,
+          "quote_count": 11,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988999185140756751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女的 https://t.co/U6q6fF7J7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 233,
+          "like_count": 1823,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "千世单推人💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 时不时发神经的理科生 | 可以叫我小千 | 想要变可爱 | 无糖 |  ❤ @Fisa_wo | 小号：@distorted114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 90,
+                "username": "Fisa_wo"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "distorted114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fwKB6"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 1029,
+          "like_count": 14146,
+          "listed_count": 1,
+          "media_count": 225,
+          "tweet_count": 4259
+        },
+        "url": "https://t.co/yj1O6fwKB6",
+        "username": "Chise_awa",
+        "verified": false
+      }
+    ]
+  }
+}

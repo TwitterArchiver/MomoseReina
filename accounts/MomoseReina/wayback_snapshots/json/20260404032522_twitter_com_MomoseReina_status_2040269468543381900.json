@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2040017530383946055",
+    "created_at": "2026-04-04T03:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040269468543381900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807972342955405313",
+          "start": 0,
+          "username": "SuXiNewleft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040269468543381900",
+    "in_reply_to_user_id": "1807972342955405313",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040017530383946055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuXiNewleft vrc（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2040017530383946055",
+        "created_at": "2026-04-04T03:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040269468543381900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807972342955405313",
+              "start": 0,
+              "username": "SuXiNewleft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040269468543381900",
+        "in_reply_to_user_id": "1807972342955405313",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040017530383946055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuXiNewleft vrc（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2040017528102232064"
+          ]
+        },
+        "author_id": "1807972342955405313",
+        "conversation_id": "2040017530383946055",
+        "created_at": "2026-04-03T10:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040017530383946055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040017530383946055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2136,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，我现在能自由用电脑了，但我只能下一个游戏，你们能帮我做出选择吗😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 324,
+          "like_count": 7328,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 5033
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "你好啊，这里是一般路过反贼溯汐\nLiberté,Égalité,Fraternité｜Democratic Socialism🌹｜Revolution｜国际主义🇺🇳｜｜汉文化爱好者｜目前在读《国家与革命》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Spartacus15388",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Spartacus15388",
+                "start": 0,
+                "url": "https://t.co/NFj4OOnlxy"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "location": "亚细亚洲",
+        "name": "溯汐🌹👊⚙️",
+        "pinned_tweet_id": "2027652604411711530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035345328510234624/md7LkxFD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 283,
+          "like_count": 1466,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/NFj4OOnlxy",
+        "username": "SuXiNewleft",
+        "verified": false
+      }
+    ]
+  }
+}

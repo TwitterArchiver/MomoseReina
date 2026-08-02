@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2073935269703860621",
+    "created_at": "2026-07-06T03:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073974112092094960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073974112092094960",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073968500637376546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 但是这是免费早餐🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2073935269703860621",
+        "created_at": "2026-07-06T03:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073974112092094960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073974112092094960",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073968500637376546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 但是这是免费早餐🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2073935269703860621",
+        "created_at": "2026-07-06T03:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073968500637376546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073968500637376546",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073935269703860621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 全预制没绷住（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 337,
+          "like_count": 9141,
+          "listed_count": 6,
+          "media_count": 412,
+          "tweet_count": 6514
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "在校高中生，希望能交点朋友，来找我吧球球了😭下方链接问我问题，都会回的⬇️/互fo🙏🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2071966392396476768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070533488508391424/xUQHTPQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 295,
+          "like_count": 4382,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

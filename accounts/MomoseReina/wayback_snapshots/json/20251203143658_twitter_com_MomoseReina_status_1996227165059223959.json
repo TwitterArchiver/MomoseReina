@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1995389753592877060",
+    "created_at": "2025-12-03T14:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996227165059223959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "Canmi21"
+        },
+        {
+          "end": 20,
+          "id": "1555140316629307393",
+          "start": 9,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996227165059223959",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996226619657085203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Canmi21 @MTNEKO8964 买标准杯！\n17系列的标准杯真的是近几年最香的，如果不考虑摄影，基本上没pro什么事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1995389753592877060",
+        "created_at": "2025-12-03T14:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996227165059223959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "Canmi21"
+            },
+            {
+              "end": 20,
+              "id": "1555140316629307393",
+              "start": 9,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996227165059223959",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996226619657085203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canmi21 @MTNEKO8964 买标准杯！\n17系列的标准杯真的是近几年最香的，如果不考虑摄影，基本上没pro什么事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799009511333830656",
+        "conversation_id": "1995389753592877060",
+        "created_at": "2025-12-03T14:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996226619657085203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555140316629307393",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/canmi21/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/canmi21/status/1996226468632793192",
+              "start": 15,
+              "url": "https://t.co/S8bM3zlcCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996226619657085203",
+        "in_reply_to_user_id": "1555140316629307393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996226468632793192",
+            "type": "quoted"
+          },
+          {
+            "id": "1995389753592877060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 别买 https://t.co/S8bM3zlcCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 266,
+          "like_count": 2688,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "睡觉最舒服了嘛💤 什么时候才能睡醒呢🤔 | 向阳的猫猫 @JuYanYan1 ☀️🐾 | ENTP(INFJ?) | 日本語 & アニメ 🎨 | ⚠️ NSFW Corner ❤️ | 猫のファン & 观察 淡淡的色彩 👀 ⚓🏠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "JuYanYan1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ill.li",
+                "end": 23,
+                "expanded_url": "https://ill.li",
+                "start": 0,
+                "url": "https://t.co/4w4PKDEyvZ"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Lost in code",
+        "name": "Canmi",
+        "pinned_tweet_id": "1995822677907399049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962892030771642368/h7MH8ACS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 84,
+          "like_count": 3989,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 1993
+        },
+        "url": "https://t.co/4w4PKDEyvZ",
+        "username": "Canmi21",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T10:35:41.000Z",
+        "description": "MtX🍥｜hrt：25.2.11｜泛性恋 / 社恐 / 抑郁焦虑 / 社会化程度极低的阿斯｜面条的tg频道https://t.co/lTJOZv0FHG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 76,
+                "expanded_url": "https://t.me/MTNEKO123456",
+                "start": 53,
+                "url": "https://t.co/lTJOZv0FHG"
+              }
+            ]
+          }
+        },
+        "id": "1555140316629307393",
+        "name": "面条喵🍥🐱🐈（重新开始",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993999956198477824/GL9pGhbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 44,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

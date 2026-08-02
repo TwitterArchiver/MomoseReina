@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2027436214446657706",
+    "created_at": "2026-02-27T17:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027437696017432761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375769014396329985",
+          "start": 0,
+          "username": "gra5s_awa"
+        }
+      ],
+      "urls": [
+        {
+          "description": "BEMANICN",
+          "display_url": "map.bemanicn.com/region/city/42…",
+          "end": 34,
+          "expanded_url": "https://map.bemanicn.com/region/city/420100000000",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/2027437716183650312/f5VX-L7H?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2027437716183650312/f5VX-L7H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "街机地图",
+          "unwound_url": "https://map.bemanicn.com/region/city/420100000000",
+          "url": "https://t.co/KjgqrVSJjv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027437696017432761",
+    "in_reply_to_user_id": "1375769014396329985",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027436214446657706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gra5s_awa https://t.co/KjgqrVSJjv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2027436214446657706",
+        "created_at": "2026-02-27T17:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027437696017432761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375769014396329985",
+              "start": 0,
+              "username": "gra5s_awa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BEMANICN",
+              "display_url": "map.bemanicn.com/region/city/42…",
+              "end": 34,
+              "expanded_url": "https://map.bemanicn.com/region/city/420100000000",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/2027437716183650312/f5VX-L7H?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027437716183650312/f5VX-L7H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "街机地图",
+              "unwound_url": "https://map.bemanicn.com/region/city/420100000000",
+              "url": "https://t.co/KjgqrVSJjv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027437696017432761",
+        "in_reply_to_user_id": "1375769014396329985",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027436214446657706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gra5s_awa https://t.co/KjgqrVSJjv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375769014396329985",
+        "conversation_id": "2027436214446657706",
+        "created_at": "2026-02-27T17:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027436214446657706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027436214446657706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提前一天回学校，不知道干什么了…\n明天出勤吧，但是不知道武汉哪里有机厅\n舞萌地图怎么装😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 317,
+          "like_count": 6409,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T11:21:47.000Z",
+        "description": "漢語｜EN｜日本語 大一｜现居武汉｜微宅｜成分复杂喵",
+        "id": "1375769014396329985",
+        "name": "风笛bagpipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026573161769349121/e4V5I3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 139,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1217
+        },
+        "username": "gra5s_awa",
+        "verified": false
+      }
+    ]
+  }
+}

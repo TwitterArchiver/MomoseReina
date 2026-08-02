@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2053819937207226608",
+    "created_at": "2026-05-11T23:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T00:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053976265653440917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaBasupisu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053976265653440917",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053819937207226608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaBasupisu 烧不动了（\n开个极致跑60fps以上就满足了，流畅性有时候比画质更重要看起来更舒服（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_2053819746819432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICiLZna4AAw0mU.jpg",
+        "width": 2226
+      },
+      {
+        "height": 734,
+        "media_key": "3_2053819802960240640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICiOqwboAABMBV.jpg",
+        "width": 2279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2053819937207226608",
+        "created_at": "2026-05-11T23:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053976265653440917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaBasupisu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053976265653440917",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053819937207226608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaBasupisu 烧不动了（\n开个极致跑60fps以上就满足了，流畅性有时候比画质更重要看起来更舒服（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053819746819432448",
+            "3_2053819802960240640"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053819937207226608",
+        "created_at": "2026-05-11T12:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053819937207226608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RwFctskR9p",
+              "end": 45,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2053819937207226608/photo/1",
+              "media_key": "3_2053819746819432448",
+              "start": 22,
+              "url": "https://t.co/RwFctskR9p"
+            },
+            {
+              "display_url": "pic.x.com/RwFctskR9p",
+              "end": 45,
+              "expanded_url": "https://x.com/KawawaBasupisu/status/2053819937207226608/photo/1",
+              "media_key": "3_2053819802960240640",
+              "start": 22,
+              "url": "https://t.co/RwFctskR9p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053819937207226608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 892,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闭嘴 我为整颗GPU花了钱的，给我烧起来🥵 https://t.co/RwFctskR9p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 336,
+          "like_count": 8079,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 5565
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "Minecraft船大工& Flight enthusiast👨‍✈️& 僵毁老司机& 资深洛批& AC7 & 洛圣都佐巴扬&超级气球冻肉\n日本語⭕、English⭕、蜀语⭕\n拒绝搬屎\nJapanglish NG\n不负责弱智和粉区碰瓷后的创伤后应激障碍治疗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caac.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.caac.gov.cn",
+                "start": 0,
+                "url": "https://t.co/hLiv6Lbagv"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": " 卡洛西亚大陸",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1903109740160335943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979181079417290752/wVluLINB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12637,
+          "following_count": 1952,
+          "like_count": 52569,
+          "listed_count": 56,
+          "media_count": 1082,
+          "tweet_count": 6657
+        },
+        "url": "https://t.co/hLiv6Lbagv",
+        "username": "KawawaBasupisu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2002721669086052648",
+    "created_at": "2025-12-22T06:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002997067472617809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        },
+        {
+          "end": 25,
+          "id": "164224930",
+          "start": 12,
+          "username": "MinakoOikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002997067472617809",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002991828329738724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO @MinakoOikawa 捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2002721669086052648",
+        "created_at": "2025-12-22T06:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002997067472617809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            },
+            {
+              "end": 25,
+              "id": "164224930",
+              "start": 12,
+              "username": "MinakoOikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002997067472617809",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002991828329738724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO @MinakoOikawa 捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2002721669086052648",
+        "created_at": "2025-12-22T06:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002991828329738724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002991828329738724",
+        "in_reply_to_user_id": "164224930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002721669086052648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa 哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 275,
+          "like_count": 3634,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2735
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統。System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002920527221161984/rfK_sPNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 2179,
+          "like_count": 32965,
+          "listed_count": 17,
+          "media_count": 1346,
+          "tweet_count": 11361
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel / 空手道應酬 / Xoogler / OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9097,
+          "following_count": 6075,
+          "like_count": 82292,
+          "listed_count": 116,
+          "media_count": 2794,
+          "tweet_count": 55607
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      }
+    ]
+  }
+}

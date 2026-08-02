@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974487328421990528",
+    "created_at": "2025-10-04T16:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974507873653940401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821089011727003649",
+          "start": 0,
+          "username": "arrco_justin2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974507873653940401",
+    "in_reply_to_user_id": "1821089011727003649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974487328421990528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrco_justin2 晚安喔~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1974487322034147328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bJwhNbkAAFyHV.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974487328421990528",
+        "created_at": "2025-10-04T16:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974507873653940401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974507873653940401",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974487328421990528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 晚安喔~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974487322034147328"
+          ]
+        },
+        "author_id": "1821089011727003649",
+        "conversation_id": "1974487328421990528",
+        "created_at": "2025-10-04T14:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974487328421990528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elwoaugwNw",
+              "end": 37,
+              "expanded_url": "https://x.com/arrco_justin2/status/1974487328421990528/photo/1",
+              "media_key": "3_1974487322034147328",
+              "start": 14,
+              "url": "https://t.co/elwoaugwNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974487328421990528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安喵！愿大家做个好梦喵！ https://t.co/elwoaugwNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 24,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个12岁的小屁孩！\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通~\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 78,
+                "username": "ARRCO_JUSTIN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.top",
+                "end": 23,
+                "expanded_url": "http://arrco.top",
+                "start": 0,
+                "url": "https://t.co/nPyVK2D3ea"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "China",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973212881815740417/cHsI3JqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 493,
+          "like_count": 5580,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/nPyVK2D3ea",
+        "username": "arrco_justin2",
+        "verified": false
+      }
+    ]
+  }
+}

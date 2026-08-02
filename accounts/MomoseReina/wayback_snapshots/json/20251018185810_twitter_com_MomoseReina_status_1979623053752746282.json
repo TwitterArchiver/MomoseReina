@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979619135425573079",
+    "created_at": "2025-10-18T18:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T19:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979623053752746282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790399279129088000",
+          "start": 0,
+          "username": "yanshiyo"
+        },
+        {
+          "end": 29,
+          "id": "1673364955171782657",
+          "start": 18,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979623053752746282",
+    "in_reply_to_user_id": "1790399279129088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979619135425573079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanshiyo 无效打码🤓☝️\n@kxk1388574"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1979619132304736256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kFHMOXQAATAsZ.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979619135425573079",
+        "created_at": "2025-10-18T18:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979623053752746282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "yanshiyo"
+            },
+            {
+              "end": 29,
+              "id": "1673364955171782657",
+              "start": 18,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979623053752746282",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979619135425573079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshiyo 无效打码🤓☝️\n@kxk1388574"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979619132304736256"
+          ]
+        },
+        "author_id": "1790399279129088000",
+        "conversation_id": "1979619135425573079",
+        "created_at": "2025-10-18T18:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979619135425573079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80jGIHakKm",
+              "end": 23,
+              "expanded_url": "https://x.com/yanshiyo/status/1979619135425573079/photo/1",
+              "media_key": "3_1979619132304736256",
+              "start": 0,
+              "url": "https://t.co/80jGIHakKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979619135425573079",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/80jGIHakKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 182,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T15:10:38.000Z",
+        "description": "大量无意义转贴＋负能量碎碎念＝我的贴文\n\nMtX/Asexual/Agender\n\n精神病/自残惯犯/自尽未遂/沉迷幻想/酒精依赖/乐子人/抽象/希望成为正常人/\n\n大专辍学3年/在家摆烂/作息紊乱/急事电话QQ联系\n\n里推 @yanshiyo1\n （基本为负能量碎碎念谨慎关注\n（需审核。有墙内联系方式的直接通过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yanshiyo1"
+              }
+            ]
+          }
+        },
+        "id": "1790399279129088000",
+        "location": "@yanshiyo1",
+        "name": "yanshiyo《转贴大王》",
+        "pinned_tweet_id": "1958432661002940523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958067574941564928/bgPIZPSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 337,
+          "like_count": 1087,
+          "listed_count": 1,
+          "media_count": 1951,
+          "tweet_count": 7611
+        },
+        "username": "yanshiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（全都不会弹）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8724,
+          "following_count": 5444,
+          "like_count": 44325,
+          "listed_count": 12,
+          "media_count": 695,
+          "tweet_count": 6022
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

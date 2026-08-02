@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1975123359118872583",
+    "created_at": "2025-10-07T11:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T12:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975530162453422570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821304109451931648",
+          "start": 0,
+          "username": "Fisa_wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975530162453422570",
+    "in_reply_to_user_id": "1821304109451931648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975123359118872583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fisa_wo 让咱食用awa！"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "免责声明 / Disclaimer / 免責事項\n\n免责声明:本作品中使用的所有素材，包括但不限于图像、字体、图标等，仅用于个人非商业展示及创作目的。若涉及版权问题或权利人异议，可随时联系我删除相关内容。\n\nDisclaimer:This work uses materials including, but not limited to, images, fonts, and icons, solely for personal non-commercial display and creative purposes. If any copyright or ownership concerns arise, please contact me for removal.\n\n免責事項:本作品で使用している素材（画像、フォント、アイコン等を含むがこれに限らない）は、個人の非営利展示および創作目的でのみ使用しています。著作権や権利者の異議がある場合は、ご連絡いただければ削除いたします。",
+        "height": 1080,
+        "media_key": "3_1975123354467418112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2kMOeqbwAAgZB9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1975123359118872583",
+        "created_at": "2025-10-07T11:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975530162453422570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821304109451931648",
+              "start": 0,
+              "username": "Fisa_wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975530162453422570",
+        "in_reply_to_user_id": "1821304109451931648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975123359118872583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fisa_wo 让咱食用awa！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975123354467418112"
+          ]
+        },
+        "author_id": "1821304109451931648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975123359118872583",
+        "created_at": "2025-10-06T08:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T09:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975123359118872583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IKFOy4s6cd",
+              "end": 35,
+              "expanded_url": "https://x.com/Fisa_wo/status/1975123359118872583/photo/1",
+              "media_key": "3_1975123354467418112",
+              "start": 12,
+              "url": "https://t.co/IKFOy4s6cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975123359118872583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1313,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "号主的食用方法喵～♡😘 https://t.co/IKFOy4s6cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 193
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T21:55:18.000Z",
+        "description": "⭐：不见证！不鉴政！不涉政！\n欢迎来tg找我聊天喔～\n小号：@fisa_ling",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "fisa_ling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Fisa_Sanswgh",
+                "end": 23,
+                "expanded_url": "http://t.me/Fisa_Sanswgh",
+                "start": 0,
+                "url": "https://t.co/C6HXIofQDX"
+              }
+            ]
+          }
+        },
+        "id": "1821304109451931648",
+        "location": "Japan",
+        "name": "翎",
+        "pinned_tweet_id": "1975123359118872583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975197411338522624/0WUxbiHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 1178,
+          "like_count": 13341,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/C6HXIofQDX",
+        "username": "Fisa_wo",
+        "verified": false
+      }
+    ]
+  }
+}

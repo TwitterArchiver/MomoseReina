@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2050124311995027696",
+    "created_at": "2026-05-01T17:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050269213458387295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895142421027266562",
+          "start": 0,
+          "username": "rating3pro"
+        },
+        {
+          "end": 28,
+          "id": "2840236608",
+          "start": 12,
+          "username": "MilkSU_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050269213458387295",
+    "in_reply_to_user_id": "1895142421027266562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050269079303598521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating3pro @MilkSU_Official xm什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2050124311995027696",
+        "created_at": "2026-05-01T17:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050269213458387295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895142421027266562",
+              "start": 0,
+              "username": "rating3pro"
+            },
+            {
+              "end": 28,
+              "id": "2840236608",
+              "start": 12,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050269213458387295",
+        "in_reply_to_user_id": "1895142421027266562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050269079303598521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating3pro @MilkSU_Official xm什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895142421027266562",
+        "conversation_id": "2050124311995027696",
+        "created_at": "2026-05-01T17:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050269079303598521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            },
+            {
+              "end": 29,
+              "id": "1870108535268487169",
+              "start": 17,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050269079303598521",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050192759945121839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official @MomoseReina 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 335,
+          "like_count": 7921,
+          "listed_count": 4,
+          "media_count": 315,
+          "tweet_count": 5424
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T16:02:27.000Z",
+        "description": "那个…你好。\n会一点运维和网络。\n爱玩CS和Roblox。\nGithub：https://t.co/FvavRW85Wq\n博客在下面。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/rating3pro",
+                "end": 60,
+                "expanded_url": "http://github.com/rating3pro",
+                "start": 37,
+                "url": "https://t.co/FvavRW85Wq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xie.today",
+                "end": 23,
+                "expanded_url": "https://www.xie.today",
+                "start": 0,
+                "url": "https://t.co/DnJdutCEUJ"
+              }
+            ]
+          }
+        },
+        "id": "1895142421027266562",
+        "name": "rating3pro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924650024274952196/BSGXBM2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 273,
+          "like_count": 14539,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/DnJdutCEUJ",
+        "username": "rating3pro",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 2576,
+          "like_count": 39446,
+          "listed_count": 19,
+          "media_count": 1492,
+          "tweet_count": 12963
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

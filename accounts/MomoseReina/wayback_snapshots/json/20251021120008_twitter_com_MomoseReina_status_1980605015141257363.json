@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1980595945034363222",
+    "created_at": "2025-10-21T12:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T13:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980605015141257363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1431699715163262978",
+          "start": 0,
+          "username": "LittleYue0721"
+        },
+        {
+          "end": 31,
+          "id": "1650682917964906496",
+          "start": 15,
+          "username": "QihuaiNya114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980605015141257363",
+    "in_reply_to_user_id": "1431699715163262978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980597870467465325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleYue0721 @QihuaiNya114514 穿越回去投资BTC(⁠≧⁠▽⁠≦⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1980595945034363222",
+        "created_at": "2025-10-21T12:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980605015141257363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1431699715163262978",
+              "start": 0,
+              "username": "LittleYue0721"
+            },
+            {
+              "end": 31,
+              "id": "1650682917964906496",
+              "start": 15,
+              "username": "QihuaiNya114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980605015141257363",
+        "in_reply_to_user_id": "1431699715163262978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980597870467465325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleYue0721 @QihuaiNya114514 穿越回去投资BTC(⁠≧⁠▽⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431699715163262978",
+        "conversation_id": "1980595945034363222",
+        "created_at": "2025-10-21T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980597870467465325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650682917964906496",
+              "start": 0,
+              "username": "QihuaiNya114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980597870467465325",
+        "in_reply_to_user_id": "1650682917964906496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980595945034363222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QihuaiNya114514 不如穿越回去投资内存条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 195,
+          "like_count": 1230,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-28T19:26:35.000Z",
+        "description": "Mtf/158cm/44kg/HRT2022.10.18 持证含糖 眼熟会回fo咪 常驻武汉/是小厨娘/高强度刷推/转发代表认同/同类欢迎线下抓我和扩列",
+        "id": "1431699715163262978",
+        "location": "我们都不懂离别的重量 直到某天冷空气裹挟着回忆涌入",
+        "name": "间月🐱🍥",
+        "pinned_tweet_id": "1978739561200021828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966199750023421952/qB2OYIRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3546,
+          "following_count": 588,
+          "like_count": 13651,
+          "listed_count": 12,
+          "media_count": 223,
+          "tweet_count": 2178
+        },
+        "username": "LittleYue0721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T02:07:41.000Z",
+        "description": "Hi there is NekoHuai/04/在深圳接受正规HRT治疗的持证长发男生/ISFJ/轻躁狂期性冷淡郁期超想要贴贴的一般路过无性恋/CPTSD/淡推了偶遇即是缘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/QihuaiStartIn2…",
+                "end": 23,
+                "expanded_url": "https://t.me/QihuaiStartIn2025",
+                "start": 0,
+                "url": "https://t.co/nhS32nNCnR"
+              }
+            ]
+          }
+        },
+        "id": "1650682917964906496",
+        "location": "学生",
+        "name": "这个人叫祁怀怀",
+        "pinned_tweet_id": "1962552783527460986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976932551571947520/hqGJAFg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 352,
+          "like_count": 1805,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/nhS32nNCnR",
+        "username": "QihuaiNya114514",
+        "verified": false
+      }
+    ]
+  }
+}

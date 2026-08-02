@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1994705621263028420",
+    "created_at": "2025-11-29T12:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994747067500302683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994747067500302683",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994705621263028420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 😱😱😱\n这玩意好像要200万"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1994705611410563072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66eL2ea4AADHeC.jpg",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1994705621263028420",
+        "created_at": "2025-11-29T12:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994747067500302683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994747067500302683",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994705621263028420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 😱😱😱\n这玩意好像要200万"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994705611410563072"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "conversation_id": "1994705621263028420",
+        "created_at": "2025-11-29T09:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994705621263028420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaBbVEfwiQ",
+              "end": 28,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1994705621263028420/photo/1",
+              "media_key": "3_1994705611410563072",
+              "start": 5,
+              "url": "https://t.co/AaBbVEfwiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994705621263028420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界之极 https://t.co/AaBbVEfwiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 259,
+          "like_count": 2557,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "MtF🏳️‍⚧️HRT Nov. 2025｜铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust🍥",
+        "pinned_tweet_id": "1994430557099532647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983305818335596544/6uYNEMu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 563,
+          "like_count": 55758,
+          "listed_count": 3,
+          "media_count": 542,
+          "tweet_count": 3029
+        },
+        "username": "DustSwallo15805",
+        "verified": true
+      }
+    ]
+  }
+}

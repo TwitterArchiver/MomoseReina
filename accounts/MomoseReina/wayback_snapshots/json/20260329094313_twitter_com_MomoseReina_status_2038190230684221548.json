@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2038140837268541610",
+    "created_at": "2026-03-29T09:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038190230684221548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1467505552682995719",
+          "start": 0,
+          "username": "suMtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038190230684221548",
+    "in_reply_to_user_id": "1467505552682995719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038189022313599411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suMtF 这么多麻烦事啊\n咱学校也就要个租房协议+房产证复印件+走读缘由材料\n咱直接把病历原件扔给学校后走读证当场就给我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2038140837268541610",
+        "created_at": "2026-03-29T09:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038190230684221548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1467505552682995719",
+              "start": 0,
+              "username": "suMtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038190230684221548",
+        "in_reply_to_user_id": "1467505552682995719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038189022313599411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suMtF 这么多麻烦事啊\n咱学校也就要个租房协议+房产证复印件+走读缘由材料\n咱直接把病历原件扔给学校后走读证当场就给我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467505552682995719",
+        "conversation_id": "2038140837268541610",
+        "created_at": "2026-03-29T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038189022313599411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038189022313599411",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038188819724554637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 走读要好多证明，最主要是家长陪读，要家长亲自来签字并且陪读，学校有人不定期家访检查...总之就是很麻烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 324,
+          "like_count": 7198,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4938
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T14:46:20.000Z",
+        "description": "欢迎互fo或者找咱聊聊 咱很可爱哒 | 今年19，在校大学生 ，不含糖MtF | 身高只有160（天生药娘圣体qwq | 平时会做点小东西比如代码 | 计算机方面的问题也可以一起跟咱讨论 | 应急联系方式+44 7933802231 纸飞机的手机号同号（是手机号！）",
+        "id": "1467505552682995719",
+        "location": "CN-HuNan",
+        "name": "susu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010974389953839105/tBkxKWcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 549,
+          "like_count": 2289,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 344
+        },
+        "username": "suMtF",
+        "verified": false
+      }
+    ]
+  }
+}

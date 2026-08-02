@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996103886915211527",
+    "created_at": "2025-12-03T14:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996221031804289474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996221031804289474",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996103886915211527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 多注册两个号试试，咱有的号也没资格"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_1996103880028094464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OV5y_agAAfugC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996103886915211527",
+        "created_at": "2025-12-03T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996221031804289474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996221031804289474",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996103886915211527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 多注册两个号试试，咱有的号也没资格"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996103880028094464"
+          ]
+        },
+        "author_id": "1751084995312275456",
+        "conversation_id": "1996103886915211527",
+        "created_at": "2025-12-03T06:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996103886915211527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHtSaskIjA",
+              "end": 30,
+              "expanded_url": "https://x.com/MikuMiku3648/status/1996103886915211527/photo/1",
+              "media_key": "3_1996103880028094464",
+              "start": 7,
+              "url": "https://t.co/nHtSaskIjA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996103886915211527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲しい\n痛み https://t.co/nHtSaskIjA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 265,
+          "like_count": 2674,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2020
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」                                                                  友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumacIN5"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988287651238309889/AtwjAUBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3909,
+          "following_count": 1352,
+          "like_count": 38995,
+          "listed_count": 17,
+          "media_count": 2490,
+          "tweet_count": 14576
+        },
+        "url": "https://t.co/TLtumacIN5",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

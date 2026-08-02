@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1993402705596006769",
+    "created_at": "2025-11-27T02:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T03:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993864675709403410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751290211345330176",
+          "start": 0,
+          "username": "ZhonXuForCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993864675709403410",
+    "in_reply_to_user_id": "1751290211345330176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993700317524082887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhonXuForCS 123充会员的体验很不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1993402705596006769",
+        "created_at": "2025-11-27T02:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993864675709403410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751290211345330176",
+              "start": 0,
+              "username": "ZhonXuForCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993864675709403410",
+        "in_reply_to_user_id": "1751290211345330176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993700317524082887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhonXuForCS 123充会员的体验很不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751290211345330176",
+        "conversation_id": "1993402705596006769",
+        "created_at": "2025-11-26T15:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993700317524082887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993700317524082887",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993402705596006769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 国内厂商尿性\n123网盘还算好的，你还可以在Web端直接下载"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 255,
+          "like_count": 2412,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T17:05:09.000Z",
+        "description": "Greetings from China!\nA student & noob developer in Shandong.P\nprefer languages:JavaScript/TypeScript Kotlin C#\ngo and see my fixed post to get more info",
+        "id": "1751290211345330176",
+        "location": "Shandong Province",
+        "name": "Zhon_Xu",
+        "pinned_tweet_id": "1989981176040476672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992536241905238016/As9hc31r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 225,
+          "like_count": 1150,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 634
+        },
+        "username": "ZhonXuForCS",
+        "verified": false
+      }
+    ]
+  }
+}

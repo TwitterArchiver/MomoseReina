@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2019384377403404301",
+    "created_at": "2026-02-06T07:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019682355859116449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375769014396329985",
+          "start": 0,
+          "username": "gra5s_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019682355859116449",
+    "in_reply_to_user_id": "1375769014396329985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019384377403404301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gra5s_awa 我去，还有扫福瑞😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2019384367366434820",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZLYgnacAQ6KOb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2019384377403404301",
+        "created_at": "2026-02-06T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019682355859116449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375769014396329985",
+              "start": 0,
+              "username": "gra5s_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019682355859116449",
+        "in_reply_to_user_id": "1375769014396329985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019384377403404301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gra5s_awa 我去，还有扫福瑞😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019384367366434820"
+          ]
+        },
+        "author_id": "1375769014396329985",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019384377403404301",
+        "created_at": "2026-02-05T12:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019384377403404301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9cdduyYvvY",
+              "end": 30,
+              "expanded_url": "https://x.com/gra5s_awa/status/2019384377403404301/photo/1",
+              "media_key": "3_2019384367366434820",
+              "start": 7,
+              "url": "https://t.co/9cdduyYvvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019384377403404301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 587,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你是扫福瑞😋 https://t.co/9cdduyYvvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 303,
+          "like_count": 5644,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 4094
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T11:21:47.000Z",
+        "description": "漢語｜EN｜日本語 大一｜现居武汉｜微宅｜成分复杂喵",
+        "id": "1375769014396329985",
+        "name": "风笛bagpipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000598909178306560/lrkVLMy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 115,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 704
+        },
+        "username": "gra5s_awa",
+        "verified": false
+      }
+    ]
+  }
+}

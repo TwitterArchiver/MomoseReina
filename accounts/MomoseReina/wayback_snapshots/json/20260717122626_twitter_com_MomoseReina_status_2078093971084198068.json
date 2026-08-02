@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2077807309057888587",
+    "created_at": "2026-07-17T12:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078093971084198068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Saki_LN_0509"
+        },
+        {
+          "end": 21,
+          "id": "1902568136450424832",
+          "start": 14,
+          "username": "aoim33"
+        },
+        {
+          "end": 33,
+          "id": "2024518793679294464",
+          "start": 22,
+          "username": "ClaudeDevs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078093971084198068",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078082840575787445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saki_LN_0509 @aoim33 @ClaudeDevs 那不可能离的开（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2077807309057888587",
+        "created_at": "2026-07-17T12:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078093971084198068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Saki_LN_0509"
+            },
+            {
+              "end": 21,
+              "id": "1902568136450424832",
+              "start": 14,
+              "username": "aoim33"
+            },
+            {
+              "end": 33,
+              "id": "2024518793679294464",
+              "start": 22,
+              "username": "ClaudeDevs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078093971084198068",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078082840575787445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saki_LN_0509 @aoim33 @ClaudeDevs 那不可能离的开（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "conversation_id": "2077807309057888587",
+        "created_at": "2026-07-17T11:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078082840575787445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 20,
+              "id": "1902568136450424832",
+              "start": 13,
+              "username": "aoim33"
+            },
+            {
+              "end": 34,
+              "id": "2024518793679294464",
+              "start": 23,
+              "username": "ClaudeDevs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078082840575787445",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077807309057888587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @aoim33 是和@ClaudeDevs 说再见吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 337,
+          "like_count": 9321,
+          "listed_count": 5,
+          "media_count": 430,
+          "tweet_count": 6649
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Founder and CEO of Project Starlight | Keep Thinking",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightcord.team",
+                "end": 23,
+                "expanded_url": "http://nightcord.team",
+                "start": 0,
+                "url": "https://t.co/KU0PTKgcOM"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "上海 静安",
+        "name": "Lewis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070897078994087936/AwtSEF8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 331,
+          "like_count": 2408,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 515
+        },
+        "url": "https://t.co/KU0PTKgcOM",
+        "username": "Saki_LN_0509",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6466,
+          "following_count": 3122,
+          "like_count": 56187,
+          "listed_count": 22,
+          "media_count": 3589,
+          "tweet_count": 14623
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T16:19:46.000Z",
+        "description": "Official updates for developers building with @ClaudeAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 46,
+                "username": "ClaudeAI"
+              }
+            ]
+          }
+        },
+        "id": "2024518793679294464",
+        "name": "ClaudeDevs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604629,
+          "following_count": 2,
+          "like_count": 50,
+          "listed_count": 2890,
+          "media_count": 97,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "ClaudeDevs",
+        "verified": true
+      }
+    ]
+  }
+}

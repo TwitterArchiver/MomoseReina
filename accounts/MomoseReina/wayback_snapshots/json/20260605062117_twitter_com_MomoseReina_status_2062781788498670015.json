@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2062576720671379784",
+    "created_at": "2026-06-05T06:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062781788498670015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871502099202330624",
+          "start": 0,
+          "username": "keplerD080311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062781788498670015",
+    "in_reply_to_user_id": "1871502099202330624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062576720671379784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keplerD080311 身份证还能没收啊？\n先跟家里人打电话，要求拿身份证回家/报警二选一\n选前者皆大欢喜，选后者就要闹，闹得越大越好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2062576720671379784",
+        "created_at": "2026-06-05T06:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062781788498670015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871502099202330624",
+              "start": 0,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062781788498670015",
+        "in_reply_to_user_id": "1871502099202330624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062576720671379784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keplerD080311 身份证还能没收啊？\n先跟家里人打电话，要求拿身份证回家/报警二选一\n选前者皆大欢喜，选后者就要闹，闹得越大越好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871502099202330624",
+        "conversation_id": "2062576720671379784",
+        "created_at": "2026-06-04T16:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062576720671379784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062576720671379784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我被我妈扔在广东了\n怎么办\n谁能帮我\n本来是来这里实习，但是我不想干了，我想回家，我妈让学校没收了我的身份证，我现在哪里都去不了了…我该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 340,
+          "like_count": 8642,
+          "listed_count": 5,
+          "media_count": 355,
+          "tweet_count": 6017
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T10:24:17.000Z",
+        "description": "09年xyn/171/46kg\n喜欢音乐/摄影/火车🚄/城市天际线\n❤️：@KfirC10SRC\n🍥：20251012\n🎂:   20090210",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "KfirC10SRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/keplerd0803112",
+                "end": 23,
+                "expanded_url": "https://ngl.link/keplerd0803112",
+                "start": 0,
+                "url": "https://t.co/bHT3DIrNOP"
+              }
+            ]
+          }
+        },
+        "id": "1871502099202330624",
+        "location": "什亭之匣/ipad",
+        "name": "𝐀.𝐑.𝐎.𝐍.𝐀🍥",
+        "pinned_tweet_id": "2027070143239729549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042541693531275264/qRhYjR2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 1082,
+          "like_count": 5461,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/bHT3DIrNOP",
+        "username": "keplerD080311",
+        "verified": false
+      }
+    ]
+  }
+}

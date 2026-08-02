@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979451624885240156",
+    "created_at": "2025-10-18T09:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979484393677947113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1713050867786526720",
+          "start": 0,
+          "username": "siuuuuneo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979484393677947113",
+    "in_reply_to_user_id": "1713050867786526720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979451624885240156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siuuuuneo 抱抱姐姐(⁠⊃⁠｡⁠•́⁠‿⁠•̀⁠｡⁠)⁠⊃\n咱也一样容易哭的啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_1979451621391151104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hswxcXMAAzpmU.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1308,
+        "media_key": "3_1979451622007713792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hswzvXMAAiumR.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979451624885240156",
+        "created_at": "2025-10-18T09:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979484393677947113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1713050867786526720",
+              "start": 0,
+              "username": "siuuuuneo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979484393677947113",
+        "in_reply_to_user_id": "1713050867786526720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979451624885240156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siuuuuneo 抱抱姐姐(⁠⊃⁠｡⁠•́⁠‿⁠•̀⁠｡⁠)⁠⊃\n咱也一样容易哭的啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979451621391151104",
+            "3_1979451622007713792"
+          ]
+        },
+        "author_id": "1713050867786526720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979451624885240156",
+        "created_at": "2025-10-18T07:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979451624885240156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUzdlNUCj1",
+              "end": 36,
+              "expanded_url": "https://x.com/siuuuuneo/status/1979451624885240156/photo/1",
+              "media_key": "3_1979451621391151104",
+              "start": 13,
+              "url": "https://t.co/UUzdlNUCj1"
+            },
+            {
+              "display_url": "pic.x.com/UUzdlNUCj1",
+              "end": 36,
+              "expanded_url": "https://x.com/siuuuuneo/status/1979451624885240156/photo/1",
+              "media_key": "3_1979451622007713792",
+              "start": 13,
+              "url": "https://t.co/UUzdlNUCj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979451624885240156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实好容易哭的👉🏻👈🏻 https://t.co/UUzdlNUCj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 180,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T04:35:39.000Z",
+        "description": "如果你饿了，你可以吃小黄鱼）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/siuuuuneo",
+                "end": 23,
+                "expanded_url": "http://t.me/siuuuuneo",
+                "start": 0,
+                "url": "https://t.co/iJ4mHEWlX9"
+              }
+            ]
+          }
+        },
+        "id": "1713050867786526720",
+        "location": "重庆",
+        "name": "小黄鱼a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932776639890665475/HbxB7SRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1140,
+          "like_count": 8332,
+          "listed_count": 1,
+          "media_count": 458,
+          "tweet_count": 2928
+        },
+        "url": "https://t.co/iJ4mHEWlX9",
+        "username": "siuuuuneo",
+        "verified": false
+      }
+    ]
+  }
+}

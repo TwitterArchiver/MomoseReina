@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996573069620695291",
+    "created_at": "2025-12-04T14:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996591079957950598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996591079957950598",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996573069620695291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 已经给咱发18的券了，咱都忍住了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996573061341167616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VAnvlawAAgH93.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996573069620695291",
+        "created_at": "2025-12-04T14:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996591079957950598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996591079957950598",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996573069620695291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 已经给咱发18的券了，咱都忍住了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996573061341167616"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "conversation_id": "1996573069620695291",
+        "created_at": "2025-12-04T13:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996573069620695291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2EUFEznlZ",
+              "end": 49,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/1996573069620695291/photo/1",
+              "media_key": "3_1996573061341167616",
+              "start": 26,
+              "url": "https://t.co/p2EUFEznlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996573069620695291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你想减肥的时候\n淘宝闪购就一直发券给你\n太邪恶了 https://t.co/p2EUFEznlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 268,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常,#祝自由 ，#啊呀纳米相册 水中寒月如雪， 指尖轻点融解， 断桥是否下过雪🫖#小绫的诗歌日记本 糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 #小绫饭店 世界上最幸福的人。。长文糊涂话：https://t.co/XI1iXwHpTx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "祝自由"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "小绫饭店"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ayanamirin0.substack.com",
+                "end": 136,
+                "expanded_url": "http://ayanamirin0.substack.com",
+                "start": 113,
+                "url": "https://t.co/XI1iXwHpTx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L29Rl"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 722,
+          "like_count": 13584,
+          "listed_count": 14,
+          "media_count": 1277,
+          "tweet_count": 8408
+        },
+        "url": "https://t.co/scHs3L29Rl",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

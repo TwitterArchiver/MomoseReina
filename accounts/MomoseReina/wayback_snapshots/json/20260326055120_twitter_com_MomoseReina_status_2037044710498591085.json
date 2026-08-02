@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2037020398597136634",
+    "created_at": "2026-03-26T05:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037044710498591085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "Canmi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037044710498591085",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037020398597136634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Canmi21 xm漂亮饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2037020390447566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETzQKTa0AARPcK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2037020398597136634",
+        "created_at": "2026-03-26T05:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037044710498591085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "Canmi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037044710498591085",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037020398597136634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Canmi21 xm漂亮饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037020390447566848"
+          ]
+        },
+        "author_id": "1799009511333830656",
+        "conversation_id": "2037020398597136634",
+        "created_at": "2026-03-26T04:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037020398597136634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hOPplccKv",
+              "end": 31,
+              "expanded_url": "https://x.com/Canmi21/status/2037020398597136634/photo/1",
+              "media_key": "3_2037020390447566848",
+              "start": 8,
+              "url": "https://t.co/8hOPplccKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037020398597136634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是吃上了 https://t.co/8hOPplccKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 322,
+          "like_count": 7083,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 4867
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "正在摸鱼中 | ENTP(INFJ?) | CN/EN/JP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/canmi21",
+                "end": 23,
+                "expanded_url": "https://github.com/canmi21",
+                "start": 0,
+                "url": "https://t.co/T8jDsQAxmt"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Lost in code",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025283475520323586/Zbhxllol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 151,
+          "like_count": 12011,
+          "listed_count": 16,
+          "media_count": 535,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/T8jDsQAxmt",
+        "username": "Canmi21",
+        "verified": true
+      }
+    ]
+  }
+}

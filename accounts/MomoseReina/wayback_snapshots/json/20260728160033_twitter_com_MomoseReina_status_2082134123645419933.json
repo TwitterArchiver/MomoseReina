@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2082122982596747447",
+    "created_at": "2026-07-28T16:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082134123645419933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Saki_LN_0509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082134123645419933",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082122982596747447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saki_LN_0509 同款单肩包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082122975365804032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUv0IVbsAAm7UD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2082122982596747447",
+        "created_at": "2026-07-28T16:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082134123645419933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Saki_LN_0509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082134123645419933",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082122982596747447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saki_LN_0509 同款单肩包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082122975365804032"
+          ]
+        },
+        "author_id": "1856699710981251072",
+        "conversation_id": "2082122982596747447",
+        "created_at": "2026-07-28T15:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082122982596747447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FjSE9SY1M9",
+              "end": 28,
+              "expanded_url": "https://x.com/Saki_LN_0509/status/2082122982596747447/photo/1",
+              "media_key": "3_2082122975365804032",
+              "start": 5,
+              "url": "https://t.co/FjSE9SY1M9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082122982596747447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日男装 https://t.co/FjSE9SY1M9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 339,
+          "like_count": 9578,
+          "listed_count": 5,
+          "media_count": 440,
+          "tweet_count": 6804
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Founder and CEO of Project Starlight | life need keeping",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "25nightcord.com",
+                "end": 23,
+                "expanded_url": "https://25nightcord.com",
+                "start": 0,
+                "url": "https://t.co/VFkjqr73Cq"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "上海 静安",
+        "name": "Lewis",
+        "pinned_tweet_id": "2078158677954195951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070897078994087936/AwtSEF8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 352,
+          "like_count": 2548,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/VFkjqr73Cq",
+        "username": "Saki_LN_0509",
+        "verified": true
+      }
+    ]
+  }
+}

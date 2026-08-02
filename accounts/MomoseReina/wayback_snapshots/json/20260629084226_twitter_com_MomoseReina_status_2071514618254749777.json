@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2071497368202338756",
+    "created_at": "2026-06-29T08:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071514618254749777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012826439356383232",
+          "start": 0,
+          "username": "hoshimiasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071514618254749777",
+    "in_reply_to_user_id": "2012826439356383232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071514242147315823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshimiasa 算是吧，只不过认识好多年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2071497368202338756",
+        "created_at": "2026-06-29T08:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071514618254749777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012826439356383232",
+              "start": 0,
+              "username": "hoshimiasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071514618254749777",
+        "in_reply_to_user_id": "2012826439356383232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071514242147315823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshimiasa 算是吧，只不过认识好多年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012826439356383232",
+        "conversation_id": "2071497368202338756",
+        "created_at": "2026-06-29T08:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071514242147315823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071514242147315823",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071513981580358023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 又是可爱男娘吗(｡- .•)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 340,
+          "like_count": 9052,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 6427
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi /橘伊汐phi    11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师 ‖舞萌内屏w5 外键w3玩家     希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "橘伊汐C₂H₄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062905684493271040/QxfiEQte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 149,
+          "like_count": 2111,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "hoshimiasa",
+        "verified": false
+      }
+    ]
+  }
+}

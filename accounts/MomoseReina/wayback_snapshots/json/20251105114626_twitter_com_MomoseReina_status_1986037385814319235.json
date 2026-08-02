@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1985891841708089630",
+    "created_at": "2025-11-05T11:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986037385814319235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874683133423132672",
+          "start": 0,
+          "username": "lnjijiji193046"
+        },
+        {
+          "end": 31,
+          "id": "1688101533198475264",
+          "start": 16,
+          "username": "Distorted_ming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986037385814319235",
+    "in_reply_to_user_id": "1874683133423132672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986012041212293378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnjijiji193046 @Distorted_ming 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1985891841708089630",
+        "created_at": "2025-11-05T11:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986037385814319235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874683133423132672",
+              "start": 0,
+              "username": "lnjijiji193046"
+            },
+            {
+              "end": 31,
+              "id": "1688101533198475264",
+              "start": 16,
+              "username": "Distorted_ming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986037385814319235",
+        "in_reply_to_user_id": "1874683133423132672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986012041212293378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnjijiji193046 @Distorted_ming 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874683133423132672",
+        "conversation_id": "1985891841708089630",
+        "created_at": "2025-11-05T10:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T11:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986012041212293378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Distorted_ming"
+            },
+            {
+              "end": 28,
+              "id": "1870108535268487169",
+              "start": 16,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986012041212293378",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985996859140341977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Distorted_ming @MomoseReina 操似😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 228,
+          "like_count": 1694,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1278
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T05:04:34.000Z",
+        "description": "男娘/50kg/168/互动可以哦但是不要过于涩涩/没回信息是在忙不要催🥺/属性偏M（微量S）/评论感兴趣的会互动/",
+        "id": "1874683133423132672",
+        "location": "猫猫窝❤️",
+        "name": "吾艿杉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907845496347176964/FhI661I3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 78,
+          "like_count": 3430,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 815
+        },
+        "username": "lnjijiji193046",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "千世单推人💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 时不时发神经的理科生 | 可以叫我小千 | 想要变可爱 | 随时可能翻车/xnn |  ❤ @Fisa_wo | 小号：@distorted114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "Fisa_wo"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "distorted114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chise_kawaii",
+                "end": 23,
+                "expanded_url": "http://t.me/chise_kawaii",
+                "start": 0,
+                "url": "https://t.co/yj1O6fxiqE"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "name": "千千千世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 961,
+          "like_count": 11772,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 3548
+        },
+        "url": "https://t.co/yj1O6fxiqE",
+        "username": "Distorted_ming",
+        "verified": false
+      }
+    ]
+  }
+}

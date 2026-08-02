@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2042457820550082829",
+    "created_at": "2026-04-10T07:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042512160799301984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746469344325021697",
+          "start": 0,
+          "username": "suzumiyasuzume"
+        },
+        {
+          "end": 26,
+          "id": "1919296206381170688",
+          "start": 16,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042512160799301984",
+    "in_reply_to_user_id": "1746469344325021697",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042499269299748890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzumiyasuzume @juhao0721 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2042457820550082829",
+        "created_at": "2026-04-10T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042512160799301984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746469344325021697",
+              "start": 0,
+              "username": "suzumiyasuzume"
+            },
+            {
+              "end": 26,
+              "id": "1919296206381170688",
+              "start": 16,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042512160799301984",
+        "in_reply_to_user_id": "1746469344325021697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042499269299748890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzumiyasuzume @juhao0721 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746469344325021697",
+        "conversation_id": "2042457820550082829",
+        "created_at": "2026-04-10T07:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042499269299748890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042499269299748890",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042457820550082829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 你妈好像给我上过舰长"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 327,
+          "like_count": 7489,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 5134
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12965,
+          "following_count": 883,
+          "like_count": 1897,
+          "listed_count": 23,
+          "media_count": 123,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "饱饱我和别的女生不一样，我是男的\n♥️@xldscx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 19,
+                "username": "xldscx"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "东京",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 106,
+          "like_count": 2780,
+          "listed_count": 8,
+          "media_count": 295,
+          "tweet_count": 1304
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

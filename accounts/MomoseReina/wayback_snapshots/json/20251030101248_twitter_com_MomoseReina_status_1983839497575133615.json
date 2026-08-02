@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983833118978273489",
+    "created_at": "2025-10-30T10:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983839497575133615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871502099202330624",
+          "start": 0,
+          "username": "keplerD080311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983839497575133615",
+    "in_reply_to_user_id": "1871502099202330624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983833118978273489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keplerD080311 内圈~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1983833105694900226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4f9suaawAIC7tn.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983833118978273489",
+        "created_at": "2025-10-30T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983839497575133615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871502099202330624",
+              "start": 0,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983839497575133615",
+        "in_reply_to_user_id": "1871502099202330624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983833118978273489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keplerD080311 内圈~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983833105694900226"
+          ]
+        },
+        "author_id": "1871502099202330624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1983833118978273489",
+        "created_at": "2025-10-30T09:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983833118978273489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1983694816342093824/KTRQKQiJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/PsVzLmgTYp"
+            },
+            {
+              "display_url": "pic.x.com/gPSxdq6hdL",
+              "end": 64,
+              "expanded_url": "https://x.com/keplerD080311/status/1983833118978273489/photo/1",
+              "media_key": "3_1983833105694900226",
+              "start": 41,
+              "url": "https://t.co/gPSxdq6hdL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983833118978273489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/PsVzLmgTYp https://t.co/gPSxdq6hdL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 207,
+          "like_count": 1473,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T10:24:17.000Z",
+        "description": "09年xnn（172/45kg）\n喜欢普拉娜的宅（）\n喜歡攝影/音遊（冰与火之舞/phigros/phira）/FPS（The FINALS）是hcm（）无证/暂时不含糖🍬\n希望和各位成为好朋友wwww\n生日🎂：20090210（水瓶座）\nQQ：3617571542\n现目标是300fo！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+g4WBaE-KK_JjY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+g4WBaE-KK_JjYjY1",
+                "start": 0,
+                "url": "https://t.co/hG7A7cSLBF"
+              }
+            ]
+          }
+        },
+        "id": "1871502099202330624",
+        "location": "什亭之匣/ipad",
+        "name": "𝐀.𝐑.𝐎.𝐍.𝐀🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982317191102857216/i27maU88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 353,
+          "like_count": 2354,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/hG7A7cSLBF",
+        "username": "keplerD080311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1987094946596462696",
+    "created_at": "2025-11-08T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987101323532402850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829158936695623680",
+          "start": 0,
+          "username": "SerenTsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987101323532402850",
+    "in_reply_to_user_id": "829158936695623680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987094946596462696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SerenTsuki 今天萌力赏啊😱\n咱都不知道😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987094930502963200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OUT6ub0AAu1_1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987094930888822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OUT8KbkAApeZD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987094931450830851",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OUT-QbIAMXFNk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987094931656351744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OUT_BbIAAsKKE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1987094946596462696",
+        "created_at": "2025-11-08T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987101323532402850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829158936695623680",
+              "start": 0,
+              "username": "SerenTsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987101323532402850",
+        "in_reply_to_user_id": "829158936695623680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987094946596462696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SerenTsuki 今天萌力赏啊😱\n咱都不知道😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987094930502963200",
+            "3_1987094930888822784",
+            "3_1987094931450830851",
+            "3_1987094931656351744"
+          ]
+        },
+        "author_id": "829158936695623680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987094946596462696",
+        "created_at": "2025-11-08T09:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987094946596462696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZIE0c79ks",
+              "end": 89,
+              "expanded_url": "https://x.com/SerenTsuki/status/1987094946596462696/photo/1",
+              "media_key": "3_1987094930502963200",
+              "start": 66,
+              "url": "https://t.co/pZIE0c79ks"
+            },
+            {
+              "display_url": "pic.x.com/pZIE0c79ks",
+              "end": 89,
+              "expanded_url": "https://x.com/SerenTsuki/status/1987094946596462696/photo/1",
+              "media_key": "3_1987094930888822784",
+              "start": 66,
+              "url": "https://t.co/pZIE0c79ks"
+            },
+            {
+              "display_url": "pic.x.com/pZIE0c79ks",
+              "end": 89,
+              "expanded_url": "https://x.com/SerenTsuki/status/1987094946596462696/photo/1",
+              "media_key": "3_1987094931450830851",
+              "start": 66,
+              "url": "https://t.co/pZIE0c79ks"
+            },
+            {
+              "display_url": "pic.x.com/pZIE0c79ks",
+              "end": 89,
+              "expanded_url": "https://x.com/SerenTsuki/status/1987094946596462696/photo/1",
+              "media_key": "3_1987094931656351744",
+              "start": 66,
+              "url": "https://t.co/pZIE0c79ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987094946596462696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好运莲莲~ 抽到了乌蒙的小奖品 🥰\n\n好开心，遇到被很可爱男孩子拉上拼机了一下午。好社恐不敢说话，全程手势交流，期待下次还能拼机😭 https://t.co/pZIE0c79ks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 232,
+          "like_count": 1802,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-08T02:44:30.000Z",
+        "description": "可爱果酱🍭丨弱 ACG丨社恐丨ブルアカ｜是水月厨！🪼丨Blender丨Unity丨Rust丨想变得可爱丨(๑`･ᴗ･´๑)",
+        "id": "829158936695623680",
+        "name": "喵喵小果酱🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664804770320875521/khZmLfRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 429,
+          "like_count": 37204,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 2168
+        },
+        "username": "SerenTsuki",
+        "verified": false
+      }
+    ]
+  }
+}

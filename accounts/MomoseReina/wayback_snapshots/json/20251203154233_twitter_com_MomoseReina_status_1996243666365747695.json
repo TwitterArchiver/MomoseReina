@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996231925447446579",
+    "created_at": "2025-12-03T15:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996243666365747695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1972898838219513856",
+          "start": 0,
+          "username": "Luoji3500"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996243666365747695",
+    "in_reply_to_user_id": "1972898838219513856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996231925447446579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoji3500 板子买了80%吃灰（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996231325825830912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QJ0HlbEAAQIk9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1996231331949486081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QJ0eZaoAEvVJF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996231925447446579",
+        "created_at": "2025-12-03T15:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996243666365747695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1972898838219513856",
+              "start": 0,
+              "username": "Luoji3500"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996243666365747695",
+        "in_reply_to_user_id": "1972898838219513856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996231925447446579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoji3500 板子买了80%吃灰（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996231325825830912",
+            "3_1996231331949486081"
+          ]
+        },
+        "author_id": "1972898838219513856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1996231925447446579",
+        "created_at": "2025-12-03T14:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996231925447446579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XM8JSEznz7",
+              "end": 76,
+              "expanded_url": "https://x.com/Luoji3500/status/1996231925447446579/photo/1",
+              "media_key": "3_1996231325825830912",
+              "start": 53,
+              "url": "https://t.co/XM8JSEznz7"
+            },
+            {
+              "display_url": "pic.x.com/XM8JSEznz7",
+              "end": 76,
+              "expanded_url": "https://x.com/Luoji3500/status/1996231925447446579/photo/1",
+              "media_key": "3_1996231331949486081",
+              "start": 53,
+              "url": "https://t.co/XM8JSEznz7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996231925447446579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想买平板是种病，买了就好了\n\n感谢我妈赞助给我的Xiaomi Pad7Pro 天际蓝 12+512GB😋 https://t.co/XM8JSEznz7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 266,
+          "like_count": 2711,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T05:38:45.000Z",
+        "description": "08年的MTF🏳️‍⚧️ | 无证含糖🍥| HRT2025.8.14 |深柜中ing | 喜欢动漫、音乐 | \n主推《终末的女武神》洛基、冲田总司",
+        "id": "1972898838219513856",
+        "name": "LUOJI_洛基 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996082249541074944/iHTX_l3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 283,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 50
+        },
+        "username": "Luoji3500",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1997804968292889072",
+    "created_at": "2025-12-08T09:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997962059397660806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        },
+        {
+          "end": 25,
+          "id": "1589809419822329857",
+          "start": 16,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997962059397660806",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997920255776330145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 @jianlvup awmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1997804968292889072",
+        "created_at": "2025-12-08T09:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997962059397660806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            },
+            {
+              "end": 25,
+              "id": "1589809419822329857",
+              "start": 16,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997962059397660806",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997920255776330145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 @jianlvup awmc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879338554511495168",
+        "conversation_id": "1997804968292889072",
+        "created_at": "2025-12-08T06:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997920255776330145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997920255776330145",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1084,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997804968292889072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 我回选\n7：舞萌日框\n8：中二日框\n9：音击官机\n10：aime卡😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 271,
+          "like_count": 2917,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 2193
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "|江湖郎中（退役）切了6个🥚进去一次|2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人|翻车2024.4.22|自切2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）里推:@mai_HAYASE_chu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIoAdXb"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️（实名上网：陈俊霖）",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14828,
+          "following_count": 389,
+          "like_count": 1567,
+          "listed_count": 23,
+          "media_count": 270,
+          "tweet_count": 1983
+        },
+        "url": "https://t.co/eYxEIoAdXb",
+        "username": "BAshirasu_1226",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎交流 爱评论点赞 \n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "jianlvya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997805636038570382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13522,
+          "following_count": 1125,
+          "like_count": 62042,
+          "listed_count": 46,
+          "media_count": 2185,
+          "tweet_count": 4930
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

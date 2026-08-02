@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2039033038819241990",
+    "created_at": "2026-04-01T05:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039216292226625788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "myaccount.google.com/google-account…",
+          "end": 38,
+          "expanded_url": "http://myaccount.google.com/google-account-email",
+          "start": 15,
+          "status": 200,
+          "title": "Sign in - Google Accounts",
+          "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&dsh=S809119049%3A1774677300351037&followup=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&osid=1&passive=1209600&rart=ANgoxcc2rC13vruRTbXS20nkYexhq-fghb_vGIm4mCdL5xn_JuOmqNVkMKq-w-Y-fNXJ94H3ZvUqZAkFSAKwzBADZh3kXuYy3RV8Ik-s9Nhz64WL2dmP3sM&service=accountsettings&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XrkGW5fMdKLh8lgnwpxxAJhzx8SB_VkthbR6IIAS2rZHFO9lZvzLRWcKope-dHRdt0-AouIQ",
+          "url": "https://t.co/bwskIjHm9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039216292226625788",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039203062250926473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever https://t.co/bwskIjHm9d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T05:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039216292226625788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "myaccount.google.com/google-account…",
+              "end": 38,
+              "expanded_url": "http://myaccount.google.com/google-account-email",
+              "start": 15,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&dsh=S809119049%3A1774677300351037&followup=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&osid=1&passive=1209600&rart=ANgoxcc2rC13vruRTbXS20nkYexhq-fghb_vGIm4mCdL5xn_JuOmqNVkMKq-w-Y-fNXJ94H3ZvUqZAkFSAKwzBADZh3kXuYy3RV8Ik-s9Nhz64WL2dmP3sM&service=accountsettings&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XrkGW5fMdKLh8lgnwpxxAJhzx8SB_VkthbR6IIAS2rZHFO9lZvzLRWcKope-dHRdt0-AouIQ",
+              "url": "https://t.co/bwskIjHm9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039216292226625788",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039203062250926473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever https://t.co/bwskIjHm9d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999007250829230080",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T04:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039203062250926473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039203062250926473",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039033038819241990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 怎么搞的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 323,
+          "like_count": 7233,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 4963
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 4723,
+          "like_count": 8151,
+          "listed_count": 12,
+          "media_count": 2851,
+          "tweet_count": 13336
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

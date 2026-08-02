@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976633061371765245",
+    "created_at": "2025-10-11T06:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T07:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976894550326296668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "708508645177171973",
+          "start": 0,
+          "username": "L127372"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976894550326296668",
+    "in_reply_to_user_id": "708508645177171973",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976891877560557939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L127372 好贵(⁠｡⁠ŏ⁠﹏⁠ŏ⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-11T06:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976894550326296668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "708508645177171973",
+              "start": 0,
+              "username": "L127372"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976894550326296668",
+        "in_reply_to_user_id": "708508645177171973",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976891877560557939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L127372 好贵(⁠｡⁠ŏ⁠﹏⁠ŏ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708508645177171973",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-11T06:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976891877560557939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976891877560557939",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976633061371765245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina pdd随便买个大功率激光脱毛仪，要大体积水冷散热的，至少行李箱那么大，一般两千左右，一周一次打半年左右，新长出来的胡子差不多就变成无色绒毛了。翻我动态能看到之前发的脱毛效果。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 109,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T04:23:19.000Z",
+        "description": "猫、MTX、ASD   马列毛主义、女性主义\n知乎@L12737\nb站@L12737",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "L12737"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "username": "L12737"
+              }
+            ]
+          }
+        },
+        "id": "708508645177171973",
+        "name": "L12737(Pheya)🍉🌻🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1206183174675451906/kgzYW_cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 126,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 661
+        },
+        "username": "L127372",
+        "verified": false
+      }
+    ]
+  }
+}

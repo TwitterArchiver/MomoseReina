@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1982501310516904086",
+    "created_at": "2026-02-21T07:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025105137107435806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1675927079442063360",
+          "start": 0,
+          "username": "autumndayin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025105137107435806",
+    "in_reply_to_user_id": "1675927079442063360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025098688927072743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@autumndayin 咱平常都戴耳机的，所以问题不大，主要是朋友在那"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1982501310516904086",
+        "created_at": "2026-02-21T07:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025105137107435806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1675927079442063360",
+              "start": 0,
+              "username": "autumndayin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025105137107435806",
+        "in_reply_to_user_id": "1675927079442063360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025098688927072743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@autumndayin 咱平常都戴耳机的，所以问题不大，主要是朋友在那"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675927079442063360",
+        "conversation_id": "1982501310516904086",
+        "created_at": "2026-02-21T06:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025098688927072743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025098688927072743",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025094449098097147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 那个地方太吵了，好久没去过了，不带耳机打不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 318,
+          "like_count": 6228,
+          "listed_count": 1,
+          "media_count": 218,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-03T17:58:58.000Z",
+        "description": "MTF🏳️‍⚧️/精神状态一般/互fo/2022 09 01/部分淡推 /kigurumi准备中（˵¯͒〰¯͒˵)₍˄·͈༝·͈˄*₎◞ ̑̑(˃ ⌑ ˂ഃ ) 白子厨",
+        "id": "1675927079442063360",
+        "name": "autumndays雀宫/////☆★♬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953254284696666114/GbziP-Ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 59,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 122
+        },
+        "username": "autumndayin",
+        "verified": false
+      }
+    ]
+  }
+}

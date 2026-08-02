@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2046781523731603931",
+    "created_at": "2026-04-24T20:51:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T21:51:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047780515403743334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751290211345330176",
+          "start": 0,
+          "username": "ZhonXuForCS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047780515403743334",
+    "in_reply_to_user_id": "1751290211345330176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046831810290896916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhonXuForCS 😱😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2046781523731603931",
+        "created_at": "2026-04-24T20:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047780515403743334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751290211345330176",
+              "start": 0,
+              "username": "ZhonXuForCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047780515403743334",
+        "in_reply_to_user_id": "1751290211345330176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046831810290896916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhonXuForCS 😱😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751290211345330176",
+        "conversation_id": "2046781523731603931",
+        "created_at": "2026-04-22T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046831810290896916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046831810290896916",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046781523731603931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 再串把你绑在舞萌机背面看别人打舞萌😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 332,
+          "like_count": 7776,
+          "listed_count": 2,
+          "media_count": 312,
+          "tweet_count": 5321
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T17:05:09.000Z",
+        "description": "Koishi 聊天机器人插件 Minecraft Fishtime开发者\n正在开发 独立应用 OCC-OpenClassCooperation\n技术栈：JavaScript/TypeScript  Python C# Vue\n偏好开源协议 MIT\n友跨  双",
+        "id": "1751290211345330176",
+        "location": "Shandong Province",
+        "name": "ZhonXu",
+        "pinned_tweet_id": "1989981176040476672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992536241905238016/As9hc31r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 317,
+          "like_count": 3661,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1475
+        },
+        "username": "ZhonXuForCS",
+        "verified": false
+      }
+    ]
+  }
+}

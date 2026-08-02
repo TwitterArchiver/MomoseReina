@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2006396546615758968",
+    "created_at": "2025-12-31T21:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T22:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006470942659428375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        },
+        {
+          "end": 24,
+          "id": "2006292107217276928",
+          "start": 12,
+          "username": "NanaseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006470942659428375",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006418965942378987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO @NanaseReina 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2006396546615758968",
+        "created_at": "2025-12-31T21:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006470942659428375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            },
+            {
+              "end": 24,
+              "id": "2006292107217276928",
+              "start": 12,
+              "username": "NanaseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006470942659428375",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006418965942378987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO @NanaseReina 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "2006396546615758968",
+        "created_at": "2025-12-31T17:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006418965942378987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006292107217276928",
+              "start": 0,
+              "username": "NanaseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006418965942378987",
+        "in_reply_to_user_id": "2006292107217276928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006396546615758968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaseReina 摸摸奈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 284,
+          "like_count": 4023,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統. aka starneko. System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "猫奶牛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004418506553462785/O67tO9Gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4472,
+          "following_count": 2250,
+          "like_count": 33812,
+          "listed_count": 17,
+          "media_count": 1373,
+          "tweet_count": 11603
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-31T09:11:47.000Z",
+        "description": "这里是玲奈的逃生舱小号~ | 大号: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "MomoseReina"
+              }
+            ]
+          }
+        },
+        "id": "2006292107217276928",
+        "name": "七瀬玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006295131599822848/wmWcth3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "NanaseReina",
+        "verified": false
+      }
+    ]
+  }
+}

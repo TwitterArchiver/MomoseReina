@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032167582380539906"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2032167584758649202",
+    "created_at": "2026-03-12T18:51:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T19:51:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032167584758649202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZotSF4oUOo",
+          "end": 31,
+          "expanded_url": "https://x.com/MomoseReina/status/2032167584758649202/photo/1",
+          "media_key": "3_2032167582380539906",
+          "start": 8,
+          "url": "https://t.co/ZotSF4oUOo"
+        },
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2032165078951489762",
+          "start": 32,
+          "url": "https://t.co/vqVI8KrEfN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032167584758649202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032165078951489762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁他妈买小米！ https://t.co/ZotSF4oUOo https://t.co/vqVI8KrEfN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032167582380539906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDO1pjfbQAIQ7Vp.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032167582380539906"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2032167584758649202",
+        "created_at": "2026-03-12T18:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032167584758649202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZotSF4oUOo",
+              "end": 31,
+              "expanded_url": "https://x.com/MomoseReina/status/2032167584758649202/photo/1",
+              "media_key": "3_2032167582380539906",
+              "start": 8,
+              "url": "https://t.co/ZotSF4oUOo"
+            },
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2032165078951489762",
+              "start": 32,
+              "url": "https://t.co/vqVI8KrEfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032167584758649202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032165078951489762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁他妈买小米！ https://t.co/ZotSF4oUOo https://t.co/vqVI8KrEfN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2032147743112892889",
+        "created_at": "2026-03-12T18:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032165078951489762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032165078951489762",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032147743112892889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 在当年这个梗出来的时候，我还是米粉，对我说这个我真的会生气\n而现在，谁他妈买小米！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 312,
+          "like_count": 6774,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 4702
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

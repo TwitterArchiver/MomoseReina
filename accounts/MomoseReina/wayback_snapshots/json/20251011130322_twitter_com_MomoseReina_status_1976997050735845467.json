@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976949510673985729",
+    "created_at": "2025-10-11T13:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976997050735845467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1824818634809806848",
+          "start": 0,
+          "username": "hsgmxz"
+        },
+        {
+          "end": 18,
+          "id": "1963118330707050496",
+          "start": 8,
+          "username": "mtnyan123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976997050735845467",
+    "in_reply_to_user_id": "1824818634809806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976949510673985729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsgmxz @mtnyan123 吃乌冬面喵(⁠≧⁠▽⁠≦⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2310,
+        "media_key": "3_1976949463920132103",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-JECfbwAcBlCp.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976949510673985729",
+        "created_at": "2025-10-11T13:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976997050735845467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1824818634809806848",
+              "start": 0,
+              "username": "hsgmxz"
+            },
+            {
+              "end": 18,
+              "id": "1963118330707050496",
+              "start": 8,
+              "username": "mtnyan123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976997050735845467",
+        "in_reply_to_user_id": "1824818634809806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976949510673985729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsgmxz @mtnyan123 吃乌冬面喵(⁠≧⁠▽⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976949463920132103"
+          ]
+        },
+        "author_id": "1824818634809806848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976949510673985729",
+        "created_at": "2025-10-11T09:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976949510673985729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1963118330707050496",
+              "start": 7,
+              "username": "mtnyan123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ocLuM0gWNb",
+              "end": 41,
+              "expanded_url": "https://x.com/hsgmxz/status/1976949510673985729/photo/1",
+              "media_key": "3_1976949463920132103",
+              "start": 18,
+              "url": "https://t.co/ocLuM0gWNb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976949510673985729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃乌冬面 @mtnyan123 https://t.co/ocLuM0gWNb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 113,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|14岁mtf🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|11.1.24|同类互fo|欢迎贴贴😺|极度社恐|重焦重郁|intp-t|匿名提问箱https://t.co/eJ9r7Nq5dA|❤️@hrklovehonoka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "hrklovehonoka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 134,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 111,
+                "url": "https://t.co/eJ9r7Nq5dA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHeeR"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1976137894059462813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1139,
+          "like_count": 6906,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/Xrx6CgHeeR",
+        "username": "hsgmxz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐 / 主页背景图是本猫｜世界是由乌冬面构成的｜加入乌冬面教的tg频道https://t.co/O8CWPcfvRP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wdm5201314",
+                "end": 77,
+                "expanded_url": "https://t.me/wdm5201314",
+                "start": 54,
+                "url": "https://t.co/O8CWPcfvRP"
+              }
+            ]
+          }
+        },
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1972515938013704538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 141,
+          "like_count": 756,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 270
+        },
+        "username": "mtnyan123",
+        "verified": false
+      }
+    ]
+  }
+}

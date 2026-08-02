@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1991903286749003816",
+    "created_at": "2025-11-21T16:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991903286749003816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/1991834151188897828",
+          "start": 7,
+          "url": "https://t.co/in5ArJDe2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991903286749003816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991834151188897828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想去日本玩 https://t.co/in5ArJDe2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_1991834145803456512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Rqmjgb0AA-WrI.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1991903286749003816",
+        "created_at": "2025-11-21T16:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991903286749003816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/1991834151188897828",
+              "start": 7,
+              "url": "https://t.co/in5ArJDe2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991903286749003816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991834151188897828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想去日本玩 https://t.co/in5ArJDe2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991834145803456512"
+          ]
+        },
+        "author_id": "1601893417549967360",
+        "conversation_id": "1991834151188897828",
+        "created_at": "2025-11-21T11:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991834151188897828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gP4o78bQ4n",
+              "end": 30,
+              "expanded_url": "https://x.com/AcboxLiu/status/1991834151188897828/photo/1",
+              "media_key": "3_1991834145803456512",
+              "start": 7,
+              "url": "https://t.co/gP4o78bQ4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991834151188897828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去日本玩 https://t.co/gP4o78bQ4n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 246,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🟦TypeScript重度依赖/🐱Github: sheepbox8646/💼日常远程工作/Building ChalkAI/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 120,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvcLr"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1991551177834819860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9497,
+          "following_count": 2990,
+          "like_count": 2901,
+          "listed_count": 36,
+          "media_count": 1141,
+          "tweet_count": 5770
+        },
+        "url": "https://t.co/mRP5RDvcLr",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976633061371765245",
+    "created_at": "2025-10-12T05:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T06:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977249358493204906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1903853607021416448",
+          "start": 0,
+          "username": "HK1997Anx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977249358493204906",
+    "in_reply_to_user_id": "1903853607021416448",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977041001744417180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HK1997Anx (⁠(⁠(⁠;⁠ꏿ⁠_⁠ꏿ⁠;⁠)⁠)⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-12T05:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T06:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977249358493204906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1903853607021416448",
+              "start": 0,
+              "username": "HK1997Anx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977249358493204906",
+        "in_reply_to_user_id": "1903853607021416448",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977041001744417180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HK1997Anx (⁠(⁠(⁠;⁠ꏿ⁠_⁠ꏿ⁠;⁠)⁠)⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903853607021416448",
+        "conversation_id": "1976633061371765245",
+        "created_at": "2025-10-11T15:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977041001744417180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977041001744417180",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976987164937461963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 不怕疼把毛囊一个一个拔掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 112,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T16:57:35.000Z",
+        "description": "09年的男孩纸160 41kg（还在减肥）双性恋更喜欢男孩子多一点平时喜欢一点女装轻微抑郁",
+        "id": "1903853607021416448",
+        "location": "Hong Kong",
+        "name": "小小鑫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937549741308674051/qxNNcmv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 1,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 60
+        },
+        "username": "HK1997Anx",
+        "verified": false
+      }
+    ]
+  }
+}

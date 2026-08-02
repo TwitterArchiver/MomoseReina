@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2039998546263597247",
+    "created_at": "2026-04-04T03:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040275125141139889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1830192967120011266",
+          "start": 0,
+          "username": "RikuSakaLine"
+        },
+        {
+          "end": 24,
+          "id": "1488080791125237760",
+          "start": 14,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040275125141139889",
+    "in_reply_to_user_id": "1830192967120011266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040274532590870590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikuSakaLine @MengXi969 你不是上海人吗😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2039998546263597247",
+        "created_at": "2026-04-04T03:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040275125141139889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1830192967120011266",
+              "start": 0,
+              "username": "RikuSakaLine"
+            },
+            {
+              "end": 24,
+              "id": "1488080791125237760",
+              "start": 14,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040275125141139889",
+        "in_reply_to_user_id": "1830192967120011266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040274532590870590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikuSakaLine @MengXi969 你不是上海人吗😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830192967120011266",
+        "conversation_id": "2039998546263597247",
+        "created_at": "2026-04-04T03:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040274532590870590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 23,
+              "id": "1488080791125237760",
+              "start": 13,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040274532590870590",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039998546263597247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @MengXi969 羡慕城里人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 324,
+          "like_count": 7329,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 5034
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T10:36:43.000Z",
+        "description": "实事求是｜上海市杨浦区高一生｜悲观主义者｜铁路·飞行器·地图·气象·EEW系统｜理科生，精通人文地理｜高考日语生 备考JLPT N4｜请多关照(っ´▽`)っ",
+        "id": "1830192967120011266",
+        "location": "杨浦站",
+        "name": "陸叠阪線",
+        "pinned_tweet_id": "2015024191188378021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005244128788123648/71-Jv-0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 422,
+          "like_count": 8795,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 3018
+        },
+        "username": "RikuSakaLine",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 2936,
+          "like_count": 85646,
+          "listed_count": 6,
+          "media_count": 1022,
+          "tweet_count": 5995
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

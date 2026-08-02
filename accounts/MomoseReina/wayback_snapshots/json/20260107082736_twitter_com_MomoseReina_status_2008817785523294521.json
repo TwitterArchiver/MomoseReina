@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2008508159552614571",
+    "created_at": "2026-01-07T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008817785523294521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008817785523294521",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008508159552614571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@tcdwww 在推上的东西就不能和国内的东西有关联\n刻板印象和法律风险都有\n点名一些推上的QQ群，进群还要备注推的ID？\n本来咱就想分离来避免一些不必要的麻烦😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2008508159552614571",
+        "created_at": "2026-01-07T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008817785523294521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008817785523294521",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008508159552614571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@tcdwww 在推上的东西就不能和国内的东西有关联\n刻板印象和法律风险都有\n点名一些推上的QQ群，进群还要备注推的ID？\n本来咱就想分离来避免一些不必要的麻烦😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2008508159552614571",
+        "created_at": "2026-01-06T11:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008508159552614571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008508159552614571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13119,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我曾经学到的一个教训：不要加入了在推上宣传的国内社群以后，在群里说自己是从推上找过来的。\n因为我真的这么说了。\n然后整个群乱掉了，开始觉得我是不是那种色情大明星，或者是键政大手子。\n我承认他们应该没什么恶意吧，但是我感到极为不适。\n结果我表达了不满以后，他们又跟我说只是在开玩笑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 291,
+          "like_count": 4366,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 3279
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuqKNK"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2003870953789706600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 443,
+          "like_count": 71110,
+          "listed_count": 9,
+          "media_count": 759,
+          "tweet_count": 9768
+        },
+        "url": "https://t.co/IJpduuqKNK",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

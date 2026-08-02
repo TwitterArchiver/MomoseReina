@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059917833208008704"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2059878270120911156",
+    "created_at": "2026-05-28T08:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059917837989556427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922702397887131649",
+          "start": 0,
+          "username": "tutu65537"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7mCnyxTFps",
+          "end": 39,
+          "expanded_url": "https://x.com/MomoseReina/status/2059917837989556427/photo/1",
+          "media_key": "3_2059917833208008704",
+          "start": 16,
+          "url": "https://t.co/7mCnyxTFps"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059917837989556427",
+    "in_reply_to_user_id": "1922702397887131649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059878270120911156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tutu65537 感觉不如 https://t.co/7mCnyxTFps"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059917833208008704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZMWvrbEAA5okh.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059917833208008704"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2059878270120911156",
+        "created_at": "2026-05-28T08:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059917837989556427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922702397887131649",
+              "start": 0,
+              "username": "tutu65537"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mCnyxTFps",
+              "end": 39,
+              "expanded_url": "https://x.com/MomoseReina/status/2059917837989556427/photo/1",
+              "media_key": "3_2059917833208008704",
+              "start": 16,
+              "url": "https://t.co/7mCnyxTFps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059917837989556427",
+        "in_reply_to_user_id": "1922702397887131649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059878270120911156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutu65537 感觉不如 https://t.co/7mCnyxTFps"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922702397887131649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2059878270120911156",
+        "created_at": "2026-05-28T06:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059878270120911156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059878270120911156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2932,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算你再潮再苹果人，真的能忍住不添加支付宝交通卡到Apple Pay吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 339,
+          "like_count": 8469,
+          "listed_count": 5,
+          "media_count": 349,
+          "tweet_count": 5882
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-14T17:16:09.000Z",
+        "description": "喜欢笔电男大@AkasakaRentsuki 笔电男高@houro1024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "AkasakaRentsuki"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "houro1024"
+              }
+            ]
+          }
+        },
+        "id": "1922702397887131649",
+        "location": "猫原",
+        "name": "土土",
+        "pinned_tweet_id": "2055327332467118148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056210759059914752/srfPI4JN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 383,
+          "like_count": 7181,
+          "listed_count": 1,
+          "media_count": 358,
+          "tweet_count": 6845
+        },
+        "username": "tutu65537",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1989310187103277345",
+    "created_at": "2025-11-14T12:31:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:31:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989310187103277345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omgnowihavefis…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/omgnowihavefish/status/1989249047216156989",
+          "start": 2,
+          "url": "https://t.co/WgYiotM9Dy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989310187103277345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989249047216156989",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/WgYiotM9Dy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1989310187103277345",
+        "created_at": "2025-11-14T12:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989310187103277345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihavefis…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/omgnowihavefish/status/1989249047216156989",
+              "start": 2,
+              "url": "https://t.co/WgYiotM9Dy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989310187103277345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989249047216156989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/WgYiotM9Dy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895410782936170496",
+        "conversation_id": "1989249047216156989",
+        "created_at": "2025-11-14T08:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989249047216156989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989249047216156989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 233,
+          "like_count": 1848,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-28T09:50:01.000Z",
+        "description": "owo",
+        "id": "1895410782936170496",
+        "location": "亚洲(可能在你身边)",
+        "name": "黄瓜🍥",
+        "pinned_tweet_id": "1981645551709085785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950083749598920704/TSn7WS_6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 2568,
+          "like_count": 4354,
+          "listed_count": 8,
+          "media_count": 183,
+          "tweet_count": 589
+        },
+        "username": "omgnowihavefish",
+        "verified": false
+      }
+    ]
+  }
+}

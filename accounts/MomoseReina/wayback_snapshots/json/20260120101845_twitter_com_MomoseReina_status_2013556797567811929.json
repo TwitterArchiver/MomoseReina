@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2012843125484499411",
+    "created_at": "2026-01-20T10:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013556797567811929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999719301176262658",
+          "start": 0,
+          "username": "snzkYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013556797567811929",
+    "in_reply_to_user_id": "1999719301176262658",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013531830067089911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snzkYuurei （"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2012843125484499411",
+        "created_at": "2026-01-20T10:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013556797567811929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999719301176262658",
+              "start": 0,
+              "username": "snzkYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013556797567811929",
+        "in_reply_to_user_id": "1999719301176262658",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013531830067089911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snzkYuurei （"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999719301176262658",
+        "conversation_id": "2012843125484499411",
+        "created_at": "2026-01-20T08:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013531830067089911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013531830067089911",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013269956625055839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina TG某暴躁群友（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 292,
+          "like_count": 4914,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 3677
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T05:53:41.000Z",
+        "description": "何か喋りたい。何か話したい。何か書きたい。何か歌いたい。何か伝えたい。しかし僕の世界は、言葉も文字も旋律も忘れている。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "komari.yuurei.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://komari.yuurei.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/SG8pYuPl2x"
+              }
+            ]
+          }
+        },
+        "id": "1999719301176262658",
+        "location": "Antipathy World",
+        "name": "篠崎 幽怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999724697999855616/6ZjTK6m__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 51,
+          "like_count": 7612,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/SG8pYuPl2x",
+        "username": "snzkYuurei",
+        "verified": false
+      }
+    ]
+  }
+}

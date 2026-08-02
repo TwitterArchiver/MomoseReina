@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2082846640113963339",
+    "created_at": "2026-07-30T15:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082847782734590438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2012826439356383232",
+          "start": 0,
+          "username": "hoshimiasa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082847782734590438",
+    "in_reply_to_user_id": "2012826439356383232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082846640113963339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshimiasa 啊😨，没事吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2082846640113963339",
+        "created_at": "2026-07-30T15:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082847782734590438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2012826439356383232",
+              "start": 0,
+              "username": "hoshimiasa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082847782734590438",
+        "in_reply_to_user_id": "2012826439356383232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082846640113963339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshimiasa 啊😨，没事吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012826439356383232",
+        "conversation_id": "2082846640113963339",
+        "created_at": "2026-07-30T15:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082846640113963339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshimiasa/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hoshimiasa/status/2082818305619017968",
+              "start": 30,
+              "url": "https://t.co/JRDWuKppCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082846640113963339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082818305619017968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来自己炖了排骨汤等母回来，半路出车祸创出锁骨骨折谁绷得住 https://t.co/JRDWuKppCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 339,
+          "like_count": 9635,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 6847
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi /橘伊汐phi    11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师 ‖舞萌内屏w5 外键w3玩家     希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "橘伊汐C₂H₄",
+        "pinned_tweet_id": "2071624112334922233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079962207006441472/5GEecpto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 189,
+          "like_count": 2537,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "hoshimiasa",
+        "verified": false
+      }
+    ]
+  }
+}

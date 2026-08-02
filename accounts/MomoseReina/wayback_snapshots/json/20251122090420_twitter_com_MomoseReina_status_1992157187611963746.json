@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1992139766444560564",
+    "created_at": "2025-11-22T09:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992157187611963746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992157187611963746",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992139766444560564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 姐姐注意点隐私吧\n去穿件内衣"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5233,
+        "height": 1080,
+        "media_key": "13_1992139696139636736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992139696139636736/img/i2bYACPClCbaozJq.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992139696139636736/vid/avc1/1080x720/-uBVzZWiveqdspZM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992139696139636736/vid/avc1/540x360/XU9ycO3ymts9WrYh.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992139696139636736/vid/avc1/404x270/m2tSDF7bnzcabUYC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992139696139636736/vid/avc1/1620x1080/sN0fjxgBZ9WMtUc1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992139696139636736/pl/J58e_KkWIgS4nQBT.m3u8"
+          }
+        ],
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1992139766444560564",
+        "created_at": "2025-11-22T09:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992157187611963746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992157187611963746",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992139766444560564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 姐姐注意点隐私吧\n去穿件内衣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992139696139636736"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "1992139766444560564",
+        "created_at": "2025-11-22T07:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992139766444560564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4w7NP0qJft",
+              "end": 43,
+              "expanded_url": "https://x.com/DianaAnya0/status/1992139766444560564/video/1",
+              "media_key": "13_1992139696139636736",
+              "start": 20,
+              "url": "https://t.co/4w7NP0qJft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992139766444560564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "原来胸部这么明显的吗，今天回头率爆表了 https://t.co/4w7NP0qJft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 249,
+          "like_count": 2202,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "05年.176.50kg的可爱猫娘♡/ 每天会分享日常💬/ (4k.ex1音游人) (偶尔玩玩音乐🎵) (严格控制身材体重) (绳艺在学❤️S.攻) (求求给我点个关注🥺) (备用号@SatouXXJ)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "SatouXXJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZomDKo"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🏳️‍⚧️",
+        "pinned_tweet_id": "1978814394852114756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990725243397439488/UJwD6zWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 161,
+          "like_count": 3616,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/cpFUZomDKo",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

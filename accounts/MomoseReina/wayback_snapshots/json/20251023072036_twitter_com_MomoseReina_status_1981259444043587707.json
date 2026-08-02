@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981259441744801792"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1981220094547284119",
+    "created_at": "2025-10-23T07:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981259444043587707"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "太强啦",
+          "probability": 0.5111,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7T4G0sGYYm",
+          "end": 39,
+          "expanded_url": "https://x.com/MomoseReina/status/1981259444043587707/photo/1",
+          "media_key": "3_1981259441744801792",
+          "start": 16,
+          "url": "https://t.co/7T4G0sGYYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981259444043587707",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981220094547284119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 太强啦！ https://t.co/7T4G0sGYYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_1981259441744801792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37Y9xEWcAAWhA0.jpg",
+        "width": 640
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1981220087043375104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G361LBYWwAAOeXj.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981259441744801792"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1981220094547284119",
+        "created_at": "2025-10-23T07:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981259444043587707"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "太强啦",
+              "probability": 0.5111,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7T4G0sGYYm",
+              "end": 39,
+              "expanded_url": "https://x.com/MomoseReina/status/1981259444043587707/photo/1",
+              "media_key": "3_1981259441744801792",
+              "start": 16,
+              "url": "https://t.co/7T4G0sGYYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981259444043587707",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981220094547284119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 太强啦！ https://t.co/7T4G0sGYYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981220087043375104"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981220094547284119",
+        "created_at": "2025-10-23T04:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981220094547284119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3o9Em9jyq",
+              "end": 30,
+              "expanded_url": "https://x.com/45_206MHz/status/1981220094547284119/photo/1",
+              "media_key": "3_1981220087043375104",
+              "start": 7,
+              "url": "https://t.co/y3o9Em9jyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981220094547284119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心跳不止—— https://t.co/y3o9Em9jyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 203,
+          "like_count": 1291,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 也可以 | 生日27/04 | AMAB | 爱压抑 | 舞萌痴 | MBTI: ISTP | 里推：@45_206io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "45_206io"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "Christchurch City, New Zealand",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960182280988872704/xhIqtoxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 408,
+          "like_count": 21612,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1380
+        },
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

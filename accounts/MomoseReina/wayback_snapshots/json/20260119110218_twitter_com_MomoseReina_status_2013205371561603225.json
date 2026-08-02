@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2013119242929897885",
+    "created_at": "2026-01-19T11:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013205371561603225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013205371561603225",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013120141677178885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaBit 已严肃记录📖🖊️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2013119242929897885",
+        "created_at": "2026-01-19T11:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013205371561603225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013205371561603225",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013120141677178885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaBit 已严肃记录📖🖊️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "2013119242929897885",
+        "created_at": "2026-01-19T05:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013120141677178885"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013120141677178885",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013119242929897885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私聊的控制感太强了，另一个控制感很强的是电话，没有预告一言不合打电话过来我会直接拒接拉黑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 294,
+          "like_count": 4863,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 杭州・北京・深圳・上海あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "misakabit.com",
+                "end": 23,
+                "expanded_url": "https://misakabit.com",
+                "start": 0,
+                "url": "https://t.co/tdD6nVO8if"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011654548310671364/wvAu8JjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 512,
+          "like_count": 4185,
+          "listed_count": 3,
+          "media_count": 117,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/tdD6nVO8if",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

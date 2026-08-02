@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2002771040456638879",
+    "created_at": "2025-12-22T08:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T09:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003018825328119958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786055418684264448",
+          "start": 0,
+          "username": "SIRliquid_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003018825328119958",
+    "in_reply_to_user_id": "1786055418684264448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002771040456638879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SIRliquid_ 不如gemini，不挑节点🤓\n只要别挂香港（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1106,
+        "media_key": "3_2002771036224233473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8tFpXSWIAEMizN.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2002771040456638879",
+        "created_at": "2025-12-22T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003018825328119958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786055418684264448",
+              "start": 0,
+              "username": "SIRliquid_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003018825328119958",
+        "in_reply_to_user_id": "1786055418684264448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002771040456638879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SIRliquid_ 不如gemini，不挑节点🤓\n只要别挂香港（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002771036224233473"
+          ]
+        },
+        "author_id": "1786055418684264448",
+        "conversation_id": "2002771040456638879",
+        "created_at": "2025-12-21T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002771040456638879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ImQUhBufh",
+              "end": 50,
+              "expanded_url": "https://x.com/SIRliquid_/status/2002771040456638879/photo/1",
+              "media_key": "3_2002771036224233473",
+              "start": 27,
+              "url": "https://t.co/2ImQUhBufh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002771040456638879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏梯子\nGPT打不开（\n非得逼着Ring去用豆包（🫤 https://t.co/2ImQUhBufh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 275,
+          "like_count": 3639,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2737
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁的笨蛋高中生× || 喜欢音乐🎶 || 喜欢有礼貌的人😘 || 电子信息与嵌入式相关爱好者/初学者💻 || 泛性恋 || 友跨 || 不含糖 || 我好无聊来找我玩 || (待补充)\n(Fan Account) || 详细说明见置顶推👇",
+        "id": "1786055418684264448",
+        "location": "日本 東京 特雷森學園",
+        "name": "Ring.✦",
+        "pinned_tweet_id": "1987928237532459394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 358,
+          "like_count": 2774,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1866
+        },
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

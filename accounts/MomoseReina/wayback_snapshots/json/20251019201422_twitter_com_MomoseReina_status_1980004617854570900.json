@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979843695492071813",
+    "created_at": "2025-10-19T20:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T21:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980004617854570900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975075608481947648",
+          "start": 0,
+          "username": "xnnhcm5033"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980004617854570900",
+    "in_reply_to_user_id": "1975075608481947648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979893183900447227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnnhcm5033 抱抱哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979843695492071813",
+        "created_at": "2025-10-19T20:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T21:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980004617854570900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975075608481947648",
+              "start": 0,
+              "username": "xnnhcm5033"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980004617854570900",
+        "in_reply_to_user_id": "1975075608481947648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979893183900447227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnnhcm5033 抱抱哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975075608481947648",
+        "conversation_id": "1979843695492071813",
+        "created_at": "2025-10-19T12:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979893183900447227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979893183900447227",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979843695492071813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 190,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T05:48:34.000Z",
+        "description": "喵~，初次见面，请多关照。丨13岁无证含糖丨丨上学中的初二牲😭|全绵阳最小的mtf。丨小南梁丨丨CR铁路迷丨丨偶像初音ミク丨丨11.12.12丨\n丨喜欢打音游丨丨同时也会写作文呀喵∽丨\n 丨互of喵丨\n\nmtf/火车迷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/m4b6V8s",
+                "end": 23,
+                "expanded_url": "https://b23.tv/m4b6V8s",
+                "start": 0,
+                "url": "https://t.co/63QI9ELtDd"
+              }
+            ]
+          }
+        },
+        "id": "1975075608481947648",
+        "location": "国铁成局绵阳车务段（时不时跨局）",
+        "name": "是初音啊 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977370077520703488/uK4p0sQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 33,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/63QI9ELtDd",
+        "username": "xnnhcm5033",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2046781523731603931",
+    "created_at": "2026-04-22T02:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046781523731603931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2046614027959480376",
+          "start": 57,
+          "url": "https://t.co/4XnFN6PWgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046781523731603931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046614027959480376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨性别 wmc 难道还不是大多数人吗? 我们有运动精神难道不好吗? \n只有支持 wm 的跨才配当跨  \n\n(被打 https://t.co/4XnFN6PWgU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2046781523731603931",
+        "created_at": "2026-04-22T02:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046781523731603931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2046614027959480376",
+              "start": 57,
+              "url": "https://t.co/4XnFN6PWgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046781523731603931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046614027959480376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨性别 wmc 难道还不是大多数人吗? 我们有运动精神难道不好吗? \n只有支持 wm 的跨才配当跨  \n\n(被打 https://t.co/4XnFN6PWgU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046614027959480376",
+        "created_at": "2026-04-21T15:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046614027959480376"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046614027959480376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2356,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别 oier 难道还不是大多数人吗? 我们有竞赛精神难道不好吗?\n只有支持 oi 的跨才配当跨\n\n(快进到我再也不玩抽象了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 332,
+          "like_count": 7734,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 5292
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 220,
+          "like_count": 7590,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1922
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

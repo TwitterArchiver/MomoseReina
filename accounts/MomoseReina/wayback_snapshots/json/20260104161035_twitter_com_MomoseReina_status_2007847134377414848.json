@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2007792121659719857",
+    "created_at": "2026-01-04T16:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007847134377414848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878331881223335936",
+          "start": 0,
+          "username": "AuroraYz0710"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007847134377414848",
+    "in_reply_to_user_id": "1878331881223335936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007841584793161967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AuroraYz0710 买了JCALLY20块钱包邮75的，50块钱的也看到了，但是感觉没啥必要（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007841576568213504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91JRqCb0AArHBr.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2007792121659719857",
+        "created_at": "2026-01-04T16:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007847134377414848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878331881223335936",
+              "start": 0,
+              "username": "AuroraYz0710"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007847134377414848",
+        "in_reply_to_user_id": "1878331881223335936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007841584793161967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AuroraYz0710 买了JCALLY20块钱包邮75的，50块钱的也看到了，但是感觉没啥必要（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007841576568213504"
+          ]
+        },
+        "author_id": "1878331881223335936",
+        "conversation_id": "2007792121659719857",
+        "created_at": "2026-01-04T15:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007841584793161967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sND91cjCOZ",
+              "end": 57,
+              "expanded_url": "https://x.com/AuroraYz0710/status/2007841584793161967/photo/1",
+              "media_key": "3_2007841576568213504",
+              "start": 34,
+              "url": "https://t.co/sND91cjCOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007841584793161967",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007834395848433929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 我翻到了，75的，所以说30大概率不够用 https://t.co/sND91cjCOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 290,
+          "like_count": 4218,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 3160
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-12T06:43:33.000Z",
+        "description": "你好(*^▽^*)",
+        "id": "1878331881223335936",
+        "name": "AuroraYz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878334492664041472/PSMum0I9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 312,
+          "like_count": 1392,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 323
+        },
+        "username": "AuroraYz0710",
+        "verified": false
+      }
+    ]
+  }
+}

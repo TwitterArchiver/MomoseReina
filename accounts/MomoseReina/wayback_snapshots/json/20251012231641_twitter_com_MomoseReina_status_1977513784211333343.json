@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977438617615380694",
+    "created_at": "2025-10-12T23:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T00:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977513784211333343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1963410052905394176",
+          "start": 0,
+          "username": "Xuzawadesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977513784211333343",
+    "in_reply_to_user_id": "1963410052905394176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977438617615380694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xuzawadesu 芋泥味奥利奥awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_1977438610891952128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3FF8I9bUAAccJW.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977438617615380694",
+        "created_at": "2025-10-12T23:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T00:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977513784211333343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1963410052905394176",
+              "start": 0,
+              "username": "Xuzawadesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977513784211333343",
+        "in_reply_to_user_id": "1963410052905394176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977438617615380694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xuzawadesu 芋泥味奥利奥awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977438610891952128"
+          ]
+        },
+        "author_id": "1963410052905394176",
+        "conversation_id": "1977438617615380694",
+        "created_at": "2025-10-12T18:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T19:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977438617615380694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qxwbkVOnlD",
+              "end": 28,
+              "expanded_url": "https://x.com/Xuzawadesu/status/1977438617615380694/photo/1",
+              "media_key": "3_1977438610891952128",
+              "start": 5,
+              "url": "https://t.co/qxwbkVOnlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977438617615380694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宇泽玲纱 https://t.co/qxwbkVOnlD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 127,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 427
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-04T01:13:36.000Z",
+        "description": "妄言",
+        "id": "1963410052905394176",
+        "location": "The Summit",
+        "name": "苦呀西pro",
+        "pinned_tweet_id": "1976042228134052349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963677470122770432/Pw370JOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 139,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 215
+        },
+        "username": "Xuzawadesu",
+        "verified": false
+      }
+    ]
+  }
+}

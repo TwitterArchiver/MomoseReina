@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2002068848615604247",
+    "created_at": "2025-12-19T17:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T18:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002072427673932210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        },
+        {
+          "end": 15,
+          "id": "2001598933169315840",
+          "start": 8,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002072427673932210",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002068848615604247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop @XldscX awmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2002068848615604247",
+        "created_at": "2025-12-19T17:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002072427673932210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            },
+            {
+              "end": 15,
+              "id": "2001598933169315840",
+              "start": 8,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002072427673932210",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002068848615604247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop @XldscX awmc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2002068848615604247",
+        "created_at": "2025-12-19T17:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002068848615604247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2001598933169315840",
+              "start": 12,
+              "username": "XldscX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xldscx/status/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/xldscx/status/2002064394843533619",
+              "start": 41,
+              "url": "https://t.co/waaBs6VzrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002068848615604247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002064394843533619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们翎复活了\n新账号是@XldscX，Xaleid scopiX的缩写\n望周知 https://t.co/waaBs6VzrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 274,
+          "like_count": 3466,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998284551303598080/m9aPxfLI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94534,
+          "following_count": 665,
+          "like_count": 32974,
+          "listed_count": 271,
+          "media_count": 14145,
+          "tweet_count": 20402
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅死你捅",
+        "id": "2001598933169315840",
+        "name": "翎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001599167043620865/6OmuRr-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 43,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

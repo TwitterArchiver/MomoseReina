@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2064682742957346962",
+    "created_at": "2026-06-10T12:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064682742957346962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2064511223509692828",
+          "start": 27,
+          "url": "https://t.co/yNARhDtLsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064682742957346962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064511223509692828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个完整下行方向（台北-左营）要开一个半小时！好累！ https://t.co/yNARhDtLsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2064510419461713920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKadScsbsAAw1iE.jpg",
+        "width": 2559
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2064682742957346962",
+        "created_at": "2026-06-10T12:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064682742957346962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2064511223509692828",
+              "start": 27,
+              "url": "https://t.co/yNARhDtLsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064682742957346962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064511223509692828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个完整下行方向（台北-左营）要开一个半小时！好累！ https://t.co/yNARhDtLsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064510419461713920"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2064511223509692828",
+        "created_at": "2026-06-10T00:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064511223509692828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lv6KMjjPsC",
+              "end": 72,
+              "expanded_url": "https://x.com/MomoseReina/status/2064511223509692828/photo/1",
+              "media_key": "3_2064510419461713920",
+              "start": 49,
+              "url": "https://t.co/Lv6KMjjPsC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064511223509692828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩！但是你让我这个在开火车游戏喜欢冲高的人来说嘛...\n反正台北到板桥这段路起码撞了5次ATC https://t.co/Lv6KMjjPsC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 344,
+          "like_count": 8736,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 6125
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

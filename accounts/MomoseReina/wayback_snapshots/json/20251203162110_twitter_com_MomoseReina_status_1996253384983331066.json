@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996089663040487638",
+    "created_at": "2025-12-03T16:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T17:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996253384983331066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996253384983331066",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996089663040487638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ hi~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1996088999715463169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OIXpga4AE8XmW.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1996088999535149058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OIXo1bgAIBUQo.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1996089655989764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OI92UaAAAZ7fb.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996089663040487638",
+        "created_at": "2025-12-03T16:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T17:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996253384983331066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996253384983331066",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996089663040487638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ hi~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996088999715463169",
+            "3_1996088999535149058",
+            "3_1996089655989764096"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996089663040487638",
+        "created_at": "2025-12-03T05:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T06:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996089663040487638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhK9oofxRl",
+              "end": 68,
+              "expanded_url": "https://x.com/huahuojiang_/status/1996089663040487638/photo/1",
+              "media_key": "3_1996088999715463169",
+              "start": 45,
+              "url": "https://t.co/QhK9oofxRl"
+            },
+            {
+              "display_url": "pic.x.com/QhK9oofxRl",
+              "end": 68,
+              "expanded_url": "https://x.com/huahuojiang_/status/1996089663040487638/photo/1",
+              "media_key": "3_1996088999535149058",
+              "start": 45,
+              "url": "https://t.co/QhK9oofxRl"
+            },
+            {
+              "display_url": "pic.x.com/QhK9oofxRl",
+              "end": 68,
+              "expanded_url": "https://x.com/huahuojiang_/status/1996089663040487638/photo/1",
+              "media_key": "3_1996089655989764096",
+              "start": 45,
+              "url": "https://t.co/QhK9oofxRl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996089663040487638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操收個客服電話也是要話費的呀，直接給我幹破產了，接電話之前還有45塊現在只剩0.3了😅 https://t.co/QhK9oofxRl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 266,
+          "like_count": 2713,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6890,
+          "following_count": 3653,
+          "like_count": 97541,
+          "listed_count": 19,
+          "media_count": 6251,
+          "tweet_count": 87078
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

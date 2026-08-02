@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2008508159552614571",
+    "created_at": "2026-01-07T08:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008822929262604725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "xinhaiying521"
+        },
+        {
+          "end": 22,
+          "id": "1482030767358496768",
+          "start": 15,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008822929262604725",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008822587753967725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@xinhaiying521 @tcdwww 是的，咱也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2008508159552614571",
+        "created_at": "2026-01-07T08:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008822929262604725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "xinhaiying521"
+            },
+            {
+              "end": 22,
+              "id": "1482030767358496768",
+              "start": 15,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008822929262604725",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008822587753967725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@xinhaiying521 @tcdwww 是的，咱也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625030759395524608",
+        "conversation_id": "2008508159552614571",
+        "created_at": "2026-01-07T08:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008822587753967725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            },
+            {
+              "end": 20,
+              "id": "1870108535268487169",
+              "start": 8,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008822587753967725",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008820717245321523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@tcdwww @MomoseReina 回避加qq的主要原因是一直以来从小学的大学，始终就那一个qq号，里面的签名之类的信息已经很久没有动过了，再次打开不小心看到会真的很尬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 291,
+          "like_count": 4375,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05出厂(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈喜欢一切可爱的东西~\n/💧🐟。o 〇@Romanorum_\n Wish You Were Here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Romanorum_"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "location": "距离你200m",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "2003488896185942298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997670357936001024/LnXCj7hM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 771,
+          "like_count": 8316,
+          "listed_count": 4,
+          "media_count": 552,
+          "tweet_count": 3073
+        },
+        "username": "xinhaiying521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuqKNK"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2003870953789706600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 443,
+          "like_count": 71114,
+          "listed_count": 9,
+          "media_count": 759,
+          "tweet_count": 9769
+        },
+        "url": "https://t.co/IJpduuqKNK",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

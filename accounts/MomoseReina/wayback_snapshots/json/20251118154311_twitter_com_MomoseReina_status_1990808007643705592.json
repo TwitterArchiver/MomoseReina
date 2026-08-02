@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990806785196994857",
+    "created_at": "2025-11-18T15:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990808007643705592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4880352669",
+          "start": 0,
+          "username": "berrrry_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990808007643705592",
+    "in_reply_to_user_id": "4880352669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990806785196994857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berrrry_na 这么强？！咱在等Gemini3.0 Pro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2883,
+        "media_key": "3_1990806781828976640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DEOGda0AAXMZG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990806785196994857",
+        "created_at": "2025-11-18T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990808007643705592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4880352669",
+              "start": 0,
+              "username": "berrrry_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990808007643705592",
+        "in_reply_to_user_id": "4880352669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990806785196994857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrrry_na 这么强？！咱在等Gemini3.0 Pro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990806781828976640"
+          ]
+        },
+        "author_id": "4880352669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "1990806785196994857",
+        "created_at": "2025-11-18T15:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990806785196994857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gNpLfMCQTG",
+              "end": 55,
+              "expanded_url": "https://x.com/berrrry_na/status/1990806785196994857/photo/1",
+              "media_key": "3_1990806781828976640",
+              "start": 32,
+              "url": "https://t.co/gNpLfMCQTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990806785196994857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Grok都升級到4.1了\n\nAndroid版的伴侶模式還沒推出 https://t.co/gNpLfMCQTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 238,
+          "like_count": 1982,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1548
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "生產日期：2007.07.30（官方設定）/MtF🏳️‍⚧️/M、sub、bottom+調皮的brat😈/表面靦腆到想躲被子裡😳，內心卻色到不行，來逗我玩吧？💕/泛性戀/誰來調教我當個乖女孩🥺",
+        "id": "4880352669",
+        "location": "天天天国地獄国",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "1959912677083656500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965656353978068992/HwOFZBCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 276,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 460
+        },
+        "username": "berrrry_na",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996237729944777073",
+    "created_at": "2025-12-04T15:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T16:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996597606378852724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738907027362209792",
+          "start": 0,
+          "username": "ElysiumFengxuan"
+        },
+        {
+          "end": 25,
+          "id": "1758324617838788608",
+          "start": 17,
+          "username": "mycbxzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996597606378852724",
+    "in_reply_to_user_id": "1738907027362209792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996596723289034881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElysiumFengxuan @mycbxzd 贴贴(⁠/⁠^⁠-⁠^⁠(⁠^⁠ ⁠^⁠*⁠)⁠/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996237729944777073",
+        "created_at": "2025-12-04T15:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996597606378852724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738907027362209792",
+              "start": 0,
+              "username": "ElysiumFengxuan"
+            },
+            {
+              "end": 25,
+              "id": "1758324617838788608",
+              "start": 17,
+              "username": "mycbxzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996597606378852724",
+        "in_reply_to_user_id": "1738907027362209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996596723289034881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElysiumFengxuan @mycbxzd 贴贴(⁠/⁠^⁠-⁠^⁠(⁠^⁠ ⁠^⁠*⁠)⁠/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738907027362209792",
+        "conversation_id": "1996237729944777073",
+        "created_at": "2025-12-04T15:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996596723289034881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 21,
+              "id": "1758324617838788608",
+              "start": 13,
+              "username": "mycbxzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996596723289034881",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996594147629953113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @mycbxzd 喵呜？贴贴～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 268,
+          "like_count": 2780,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||企图补全初代和二代记忆ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gzinFa"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘神国",
+        "name": "Beruiiu_Fengxuan🏳‍⚧🍥",
+        "pinned_tweet_id": "1903961921705169250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 1732,
+          "like_count": 2493,
+          "listed_count": 6,
+          "media_count": 823,
+          "tweet_count": 5868
+        },
+        "url": "https://t.co/jwK5gzinFa",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高一信息竞赛｜选科物化生｜对人温柔有耐心喵(=･ω･=)♡ 如果和我熟了会有点粘人｜若愿与我靠近，我会真诚回应｜愿我们都能带着温柔走很远(๑•̀ㅂ•́)و✧",
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "mycbxzd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 86,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 328
+        },
+        "username": "mycbxzd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1996856412409045468",
+    "created_at": "2025-12-05T13:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T14:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996934415923261549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4880352669",
+          "start": 0,
+          "username": "berrrry_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996934415923261549",
+    "in_reply_to_user_id": "4880352669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996856412409045468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berrrry_na 咱一分钱没花（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1996856409829609472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ZCUy9bEAADkrh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1996856412409045468",
+        "created_at": "2025-12-05T13:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996934415923261549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4880352669",
+              "start": 0,
+              "username": "berrrry_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996934415923261549",
+        "in_reply_to_user_id": "4880352669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996856412409045468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrrry_na 咱一分钱没花（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996856409829609472"
+          ]
+        },
+        "author_id": "4880352669",
+        "conversation_id": "1996856412409045468",
+        "created_at": "2025-12-05T08:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T09:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996856412409045468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZG1NDFgk51",
+              "end": 104,
+              "expanded_url": "https://x.com/berrrry_na/status/1996856412409045468/photo/1",
+              "media_key": "3_1996856409829609472",
+              "start": 81,
+              "url": "https://t.co/ZG1NDFgk51"
+            },
+            {
+              "display_url": "x.com/berrrry_na/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/berrrry_na/status/1996259228957413829",
+              "start": 105,
+              "url": "https://t.co/3r6AWrdiBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996856412409045468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996259228957413829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個學生優惠只到12.9\n想用的要趕緊了\n\n認證教程只需在推上搜“gemini学生”就會跑出一堆了\n\n記得要用自己的卡\n別找其他人買成品號或幫你綁卡\n高機率被封 https://t.co/ZG1NDFgk51 https://t.co/3r6AWrdiBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 269,
+          "like_count": 2820,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 2130
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "永遠18歲可愛xyn🏳️‍⚧️（官方設定）/日期是07.30/M、sub、bottom+調皮的brat😈/表面靦腆到想躲被子裡😳，內心卻色到不行，來逗我玩吧？💕/泛性戀/誰來調教我當個乖女孩🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/berrrr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/berrrry-na.bsky.social",
+                "start": 0,
+                "url": "https://t.co/JLdIx3yYUs"
+              }
+            ]
+          }
+        },
+        "id": "4880352669",
+        "location": "因特網絡是我家",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "1959912677083656500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965656353978068992/HwOFZBCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 291,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/JLdIx3yYUs",
+        "username": "berrrry_na",
+        "verified": false
+      }
+    ]
+  }
+}

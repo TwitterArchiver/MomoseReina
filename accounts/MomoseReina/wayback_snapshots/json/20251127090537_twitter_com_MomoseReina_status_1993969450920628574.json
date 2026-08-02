@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1993638547518283866",
+    "created_at": "2025-11-27T09:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993969450920628574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497213290706968576",
+          "start": 0,
+          "username": "Sylvielove2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993969450920628574",
+    "in_reply_to_user_id": "1497213290706968576",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993965635429413199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sylvielove2022 🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1993965628412317696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v9LK_a0AAsWIw.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1993638547518283866",
+        "created_at": "2025-11-27T09:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993969450920628574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497213290706968576",
+              "start": 0,
+              "username": "Sylvielove2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993969450920628574",
+        "in_reply_to_user_id": "1497213290706968576",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993965635429413199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sylvielove2022 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993965628412317696"
+          ]
+        },
+        "author_id": "1497213290706968576",
+        "conversation_id": "1993638547518283866",
+        "created_at": "2025-11-27T08:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993965635429413199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGWfHmXwHZ",
+              "end": 40,
+              "expanded_url": "https://x.com/Sylvielove2022/status/1993965635429413199/photo/1",
+              "media_key": "3_1993965628412317696",
+              "start": 17,
+              "url": "https://t.co/pGWfHmXwHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993965635429413199",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993638547518283866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 玲奈酱 https://t.co/pGWfHmXwHZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 256,
+          "like_count": 2443,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T14:14:29.000Z",
+        "description": "你好，我是白砂糖，称呼我扬扬也可以，无证且暂不含糖，平时喜欢在互联网四处游荡，不擅长发表自己的言论，但很乐意倾听，因为不是很擅长安慰人，所以有时会用AI来辅助回复，如果你对我感到有兴趣的话，我很乐意与你成为朋友，共同寻找些话题。扩Q的话，请私聊哦",
+        "id": "1497213290706968576",
+        "location": "河南郑州",
+        "name": "白砂糖Sylvie🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969425877261041664/Om2cjwgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 1374,
+          "like_count": 11985,
+          "listed_count": 0,
+          "media_count": 1628,
+          "tweet_count": 4885
+        },
+        "username": "Sylvielove2022",
+        "verified": false
+      }
+    ]
+  }
+}

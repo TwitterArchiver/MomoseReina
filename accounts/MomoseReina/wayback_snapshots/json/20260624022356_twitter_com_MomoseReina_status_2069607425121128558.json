@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2069604559148953765",
+    "created_at": "2026-06-24T02:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069607425121128558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "69546024",
+          "start": 0,
+          "username": "moreoronce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069607425121128558",
+    "in_reply_to_user_id": "69546024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069605141049962678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moreoronce 🤓\n我是投什么亏什么，什么投资只要我买了，你们就可以抛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2069604559148953765",
+        "created_at": "2026-06-24T02:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069607425121128558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "69546024",
+              "start": 0,
+              "username": "moreoronce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069607425121128558",
+        "in_reply_to_user_id": "69546024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069605141049962678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moreoronce 🤓\n我是投什么亏什么，什么投资只要我买了，你们就可以抛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69546024",
+        "conversation_id": "2069604559148953765",
+        "created_at": "2026-06-24T02:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069605141049962678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069605141049962678",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069604559148953765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 好好好，纳斯达克崩盘指日可待了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 342,
+          "like_count": 9014,
+          "listed_count": 5,
+          "media_count": 389,
+          "tweet_count": 6359
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-28T09:13:13.000Z",
+        "description": "生活体验 · 硅基思维升级 · 实用 hacks · 大模型自费体验 · 家庭网络破坏者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deeprouter.org",
+                "end": 23,
+                "expanded_url": "https://deeprouter.org",
+                "start": 0,
+                "url": "https://t.co/JP4wgQzwQb"
+              }
+            ]
+          }
+        },
+        "id": "69546024",
+        "name": "Lex Parsimoniae🚲",
+        "pinned_tweet_id": "2069277071847960578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011250033107365888/ziB0RGqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 392,
+          "like_count": 1889,
+          "listed_count": 17,
+          "media_count": 1584,
+          "tweet_count": 49443
+        },
+        "url": "https://t.co/JP4wgQzwQb",
+        "username": "moreoronce",
+        "verified": true
+      }
+    ]
+  }
+}

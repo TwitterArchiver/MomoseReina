@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2074352106530881959",
+    "created_at": "2026-07-07T20:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T21:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074585488804180010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901981462582435840",
+          "start": 0,
+          "username": "COPOPPY_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074585488804180010",
+    "in_reply_to_user_id": "1901981462582435840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074559082204455020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@COPOPPY_X 不可能，这三家不对中国大陆服务\n如果还能用，说明用的人还是太少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2074352106530881959",
+        "created_at": "2026-07-07T20:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074585488804180010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901981462582435840",
+              "start": 0,
+              "username": "COPOPPY_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074585488804180010",
+        "in_reply_to_user_id": "1901981462582435840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074559082204455020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@COPOPPY_X 不可能，这三家不对中国大陆服务\n如果还能用，说明用的人还是太少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901981462582435840",
+        "conversation_id": "2074352106530881959",
+        "created_at": "2026-07-07T18:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074559082204455020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074559082204455020",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074352106530881959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 广告位御三家express，nord，surfshark🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 336,
+          "like_count": 9186,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 6551
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-18T12:58:33.000Z",
+        "description": "我会咕咕嘎嘎叫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/FoxSeat",
+                "end": 23,
+                "expanded_url": "https://x.com/FoxSeat",
+                "start": 0,
+                "url": "https://t.co/I0UmyHUI1o"
+              }
+            ]
+          }
+        },
+        "id": "1901981462582435840",
+        "name": "咕咕嘎嘎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071142792299171841/UifHb-vu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 16,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/I0UmyHUI1o",
+        "username": "COPOPPY_X",
+        "verified": false
+      }
+    ]
+  }
+}

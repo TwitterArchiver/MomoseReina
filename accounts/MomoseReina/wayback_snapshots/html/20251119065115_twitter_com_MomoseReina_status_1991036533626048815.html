@@ -1,0 +1,201 @@
+<!-- Source: https://web.archive.org/web/20251119065115if_/twitter_com_MomoseReina_status_1991036533626048815 -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>
+Wayback Machine
+</title>
+<style type="text/css">
+body {
+				margin:0;
+				padding: 20px;
+				background-color: #000;
+				min-height: 100vh;
+				box-sizing: border-box;
+			}
+  .notice {
+    border: 2px solid #c9ae00;
+    background-color: #ffff00;
+    padding: 12px;
+    position: sticky;
+    top: 20px;
+    z-index: 1000;
+  }
+
+  .tweet-container {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 12px 16px;
+    border: 1px solid #cfd9de;
+    border-radius: 12px;
+    margin-top: 20px;
+				margin-left: auto;
+				margin-right: auto;
+				background-color: white;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: max-content;
+  }
+
+  .tweet-container > #nonjsonview {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+  }
+
+  .tweet-author {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 0.75rem;
+  }
+
+  .tweet-author-profile-image img {
+    width: 48px;
+    max-width: 48px;
+    height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+
+  .tweet-author-info {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .tweet-author-name {
+    font-weight: bold;
+  }
+
+  .tweet-content {
+    font-size: 1.25rem;
+  }
+
+			.tweet-image {
+				width: 100%;
+				height: auto;
+				margin-top: 12px;
+				border-radius: 12px;
+			}
+
+			.embedded-tweet-container {
+				box-sizing: border-box;
+				margin-top: 12px;
+				padding: 12px;
+				border: 1px solid #cfd9de;
+    border-radius: 12px;
+				background-color: white;
+				max-width: 100%;
+			}
+			.date {
+				font-size: 0.75rem;
+				color: #657786;
+				margin-top: 12px;
+			}
+			.date a {
+				color: #657786;
+				text-decoration: none;
+			}
+			.date a:hover {
+				text-decoration: underline;
+			}
+  .on {
+    display: block;
+  }
+  .off {
+    display: none;
+  }
+</style>
+</head>
+<body>
+<div class="tweet-container on">
+<div id="nonjsonview">
+  <div class="tweet-author">
+  <div class="tweet-author-profile-image">
+  <img alt="桃濑玲奈" src="../avatar/avatar_1973633149646282755.jpg"/>
+  </div>
+  <div class="tweet-author-info">
+  <div class="tweet-author-name">
+  桃濑玲奈
+  </div>
+  <div class="tweet-author-username">
+  @MomoseReina
+  </div>
+  </div>
+  </div>
+  <div class="tweet-content">
+  以下是关于 Cloudflare 2025年11月18日服务中断事故的总结：
+  <br/>
+  事故概览
+  <br/>
+  * 时间： 2025年11月18日 11:20 UTC 至 17:06 UTC。
+  <br/>
+  * 现象： Cloudflare 核心网络流量出现大规模故障，用户访问客户网站时遇到 HTTP 5xx 错误页面。受影响的服务包括核心 CDN、Turnstile、Workers KV、Dashboard（仪表盘）和 Access。
+  <br/>
+  根本原因 (Root Cause)
+  <br/>
+  * 非网络攻击： 事故并非由 DDoS 攻击或恶意活动引起。
+  <br/>
+  * 数据库权限变更导致配置错误：
+  <br/>
+  * Cloudflare 对其 ClickHouse 数据库集群进行了权限管理更新。
+  <br/>
+  * 这一变更导致 Bot Management（机器人管理）系统使用的“特征文件”生成查询返回了大量重复数据，使文件大小翻倍。
+  <br/>
+  * 内存预分配限制触发崩溃：
+  <br/>
+  * 该特征文件被分发到全网所有边缘节点。
+  <br/>
+  * 负责路由流量的软件（核心代理 FL2）对该文件有预分配的内存限制（上限为 200 个特征，而平时仅使用约 60 个）。
+  <br/>
+  * 由于文件大小超出限制，导致软件发生 Panic（崩溃），进而引发服务中断。
+  <br/>
+  事故处理与误判
+  <br/>
+  * 初期误判： 由于故障表现为间歇性波动（因为 ClickHouse 集群只有部分节点生成了错误文件，导致好坏文件交替分发），且 Cloudflare 的状态页（Status Page）恰好同时也出现了无关的故障，团队最初误以为遭遇了超大规模的 DDoS 攻击。
+  <br/>
+  * 排查与修复：
+  <br/>
+  * 团队最终确认问题源于 Bot Management 的配置文件。
+  <br/>
+  * 14:24 UTC： 停止了错误配置文件的生成和分发。
+  <br/>
+  * 14:30 UTC： 手动部署了已知的旧版正常文件，核心流量开始恢复。
+  <br/>
+  * 17:06 UTC： 所有相关服务（包括 Dashboard 和 Workers KV）的积压负载处理完毕，系统完全恢复正常。
+  <br/>
+  后续改进措施
+  <br/>
+  * 加强对内部生成的配置文件的验证和“硬化”处理（像对待用户输入一样）。
+  <br/>
+  * 为功能特性启用更全局的“Kill Switches”（熔断机制）。
+  <br/>
+  * 防止错误报告（如 Core Dumps）耗尽系统资源。
+  <br/>
+  * 全面审查核心代理模块的错误处理机制。
+  <br/>
+  这是 Cloudflare 自 2019 年以来最严重的一次中断事故，导致了核心流量无法正常路由。官方已为此致歉并承诺改进系统的弹性。
+  <!-- If there's a quoted tweet, embed it here!-->
+  <p class="date">
+  <a href="/" id="parentdate">
+  </a>
+  </p>
+  </div>
+</div>
+</div>
+<script>
+var dateString = "2025-11-19T06:51:15.000Z";
+  var date = new Date(dateString);
+  var currentURL = window.location.href;
+  document.querySelector("#parentdate").innerText = date;
+  document.querySelector("#parentdate").href = currentURL;
+</script>
+</body>
+</html>

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1978421811738980658",
+    "created_at": "2025-10-17T11:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979154883623199165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963118330707050496",
+          "start": 0,
+          "username": "mtnyan123"
+        },
+        {
+          "end": 24,
+          "id": "1756909109788753920",
+          "start": 11,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979154883623199165",
+    "in_reply_to_user_id": "1963118330707050496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979053372498944379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan123 @BaoZheFanQie 乌冬面构成的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1978421811738980658",
+        "created_at": "2025-10-17T11:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979154883623199165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963118330707050496",
+              "start": 0,
+              "username": "mtnyan123"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 11,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979154883623199165",
+        "in_reply_to_user_id": "1963118330707050496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979053372498944379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan123 @BaoZheFanQie 乌冬面构成的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963118330707050496",
+        "conversation_id": "1978421811738980658",
+        "created_at": "2025-10-17T05:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979053372498944379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979053372498944379",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978478157910139176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie 我家也有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 173,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 685
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / 无证含糖｜泛性恋 / 社恐 / 主页背景图是本猫｜世界是由乌冬面构成的｜加入乌冬面教的tg频道https://t.co/O8CWPcfvRP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wdm5201314",
+                "end": 77,
+                "expanded_url": "https://t.me/wdm5201314",
+                "start": 54,
+                "url": "https://t.co/O8CWPcfvRP"
+              }
+            ]
+          }
+        },
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱（大号被盗",
+        "pinned_tweet_id": "1972515938013704538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 139,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 272
+        },
+        "username": "mtnyan123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线/可互 fo\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包西红柿的西红柿（接推广）",
+        "pinned_tweet_id": "1979050661590315112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 2449,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 394,
+          "tweet_count": 5336
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

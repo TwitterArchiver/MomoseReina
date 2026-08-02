@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2025418350743224491",
+    "created_at": "2026-02-22T08:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025485521225728255"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "localhost",
+          "probability": 0.4519,
+          "start": 11,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1932092570844143616",
+          "start": 0,
+          "username": "justbyte_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025485521225728255",
+    "in_reply_to_user_id": "1932092570844143616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025418350743224491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justbyte_ localhost:10000"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2025418348146950146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBu7QarbgAIa1M1.jpg",
+        "width": 833
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2025418350743224491",
+        "created_at": "2026-02-22T08:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025485521225728255"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "localhost",
+              "probability": 0.4519,
+              "start": 11,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1932092570844143616",
+              "start": 0,
+              "username": "justbyte_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025485521225728255",
+        "in_reply_to_user_id": "1932092570844143616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025418350743224491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justbyte_ localhost:10000"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025418348146950146"
+          ]
+        },
+        "author_id": "1932092570844143616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2025418350743224491",
+        "created_at": "2026-02-22T03:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025418350743224491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQhGz3UBuM",
+              "end": 71,
+              "expanded_url": "https://x.com/justbyte_/status/2025418350743224491/photo/1",
+              "media_key": "3_2025418348146950146",
+              "start": 48,
+              "url": "https://t.co/CQhGz3UBuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025418350743224491",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 25458,
+          "like_count": 291,
+          "quote_count": 5,
+          "reply_count": 146,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "As a developer, which localhost do you prefer?? https://t.co/CQhGz3UBuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 317,
+          "like_count": 6278,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 4420
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-09T15:09:38.000Z",
+        "description": "Tech | Content Creation | DM for Collabs 📨",
+        "id": "1932092570844143616",
+        "location": "localhost:3000",
+        "name": "Aryan",
+        "pinned_tweet_id": "2013498377393098890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012554953760329728/TwfFCvZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 1170,
+          "like_count": 4230,
+          "listed_count": 7,
+          "media_count": 655,
+          "tweet_count": 7962
+        },
+        "username": "justbyte_",
+        "verified": true
+      }
+    ]
+  }
+}

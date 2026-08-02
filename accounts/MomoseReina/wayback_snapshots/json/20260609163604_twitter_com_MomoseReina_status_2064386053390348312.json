@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2064386053390348312",
+    "created_at": "2026-06-09T16:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064386053390348312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2064051444538581133",
+          "start": 8,
+          "url": "https://t.co/cwva6RV2tu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064386053390348312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064051444538581133",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后还是买了😭 https://t.co/cwva6RV2tu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2064386053390348312",
+        "created_at": "2026-06-09T16:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064386053390348312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2064051444538581133",
+              "start": 8,
+              "url": "https://t.co/cwva6RV2tu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064386053390348312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064051444538581133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后还是买了😭 https://t.co/cwva6RV2tu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2064051444538581133",
+        "created_at": "2026-06-08T18:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064051444538581133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064051444538581133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1444,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还好前两天刹住车了，差点买百亿补贴的国行mba\n否则Siri AI都用不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 345,
+          "like_count": 8711,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 6100
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

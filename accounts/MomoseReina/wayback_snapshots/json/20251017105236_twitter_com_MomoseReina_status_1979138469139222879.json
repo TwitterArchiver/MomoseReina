@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979133580153393297",
+    "created_at": "2025-10-17T10:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T11:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979138469139222879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "42653798",
+          "start": 0,
+          "username": "kiradokisoyorin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979138469139222879",
+    "in_reply_to_user_id": "42653798",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979136666796462435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiradokisoyorin qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979136654834040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dOTTlWgAApNXr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979133580153393297",
+        "created_at": "2025-10-17T10:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979138469139222879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "42653798",
+              "start": 0,
+              "username": "kiradokisoyorin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979138469139222879",
+        "in_reply_to_user_id": "42653798",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979136666796462435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiradokisoyorin qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979136654834040832"
+          ]
+        },
+        "author_id": "42653798",
+        "conversation_id": "1979133580153393297",
+        "created_at": "2025-10-17T10:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979136666796462435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOsmMV6E8q",
+              "end": 36,
+              "expanded_url": "https://x.com/kiradokisoyorin/status/1979136666796462435/photo/1",
+              "media_key": "3_1979136654834040832",
+              "start": 13,
+              "url": "https://t.co/cOsmMV6E8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979136666796462435",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979136415473766654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina https://t.co/cOsmMV6E8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 173,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-26T16:01:30.000Z",
+        "description": "08/可以叫我库库/167-55-80C/其实很混沌但是没想好人设所以不写了/你说得对可是库库时间到了来和库库玩儿/这辈子再也不玩抽象了/随缘上推回消息慢是正常的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kukutime",
+                "end": 23,
+                "expanded_url": "http://t.me/kukutime",
+                "start": 0,
+                "url": "https://t.co/HDmEepKsb5"
+              }
+            ]
+          }
+        },
+        "id": "42653798",
+        "location": "好库库公司",
+        "name": "小库小库~",
+        "pinned_tweet_id": "1978093404283097294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972579241893208064/b2SXBBRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 710,
+          "like_count": 1875,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/HDmEepKsb5",
+        "username": "kiradokisoyorin",
+        "verified": true
+      }
+    ]
+  }
+}

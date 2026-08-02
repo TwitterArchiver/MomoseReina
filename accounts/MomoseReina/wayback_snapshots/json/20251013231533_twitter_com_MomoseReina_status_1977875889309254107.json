@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977791779417333767",
+    "created_at": "2025-10-13T23:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T00:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977875889309254107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977875889309254107",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977791779417333767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt 羡慕通联QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2855,
+        "media_key": "3_1977791763667709953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3KHIVkbcAEtEDd.jpg",
+        "width": 3677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977791779417333767",
+        "created_at": "2025-10-13T23:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T00:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977875889309254107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977875889309254107",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977791779417333767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 羡慕通联QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977791763667709953"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "1977791779417333767",
+        "created_at": "2025-10-13T17:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977791779417333767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsyGDIdkit",
+              "end": 54,
+              "expanded_url": "https://x.com/Jasonzyt/status/1977791779417333767/photo/1",
+              "media_key": "3_1977791763667709953",
+              "start": 31,
+              "url": "https://t.co/XsyGDIdkit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977791779417333767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通联一时爽，写卡火葬场\nQRT until Saturday https://t.co/XsyGDIdkit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 142,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17岁 事电波系少女 | 低浓度宅 | 也许算全栈 Dev | 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Radio DE BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心 以自己想要的方式生活 ❤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "levimc_org"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "🐱ZYT🏳️⭐️ w (๑╹◡╹๑) w",
+        "pinned_tweet_id": "1957296402964570559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953728269284782080/GDrgKAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 680,
+          "like_count": 47465,
+          "listed_count": 4,
+          "media_count": 977,
+          "tweet_count": 11827
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

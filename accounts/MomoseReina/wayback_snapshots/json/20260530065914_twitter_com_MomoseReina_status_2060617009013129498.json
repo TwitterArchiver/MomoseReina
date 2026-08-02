@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2060584128236638669",
+    "created_at": "2026-05-30T06:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060617009013129498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886580761884729344",
+          "start": 0,
+          "username": "lazyplan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060617009013129498",
+    "in_reply_to_user_id": "886580761884729344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060610131650556241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazyplan 隔壁某日本SHIXP+腾讯云200m轻量秒了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2060584128236638669",
+        "created_at": "2026-05-30T06:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060617009013129498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886580761884729344",
+              "start": 0,
+              "username": "lazyplan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060617009013129498",
+        "in_reply_to_user_id": "886580761884729344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060610131650556241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazyplan 隔壁某日本SHIXP+腾讯云200m轻量秒了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886580761884729344",
+        "conversation_id": "2060584128236638669",
+        "created_at": "2026-05-30T06:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060610131650556241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060610131650556241",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060605221165056334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina kknd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 341,
+          "like_count": 8536,
+          "listed_count": 5,
+          "media_count": 351,
+          "tweet_count": 5945
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-16T13:38:20.000Z",
+        "description": "喵~",
+        "id": "886580761884729344",
+        "name": "lazyplan",
+        "pinned_tweet_id": "1214929179084353536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908420178184200192/AxAgEGbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 181,
+          "like_count": 7962,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 386
+        },
+        "username": "lazyplan",
+        "verified": false
+      }
+    ]
+  }
+}

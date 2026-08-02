@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990702517311709190",
+    "created_at": "2025-11-18T09:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990715418638458991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982386432573591552",
+          "start": 0,
+          "username": "XynNanaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990715418638458991",
+    "in_reply_to_user_id": "1982386432573591552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990702517311709190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynNanaNya 确实没用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990702517311709190",
+        "created_at": "2025-11-18T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990715418638458991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982386432573591552",
+              "start": 0,
+              "username": "XynNanaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990715418638458991",
+        "in_reply_to_user_id": "1982386432573591552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990702517311709190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynNanaNya 确实没用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982386432573591552",
+        "conversation_id": "1990702517311709190",
+        "created_at": "2025-11-18T08:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990702517311709190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990702517311709190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真没感觉到这个小蓝勾勾有什么用，白瞎我的钱了😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 235,
+          "like_count": 1934,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1499
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T09:59:12.000Z",
+        "description": "糖龄52周的小药娘喵 // 持续深柜 // 梦想是大学之前改完证(渺茫) // 可以来找我聊天喵，我很好玩的！//  是小m,是受 // 最烦人的姐姐@DianaAnya0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DianaAnya0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "http://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/PSF3RltJL2"
+              }
+            ]
+          }
+        },
+        "id": "1982386432573591552",
+        "location": "Liaoning",
+        "name": "小药娘娜娜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982389329491058688/zpusvaNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 26,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/PSF3RltJL2",
+        "username": "XynNanaNya",
+        "verified": true
+      }
+    ]
+  }
+}

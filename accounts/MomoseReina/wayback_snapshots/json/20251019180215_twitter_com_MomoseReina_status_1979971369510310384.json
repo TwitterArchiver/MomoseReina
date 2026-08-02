@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979744244568105124",
+    "created_at": "2025-10-19T18:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979971369510310384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872130736872144897",
+          "start": 0,
+          "username": "yanzhenzhen21"
+        },
+        {
+          "end": 23,
+          "id": "1741426453265473536",
+          "start": 15,
+          "username": "yywz258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979971369510310384",
+    "in_reply_to_user_id": "1872130736872144897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979744244568105124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhenzhen21 @yywz258 是对立猫猫球欸awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979744222052753409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3l24X2WIAE9bAX.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979744222920994816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3l24bFWcAA5yYX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979744244568105124",
+        "created_at": "2025-10-19T18:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979971369510310384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872130736872144897",
+              "start": 0,
+              "username": "yanzhenzhen21"
+            },
+            {
+              "end": 23,
+              "id": "1741426453265473536",
+              "start": 15,
+              "username": "yywz258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979971369510310384",
+        "in_reply_to_user_id": "1872130736872144897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979744244568105124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhenzhen21 @yywz258 是对立猫猫球欸awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979744222052753409",
+            "3_1979744222920994816"
+          ]
+        },
+        "author_id": "1872130736872144897",
+        "conversation_id": "1979744244568105124",
+        "created_at": "2025-10-19T02:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T03:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979744244568105124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741426453265473536",
+              "start": 2,
+              "username": "yywz258"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OMTvc1GpY",
+              "end": 52,
+              "expanded_url": "https://x.com/yanzhenzhen21/status/1979744244568105124/photo/1",
+              "media_key": "3_1979744222052753409",
+              "start": 29,
+              "url": "https://t.co/8OMTvc1GpY"
+            },
+            {
+              "display_url": "pic.x.com/8OMTvc1GpY",
+              "end": 52,
+              "expanded_url": "https://x.com/yanzhenzhen21/status/1979744244568105124/photo/1",
+              "media_key": "3_1979744222920994816",
+              "start": 29,
+              "url": "https://t.co/8OMTvc1GpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979744244568105124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@yywz258抽奖送出的猫猫球，我很喜欢,爱你呦🥰 https://t.co/8OMTvc1GpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 188,
+          "like_count": 1153,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 879
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "我是言箴甄你们也可以叫我辰箴 / 是一名09年的mtf🏳️‍⚧ / 已出柜家长党 / 常驻地区开封市 / 不是很擅长聊天 / 情绪状态一般都很稳定 / 喜欢各种美食🍔 / 想谈恋爱想谈恋爱想谈恋爱想谈恋爱想谈恋爱想谈恋爱🥰",
+        "id": "1872130736872144897",
+        "location": "神圣殿堂⛪",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931647111394942976/lRA5zfwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 587,
+          "like_count": 11608,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 541
+        },
+        "username": "yanzhenzhen21",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T11:50:08.000Z",
+        "description": "Evt a vhensiy dehlli en emce.\n望　その場所に在る者。\n\n    fo你是喜欢你求互fo（。可以称我为男娘，未术trans，5w4，多意识体，精神不稳定，喜欢学新东西，打音游，已戒o戒割，爱好是能和自己做的一切🐱🖐🏻️",
+        "id": "1741426453265473536",
+        "name": "intra_秋雨末叶🏳️‍⚧️（住校中）",
+        "pinned_tweet_id": "1974882304909770911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973088785144623104/zrzo9D2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 680,
+          "like_count": 2016,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 511
+        },
+        "username": "yywz258",
+        "verified": false
+      }
+    ]
+  }
+}

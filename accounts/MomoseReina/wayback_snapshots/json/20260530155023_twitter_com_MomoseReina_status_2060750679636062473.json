@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2060742369390260544",
+    "created_at": "2026-05-30T15:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060750679636062473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060750679636062473",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060742369390260544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 一般面基只拍手机资料页合照，拍脸还是不太能接受（太丑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "今天想跟各位坦诚沟通一下，关于面基拍合照的问题。\n\n一般来说，我会希望拍两种合照。一种是适合在社交网络上发布（炫耀）的、两个人的社交网络资料页显示出来的手机合照，还有一种，是两个人使用手机前置摄像头拍摄那种，出现正脸的合影。\n\n对于后者，出于尊重肖像权的考量，在获得相关人士的同意以前，我绝对不会将照片以私下或公开的方式、以任何的程度进行传播。这些照片将只会被我留下来，用作私人回忆。\n\n同时，如果对方愿意，也可以保存一份我拍下来的合照，或者说用对方的手机再拍几张。\n\n尽管上面说了这么多，但是如果对方确实不愿意拍这样的合照，拒绝我完全没有问题，不需要有心理负担。\n\n尽管我原则上不会写这种「给轻松的朋友交往设计规矩」的东西，但是这玩意涉及到肖像权这样的东西，出于负责任的态度，我有必要把它一次性解释清楚。",
+        "height": 1683,
+        "media_key": "3_2060742263354142721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk6K5TbsAEA8fo.jpg",
+        "width": 1863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2060742369390260544",
+        "created_at": "2026-05-30T15:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060750679636062473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060750679636062473",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060742369390260544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 一般面基只拍手机资料页合照，拍脸还是不太能接受（太丑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060742263354142721"
+          ]
+        },
+        "author_id": "1482030767358496768",
+        "conversation_id": "2060742369390260544",
+        "created_at": "2026-05-30T15:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060742369390260544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwCMBeqXUS",
+              "end": 25,
+              "expanded_url": "https://x.com/tcdwww/status/2060742369390260544/photo/1",
+              "media_key": "3_2060742263354142721",
+              "start": 2,
+              "url": "https://t.co/YwCMBeqXUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060742369390260544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👀 https://t.co/YwCMBeqXUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 341,
+          "like_count": 8548,
+          "listed_count": 5,
+          "media_count": 352,
+          "tweet_count": 5954
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王 | 家有可爱 OC：https://t.co/LTD9O1NBKt | 关注 ≠ 完全赞同其立场",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukinowan.com",
+                "end": 48,
+                "expanded_url": "http://yukinowan.com",
+                "start": 25,
+                "url": "https://t.co/LTD9O1NBKt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2048626808141275142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 493,
+          "like_count": 93990,
+          "listed_count": 11,
+          "media_count": 1119,
+          "tweet_count": 12644
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

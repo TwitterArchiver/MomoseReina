@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1981909681602711616",
+    "created_at": "2025-10-26T01:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T02:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982263285593575811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936961429342760960",
+          "start": 0,
+          "username": "opoohpoohism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982263285593575811",
+    "in_reply_to_user_id": "1936961429342760960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981909681602711616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opoohpoohism 有品！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1981909681602711616",
+        "created_at": "2025-10-26T01:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T02:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982263285593575811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936961429342760960",
+              "start": 0,
+              "username": "opoohpoohism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982263285593575811",
+        "in_reply_to_user_id": "1936961429342760960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981909681602711616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opoohpoohism 有品！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936961429342760960",
+        "conversation_id": "1981909681602711616",
+        "created_at": "2025-10-25T02:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981909681602711616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akanpc/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/akanpc/status/1981740356270973229",
+              "start": 8,
+              "url": "https://t.co/uGRVcUQhyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981909681602711616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 211,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981740356270973229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢术力口的呢 https://t.co/uGRVcUQhyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 204,
+          "like_count": 1359,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T01:37:52.000Z",
+        "description": "non-binary✩‧₊˚⸜('꒳ ')ଓ ༘˚電波系♡在互联网角落自言自语ᰔ⟡CN/EN/JP/Bahasa Melayu or Indonesia૮ ․ ․ ྀིა",
+        "id": "1936961429342760960",
+        "location": "🏝️",
+        "name": "Soi⋆.˚୨୧",
+        "pinned_tweet_id": "1971437560468734023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980888923917139968/kYDo39iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 809,
+          "like_count": 9696,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 8984
+        },
+        "username": "opoohpoohism",
+        "verified": false
+      }
+    ]
+  }
+}

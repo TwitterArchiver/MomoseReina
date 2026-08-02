@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1989234315876868475",
+    "created_at": "2025-11-14T12:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989308755922612554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1869924390617657345",
+          "start": 0,
+          "username": "ys97OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989308755922612554",
+    "in_reply_to_user_id": "1869924390617657345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989234315876868475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ys97OvO 楞着干嘛，上机啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1989234311812562944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5suETKbQAAoxsN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989234312097726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5suEUOagAAB9tS.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1050,
+        "media_key": "3_1989234300492083203",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5suDo_acAMM_GX.jpg",
+        "width": 1931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1989234315876868475",
+        "created_at": "2025-11-14T12:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989308755922612554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1869924390617657345",
+              "start": 0,
+              "username": "ys97OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989308755922612554",
+        "in_reply_to_user_id": "1869924390617657345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989234315876868475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ys97OvO 楞着干嘛，上机啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989234311812562944",
+            "3_1989234312097726464",
+            "3_1989234300492083203"
+          ]
+        },
+        "author_id": "1869924390617657345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989234315876868475",
+        "created_at": "2025-11-14T07:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989234315876868475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PN25nuIRpx",
+              "end": 56,
+              "expanded_url": "https://x.com/ys97OvO/status/1989234315876868475/photo/1",
+              "media_key": "3_1989234311812562944",
+              "start": 33,
+              "url": "https://t.co/PN25nuIRpx"
+            },
+            {
+              "display_url": "pic.x.com/PN25nuIRpx",
+              "end": 56,
+              "expanded_url": "https://x.com/ys97OvO/status/1989234315876868475/photo/1",
+              "media_key": "3_1989234312097726464",
+              "start": 33,
+              "url": "https://t.co/PN25nuIRpx"
+            },
+            {
+              "display_url": "pic.x.com/PN25nuIRpx",
+              "end": 56,
+              "expanded_url": "https://x.com/ys97OvO/status/1989234315876868475/photo/1",
+              "media_key": "3_1989234300492083203",
+              "start": 33,
+              "url": "https://t.co/PN25nuIRpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989234315876868475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚去和朋友吃火锅，吃完后下四楼逛逛就发现一台maimai。。。 https://t.co/PN25nuIRpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 233,
+          "like_count": 1843,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T01:55:15.000Z",
+        "description": "账号已经改回来了，可以取消屏蔽，重新关注我了\n@YS97OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "YS97OwO"
+              }
+            ]
+          }
+        },
+        "id": "1869924390617657345",
+        "name": "游笙OvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871956928085270528/-KD2_5My_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 516,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 524
+        },
+        "username": "ys97OvO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2003678573987827754",
+    "created_at": "2025-12-24T15:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T16:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003848201242292594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "Cyronanno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003848201242292594",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003678573987827754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyronanno 中国wmc有什么可羡慕的，马上把你拉去小黑屋（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2003678573987827754",
+        "created_at": "2025-12-24T15:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003848201242292594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "Cyronanno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003848201242292594",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003678573987827754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyronanno 中国wmc有什么可羡慕的，马上把你拉去小黑屋（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "2003678573987827754",
+        "created_at": "2025-12-24T04:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T05:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003678573987827754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainEngine2024…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/RainEngine2024/status/2003669032323715280",
+              "start": 39,
+              "url": "https://t.co/YiJrryvDAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003678573987827754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11433,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003669032323715280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "版本号解读：\nWMC舞萌吃\nCN中国\nXM羡慕\n\n合起来就是：羡慕中国舞萌吃 https://t.co/YiJrryvDAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 281,
+          "like_count": 3749,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 2819
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ﾅﾁｮ､fbk推し | ガジェット | アークナイツ(大陸情報あり)/音ゲー/maimaiDX",
+        "id": "1426015810472972298",
+        "name": "アノ",
+        "pinned_tweet_id": "2000943375978307969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000991802552377344/luZsoLn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 886,
+          "like_count": 165155,
+          "listed_count": 4,
+          "media_count": 4234,
+          "tweet_count": 17926
+        },
+        "username": "Cyronanno",
+        "verified": true
+      }
+    ]
+  }
+}

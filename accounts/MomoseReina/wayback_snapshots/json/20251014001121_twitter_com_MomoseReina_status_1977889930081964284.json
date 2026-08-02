@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977759688415404181",
+    "created_at": "2025-10-14T00:11:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T01:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977889930081964284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1936961429342760960",
+          "start": 0,
+          "username": "opoohpoohism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977889930081964284",
+    "in_reply_to_user_id": "1936961429342760960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977759688415404181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@opoohpoohism 要多出门走走哦(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977759688415404181",
+        "created_at": "2025-10-14T00:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T01:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977889930081964284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1936961429342760960",
+              "start": 0,
+              "username": "opoohpoohism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977889930081964284",
+        "in_reply_to_user_id": "1936961429342760960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977759688415404181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@opoohpoohism 要多出门走走哦(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936961429342760960",
+        "conversation_id": "1977759688415404181",
+        "created_at": "2025-10-13T15:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977759688415404181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977759688415404181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天出去玩一天，不在床上粘着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 145,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T01:37:52.000Z",
+        "description": "non-binary✩‧₊˚⸜('꒳ ')ଓ ༘˚在互联网角落自言自语ᰔ⟡CN/EN/JP/Bahasa Melayu or Indonesia૮ ․ ․ ྀིა",
+        "id": "1936961429342760960",
+        "location": "🏝️",
+        "name": "Soi⋆.˚୨୧",
+        "pinned_tweet_id": "1971437560468734023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976643720981139456/JZm2dNw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 645,
+          "like_count": 7281,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 6683
+        },
+        "username": "opoohpoohism",
+        "verified": false
+      }
+    ]
+  }
+}

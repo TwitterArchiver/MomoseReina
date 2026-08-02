@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1977257115241922620",
+    "created_at": "2025-10-12T10:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T11:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977321706655289709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1781510736000274432",
+          "start": 0,
+          "username": "huantim1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977321706655289709",
+    "in_reply_to_user_id": "1781510736000274432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977261554602328543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huantim1 (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1977257115241922620",
+        "created_at": "2025-10-12T10:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T11:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977321706655289709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1781510736000274432",
+              "start": 0,
+              "username": "huantim1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977321706655289709",
+        "in_reply_to_user_id": "1781510736000274432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977261554602328543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huantim1 (⁠｡⁠･⁠ω⁠･⁠｡⁠)⁠ﾉ⁠♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "1977257115241922620",
+        "created_at": "2025-10-12T06:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977261554602328543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977261554602328543",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977257115241922620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 恭喜🎉\n祝你早日1000fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 122,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "不被定义的，才是风格｜上海某高一牲｜非二元性别（queer/mtx）｜无性恋｜刷梗图或分享日常｜不主动发od/建政内容，但回复中可能含有少量｜非粉红但希望共和国变得越来越好｜互fo，忘回请评论/私信提醒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huantim_bot",
+                "end": 23,
+                "expanded_url": "http://t.me/huantim_bot",
+                "start": 0,
+                "url": "https://t.co/bJlJDPfWXx"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻Tim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781510900635009024/ggVgOfNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 170,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/bJlJDPfWXx",
+        "username": "huantim1",
+        "verified": false
+      }
+    ]
+  }
+}

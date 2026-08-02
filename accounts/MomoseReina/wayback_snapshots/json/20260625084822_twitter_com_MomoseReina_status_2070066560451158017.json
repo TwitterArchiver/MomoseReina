@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070066481015263232"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2070066560451158017",
+    "created_at": "2026-06-25T08:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070066560451158017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nzF1thwfra",
+          "end": 25,
+          "expanded_url": "https://x.com/MomoseReina/status/2070066560451158017/video/1",
+          "media_key": "13_2070066481015263232",
+          "start": 2,
+          "url": "https://t.co/nzF1thwfra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070066560451158017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/nzF1thwfra"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19133,
+        "height": 720,
+        "media_key": "13_2070066481015263232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070066481015263232/img/o4BAsRTWyGRhVVwM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070066481015263232/vid/avc1/402x270/eRSCkZ9F93LSN1cA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070066481015263232/vid/avc1/538x360/FxOXTHmH5FAQmQaN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070066481015263232/vid/avc1/1076x720/9Miq6S00sqisbRFk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070066481015263232/pl/6JjYeHUmxoIeBsRR.m3u8"
+          }
+        ],
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070066481015263232"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2070066560451158017",
+        "created_at": "2026-06-25T08:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070066560451158017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzF1thwfra",
+              "end": 25,
+              "expanded_url": "https://x.com/MomoseReina/status/2070066560451158017/video/1",
+              "media_key": "13_2070066481015263232",
+              "start": 2,
+              "url": "https://t.co/nzF1thwfra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070066560451158017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/nzF1thwfra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 341,
+          "like_count": 9022,
+          "listed_count": 5,
+          "media_count": 391,
+          "tweet_count": 6377
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

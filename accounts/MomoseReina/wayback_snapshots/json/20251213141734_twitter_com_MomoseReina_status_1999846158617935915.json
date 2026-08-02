@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1999816870527218028",
+    "created_at": "2025-12-13T14:17:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T15:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999846158617935915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675485478878085120",
+          "start": 0,
+          "username": "WkymylFf7669364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999846158617935915",
+    "in_reply_to_user_id": "1675485478878085120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999816870527218028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WkymylFf7669364 太强了✋😭🤚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999816833680257025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DG0JNbsAEcOVY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 923,
+        "media_key": "3_1999816833340432384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DG0H8aYAAMdy_.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7227,
+        "height": 720,
+        "media_key": "7_1999816845474533377",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999816845474533377/pu/img/ssR4Vl_PZ7UnZOFS.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999816845474533377/pu/vid/avc1/480x270/gvmtSLGxw5M33-aw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999816845474533377/pu/vid/avc1/640x360/jjmuCWz3KuDrv-Bo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999816845474533377/pu/vid/avc1/1280x720/Ya8Fxe5FPl_v1LBq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999816845474533377/pu/pl/2YAQDhgbTDURr5-w.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1999816870527218028",
+        "created_at": "2025-12-13T14:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999846158617935915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675485478878085120",
+              "start": 0,
+              "username": "WkymylFf7669364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999846158617935915",
+        "in_reply_to_user_id": "1675485478878085120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999816870527218028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WkymylFf7669364 太强了✋😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999816833680257025",
+            "3_1999816833340432384",
+            "7_1999816845474533377"
+          ]
+        },
+        "author_id": "1675485478878085120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999816870527218028",
+        "created_at": "2025-12-13T12:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999816870527218028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPWUTwkKSw",
+              "end": 72,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/1999816870527218028/video/1",
+              "media_key": "3_1999816833680257025",
+              "start": 49,
+              "url": "https://t.co/jPWUTwkKSw"
+            },
+            {
+              "display_url": "pic.x.com/jPWUTwkKSw",
+              "end": 72,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/1999816870527218028/video/1",
+              "media_key": "3_1999816833340432384",
+              "start": 49,
+              "url": "https://t.co/jPWUTwkKSw"
+            },
+            {
+              "display_url": "pic.x.com/jPWUTwkKSw",
+              "end": 72,
+              "expanded_url": "https://x.com/WkymylFf7669364/status/1999816870527218028/video/1",
+              "media_key": "7_1999816845474533377",
+              "start": 49,
+              "url": "https://t.co/jPWUTwkKSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999816870527218028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ap了从来不敢想的歌\n在外地吃的沙茶面，老板是老乡还送了我个鱼丸🥰🥰\n迎来第一场雪\n一天过去了… https://t.co/jPWUTwkKSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 272,
+          "like_count": 3175,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-02T12:44:10.000Z",
+        "description": "mamai16507 晓紫祭祝将持有 全14&14+&15 SSS  \n 你喜欢我我就喜欢你",
+        "id": "1675485478878085120",
+        "location": "solips",
+        "name": "三着",
+        "pinned_tweet_id": "1988889812841959634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927303520128045057/m7hK0Ev1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 330,
+          "like_count": 5476,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 632
+        },
+        "username": "WkymylFf7669364",
+        "verified": false
+      }
+    ]
+  }
+}

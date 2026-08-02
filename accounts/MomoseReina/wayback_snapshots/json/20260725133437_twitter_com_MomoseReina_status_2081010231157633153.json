@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2081009099370864914",
+    "created_at": "2026-07-25T13:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081010231157633153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881945875658014720",
+          "start": 0,
+          "username": "_luckyj888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081010231157633153",
+    "in_reply_to_user_id": "1881945875658014720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081009300714266931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_luckyj888 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2081009099370864914",
+        "created_at": "2026-07-25T13:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081010231157633153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881945875658014720",
+              "start": 0,
+              "username": "_luckyj888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081010231157633153",
+        "in_reply_to_user_id": "1881945875658014720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081009300714266931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_luckyj888 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881945875658014720",
+        "conversation_id": "2081009099370864914",
+        "created_at": "2026-07-25T13:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081009300714266931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081009300714266931",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081009099370864914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 烤肉配女仆可以，emu厨先安排到下风口吧，别影响胃口😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 340,
+          "like_count": 9518,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 6766
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T06:04:13.000Z",
+        "description": "I am a software developer from China. I would like to make friends with warm-hearted people all over the world. 作品:GMGN assistant |TFM|pumptime 三款插件已上线谷歌商店",
+        "id": "1881945875658014720",
+        "name": "Lucky J",
+        "pinned_tweet_id": "2079464352999186932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978004667012628480/L4or1raL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5907,
+          "following_count": 5738,
+          "like_count": 1151,
+          "listed_count": 17,
+          "media_count": 2748,
+          "tweet_count": 12823
+        },
+        "url": "",
+        "username": "_luckyj888",
+        "verified": true
+      }
+    ]
+  }
+}

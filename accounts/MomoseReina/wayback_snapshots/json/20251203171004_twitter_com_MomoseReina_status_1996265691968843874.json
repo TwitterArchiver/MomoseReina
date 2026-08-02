@@ -1,0 +1,702 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Pennsylvania",
+          "id": "1010255110465679361",
+          "name": "Pennsylvania"
+        }
+      }
+    ],
+    "conversation_id": "1995975463408463956",
+    "created_at": "2025-12-03T17:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996265691968843874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Fortwoweb3/sta…",
+          "end": 51,
+          "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138",
+          "start": 28,
+          "url": "https://t.co/HIvB3odCVf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996265691968843874",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993239196723528138",
+        "type": "quoted"
+      },
+      {
+        "id": "1996265156238852342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 这是教程，最重要就是看有没有资格\nhttps://t.co/HIvB3odCVf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993235084007342080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lkv5AagAADnKR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2176,
+        "media_key": "3_1993236438280998912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ll-uEakAAintU.jpg",
+        "width": 996
+      },
+      {
+        "height": 2316,
+        "media_key": "3_1993238415387901952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lnxzXbwAA38qw.jpg",
+        "width": 1186
+      },
+      {
+        "height": 768,
+        "media_key": "3_1993238858071523330",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6loLkfbwAIH7rf.jpg",
+        "width": 3036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Pennsylvania",
+              "id": "1010255110465679361",
+              "name": "Pennsylvania"
+            }
+          }
+        ],
+        "conversation_id": "1995975463408463956",
+        "created_at": "2025-12-03T17:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996265691968843874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Fortwoweb3/sta…",
+              "end": 51,
+              "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138",
+              "start": 28,
+              "url": "https://t.co/HIvB3odCVf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996265691968843874",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993239196723528138",
+            "type": "quoted"
+          },
+          {
+            "id": "1996265156238852342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 这是教程，最重要就是看有没有资格\nhttps://t.co/HIvB3odCVf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993235084007342080",
+            "3_1993236438280998912",
+            "3_1993238415387901952",
+            "3_1993238858071523330"
+          ]
+        },
+        "author_id": "1725345258471567360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Pennsylvania",
+              "id": "1010255110465679361",
+              "name": "Pennsylvania"
+            }
+          }
+        ],
+        "conversation_id": "1993239196723528138",
+        "created_at": "2025-11-25T08:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993239196723528138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqbCk7mqJM",
+              "end": 200,
+              "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138/photo/1",
+              "media_key": "3_1993235084007342080",
+              "start": 177,
+              "url": "https://t.co/RqbCk7mqJM"
+            },
+            {
+              "display_url": "pic.x.com/RqbCk7mqJM",
+              "end": 200,
+              "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138/photo/1",
+              "media_key": "3_1993236438280998912",
+              "start": 177,
+              "url": "https://t.co/RqbCk7mqJM"
+            },
+            {
+              "display_url": "pic.x.com/RqbCk7mqJM",
+              "end": 200,
+              "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138/photo/1",
+              "media_key": "3_1993238415387901952",
+              "start": 177,
+              "url": "https://t.co/RqbCk7mqJM"
+            },
+            {
+              "display_url": "pic.x.com/RqbCk7mqJM",
+              "end": 200,
+              "expanded_url": "https://x.com/Fortwoweb3/status/1993239196723528138/photo/1",
+              "media_key": "3_1993238858071523330",
+              "start": 177,
+              "url": "https://t.co/RqbCk7mqJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993239196723528138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "accounts.psu.edu/create/new",
+                "end": 200,
+                "expanded_url": "https://accounts.psu.edu/create/new",
+                "start": 177,
+                "url": "https://t.co/w0dHIsSUmy"
+              },
+              {
+                "display_url": "goo.gle/freepro",
+                "end": 409,
+                "expanded_url": "http://goo.gle/freepro",
+                "start": 386,
+                "url": "https://t.co/7rbrGL5g4m"
+              },
+              {
+                "display_url": "newshare.bwb.online/zh/referralLan…",
+                "end": 705,
+                "expanded_url": "https://newshare.bwb.online/zh/referralLanding?inviteCode=2zfgw9&type=card&channel=Copylink&utm_source=newInviteRebate",
+                "start": 682,
+                "url": "https://t.co/EIublTKqJt"
+              },
+              {
+                "display_url": "share.note.youdao.com/ynoteshare/ind…",
+                "end": 737,
+                "expanded_url": "https://share.note.youdao.com/ynoteshare/index.html?id=e994ef3007152aa75b1e9767ada91b8c&type=note&_time=1762929507041",
+                "start": 714,
+                "url": "https://t.co/1ewO8GNozX"
+              },
+              {
+                "display_url": "share.note.youdao.com/ynoteshare/ind…",
+                "end": 769,
+                "expanded_url": "https://share.note.youdao.com/ynoteshare/index.html?id=d0a76a2e789cef59dccdeda143ae6432&type=note&_time=1762928283130",
+                "start": 746,
+                "url": "https://t.co/cVs6RBHWGb"
+              }
+            ]
+          },
+          "text": "谷歌Gemini AI Pro 白嫖一年教程\n\n最近也刷了不少关于Gemini的妙用，已经有很多大佬整理出很多好玩的工具提示词了\n\n开GPT太贵，嫌国内AI不好用的，可以用这个办法白嫖一年的Gemini\n\n一共就三步\n\n👉注册大学生身份\n\n- 先去这里注册一个Pennsylvania State University的学生身份，门槛很低，随便注册就行\nhttps://t.co/w0dHIsSUmy\n\n- 填写地址这部分，可以用ai生成一个地址，或者可以直接用我的\n\nStreet Address 街道地址： 801 SW 10th Ave\nCity 城市：Portland\nState 州：Oregon （OR）\nPostal Code 邮政编码： 97205\n\n- 注册完成之后会给你一个邮箱，验证一下\n\n👉Gemini验证身份\n\n- 打开Gemini学生优惠界面，https://t.co/7rbrGL5g4m ，填写基本信息（这里学校记得选“Pennsylvania State University”），把刚刚注册的学生身份邮箱填进去，登录验证之后就成功了\n\n👉绑卡订阅\n因为没有paypal，我绑定是的bitget wallet的u卡，花几分钟就可以注册完，绑定之后直接订阅，0费用，\n\n订阅成功之后，可以去google的订阅中心里面把自动续费取消掉，不影响使用\n\n单笔200元以下，单月400u是可以完全免手续费的！最近外卖或者出去吃饭，基本都是用这张u卡来消费，等于变相出金了，而且还是无损出金！\n\n⭕️bitget wallet U卡注册链接\nhttps://t.co/EIublTKqJt\n\n⭕️注册教程\nhttps://t.co/1ewO8GNozX\n\n⭕️常见问题\nhttps://t.co/cVs6RBHWGb\n\n币圈赚到钱的话，还是回归现实来花比较好，30u的空投在币圈可能都没人看一眼，但是在现实里面可以大搓一顿！\n\n上面教程各位老铁如果卡在哪一步不会弄话，可以私我！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 15608,
+          "like_count": 76,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "谷歌Gemini AI Pro 白嫖一年教程\n\n最近也刷了不少关于Gemini的妙用，已经有很多大佬整理出很多好玩的工具提示词了\n\n开GPT太贵，嫌国内AI不好用的，可以用这个办法白嫖一年的Gemini\n\n一共就三步\n\n👉注册大学生身份\n\n- 先去这里注册一个Pennsylvania State University的学生身份，门槛很低，随便注册就行 https://t.co/RqbCk7mqJM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "1995975463408463956",
+        "created_at": "2025-12-03T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996265156238852342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996265156238852342",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996264963300855861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 哇———\n没有🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 267,
+          "like_count": 2722,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 也可以 | 生日27/04 | AMAB | 爱压抑 | 舞萌痴 | MBTI: ISTP | 里推：@45_206io | 世界上最好的@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "45_206io"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "舞萌DX 2025",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960182280988872704/xhIqtoxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 429,
+          "like_count": 22700,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1603
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T02:49:05.000Z",
+        "description": "财务自由进行时🚀🚀🚀\nBTC生态狂热者/Dotswap资深玩家\n\n最好用的符文Mint工具：https://t.co/dlKvyd8sMu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tools.mempool.com/minting",
+                "end": 69,
+                "expanded_url": "https://tools.mempool.com/minting",
+                "start": 46,
+                "url": "https://t.co/dlKvyd8sMu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tools.mempool.com/minting",
+                "end": 23,
+                "expanded_url": "https://tools.mempool.com/minting",
+                "start": 0,
+                "url": "https://t.co/dlKvyd8sMu"
+              }
+            ]
+          }
+        },
+        "id": "1725345258471567360",
+        "name": "Fortwo.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726415780970201088/ovk0SWbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 769,
+          "like_count": 2286,
+          "listed_count": 7,
+          "media_count": 165,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/dlKvyd8sMu",
+        "username": "Fortwoweb3",
+        "verified": true
+      }
+    ]
+  }
+}

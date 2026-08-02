@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2006907492962545921",
+    "created_at": "2026-01-02T15:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007111887411138591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NanaseReina/st…",
+          "end": 43,
+          "expanded_url": "https://x.com/NanaseReina/status/2006297058236600531",
+          "start": 20,
+          "url": "https://t.co/6oAQwuAsrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007111887411138591",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006297058236600531",
+        "type": "quoted"
+      },
+      {
+        "id": "2006907492962545921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook 你也中招了？\nhttps://t.co/6oAQwuAsrZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_2006297050149945345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fMiYwaAAE5bBm.png",
+        "width": 646
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006907487077986305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9n3ufha8AEWu3h.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2006907492962545921",
+        "created_at": "2026-01-02T15:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007111887411138591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NanaseReina/st…",
+              "end": 43,
+              "expanded_url": "https://x.com/NanaseReina/status/2006297058236600531",
+              "start": 20,
+              "url": "https://t.co/6oAQwuAsrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007111887411138591",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006297058236600531",
+            "type": "quoted"
+          },
+          {
+            "id": "2006907492962545921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook 你也中招了？\nhttps://t.co/6oAQwuAsrZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006297050149945345"
+          ]
+        },
+        "author_id": "2006292107217276928",
+        "conversation_id": "2006297058236600531",
+        "created_at": "2025-12-31T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006297058236600531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yzd77sI598",
+              "end": 34,
+              "expanded_url": "https://x.com/NanaseReina/status/2006297058236600531/photo/1",
+              "media_key": "3_2006297050149945345",
+              "start": 11,
+              "url": "https://t.co/Yzd77sI598"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006297058236600531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐜🐲你太杯壁了😭😭😭 https://t.co/Yzd77sI598"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006907487077986305"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "2006907492962545921",
+        "created_at": "2026-01-02T01:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006907492962545921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UJ3HJJhpb",
+              "end": 30,
+              "expanded_url": "https://x.com/zhishi_cook/status/2006907492962545921/photo/1",
+              "media_key": "3_2006907487077986305",
+              "start": 7,
+              "url": "https://t.co/6UJ3HJJhpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006907492962545921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我错了呜呜呜 https://t.co/6UJ3HJJhpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 287,
+          "like_count": 4109,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3080
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/已出柜/有小证/家长不管(/ENFP-T/提问:https://t.co/bDeKeMQflf / 会写php py的小孩/生产日期:2009-03-07/同类互fo喵🤓/目前版本:3rd/有对象",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 46,
+                "url": "https://t.co/bDeKeMQflf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZusZR"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "🍥",
+        "name": "知式🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4993,
+          "following_count": 1622,
+          "like_count": 1240,
+          "listed_count": 5,
+          "media_count": 425,
+          "tweet_count": 3964
+        },
+        "url": "https://t.co/842XMZusZR",
+        "username": "zhishi_cook",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-31T09:11:47.000Z",
+        "description": "这里是玲奈的逃生舱小号~ | 大号: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "MomoseReina"
+              }
+            ]
+          }
+        },
+        "id": "2006292107217276928",
+        "name": "七瀬玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006295131599822848/wmWcth3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 27
+        },
+        "username": "NanaseReina",
+        "verified": false
+      }
+    ]
+  }
+}

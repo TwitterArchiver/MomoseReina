@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1984925150006194469",
+    "created_at": "2025-11-02T10:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984925150006194469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1659216945202491395",
+          "start": 3,
+          "username": "YukimiSinsyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984925150006194469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984574914708586950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YukimiSinsyou: 最近b了很多人，被我b了不用大惊小怪的，只是理念不同而已，当然如果你真因为被一个推友b就大惊小怪的，说明b你b对了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1984925150006194469",
+        "created_at": "2025-11-02T10:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984925150006194469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1659216945202491395",
+              "start": 3,
+              "username": "YukimiSinsyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984925150006194469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984574914708586950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YukimiSinsyou: 最近b了很多人，被我b了不用大惊小怪的，只是理念不同而已，当然如果你真因为被一个推友b就大惊小怪的，说明b你b对了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659216945202491395",
+        "conversation_id": "1984574914708586950",
+        "created_at": "2025-11-01T10:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984574914708586950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984574914708586950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2102,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近b了很多人，被我b了不用大惊小怪的，只是理念不同而已，当然如果你真因为被一个推友b就大惊小怪的，说明b你b对了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 218,
+          "like_count": 1586,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-18T15:18:59.000Z",
+        "description": "抑制黑波的源头👁️",
+        "id": "1659216945202491395",
+        "location": "地狱 是非曲直厅",
+        "name": "系寄莎玛",
+        "pinned_tweet_id": "1884968808684949785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770480941204475904/eQ7k9KRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 778,
+          "like_count": 10607,
+          "listed_count": 3,
+          "media_count": 330,
+          "tweet_count": 4471
+        },
+        "username": "YukimiSinsyou",
+        "verified": false
+      }
+    ]
+  }
+}

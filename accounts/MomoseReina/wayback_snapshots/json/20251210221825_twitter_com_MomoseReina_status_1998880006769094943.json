@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1998688571428159764",
+    "created_at": "2025-12-10T22:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T23:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998880006769094943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644567522031853570",
+          "start": 0,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998880006769094943",
+    "in_reply_to_user_id": "1644567522031853570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998688571428159764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Miku 女人？居然配和我的NAS相提并论？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_1998688565405143040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zEqSWb0AAolYt.jpg",
+        "width": 502
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1998688571428159764",
+        "created_at": "2025-12-10T22:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T23:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998880006769094943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644567522031853570",
+              "start": 0,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998880006769094943",
+        "in_reply_to_user_id": "1644567522031853570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998688571428159764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Miku 女人？居然配和我的NAS相提并论？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998688565405143040"
+          ]
+        },
+        "author_id": "1644567522031853570",
+        "conversation_id": "1998688571428159764",
+        "created_at": "2025-12-10T09:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998688571428159764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBvDDPZGWR",
+              "end": 34,
+              "expanded_url": "https://x.com/Kirara_Miku/status/1998688571428159764/photo/1",
+              "media_key": "3_1998688565405143040",
+              "start": 11,
+              "url": "https://t.co/BBvDDPZGWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998688571428159764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们玩nat的。。。 https://t.co/BBvDDPZGWR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 272,
+          "like_count": 3054,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2290
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-08T05:07:14.000Z",
+        "description": "起飞吧，和大家一起。| osu 5 digit player | 男，音游，galgame | 前端小趴菜 | open to everything.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "http://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/n91ct8aC9h"
+              }
+            ]
+          }
+        },
+        "id": "1644567522031853570",
+        "location": "雲母の星",
+        "name": "雲母ミク",
+        "pinned_tweet_id": "1906720128693113327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997682412630020096/VogpfCRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 1702,
+          "like_count": 111867,
+          "listed_count": 7,
+          "media_count": 1465,
+          "tweet_count": 15886
+        },
+        "url": "https://t.co/n91ct8aC9h",
+        "username": "Kirara_Miku",
+        "verified": false
+      }
+    ]
+  }
+}

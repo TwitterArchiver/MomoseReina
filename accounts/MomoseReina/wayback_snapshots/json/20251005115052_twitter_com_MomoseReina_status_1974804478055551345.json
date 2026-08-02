@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974804478055551345",
+    "created_at": "2025-10-05T11:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T12:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974804478055551345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LuLuCapcake/st…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/LuLuCapcake/status/1974777867646194086",
+          "start": 40,
+          "url": "https://t.co/CjSftaY6TF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974804478055551345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974777867646194086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欸，这个网站是什么呀awa\n咱也想做一个这样的头像，看到好多姐姐都用这种qwq https://t.co/CjSftaY6TF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1974777865377112064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fSAXgbYAA5KKt.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974804478055551345",
+        "created_at": "2025-10-05T11:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974804478055551345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LuLuCapcake/st…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/LuLuCapcake/status/1974777867646194086",
+              "start": 40,
+              "url": "https://t.co/CjSftaY6TF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974804478055551345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974777867646194086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸，这个网站是什么呀awa\n咱也想做一个这样的头像，看到好多姐姐都用这种qwq https://t.co/CjSftaY6TF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974777865377112064"
+          ]
+        },
+        "author_id": "1945200532471341056",
+        "conversation_id": "1974777867646194086",
+        "created_at": "2025-10-05T10:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974777867646194086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZJOjIUPTb",
+              "end": 42,
+              "expanded_url": "https://x.com/LuLuCapcake/status/1974777867646194086/photo/1",
+              "media_key": "3_1974777865377112064",
+              "start": 19,
+              "url": "https://t.co/TZJOjIUPTb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974777867646194086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新头像x，谢谢雨泠姐姐告诉我这个网站 https://t.co/TZJOjIUPTb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuLuCapcake",
+                "end": 23,
+                "expanded_url": "http://t.me/LuLuCapcake",
+                "start": 0,
+                "url": "https://t.co/HdPMmhNkq6"
+              }
+            ]
+          }
+        },
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1969129324029591849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974777822754553856/T1EAErzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 306,
+          "like_count": 484,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/HdPMmhNkq6",
+        "username": "LuLuCapcake",
+        "verified": false
+      }
+    ]
+  }
+}

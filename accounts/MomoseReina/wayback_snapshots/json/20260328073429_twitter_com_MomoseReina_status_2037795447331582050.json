@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2037717835754192992",
+    "created_at": "2026-03-28T07:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037795447331582050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427912474158718976",
+          "start": 0,
+          "username": "Dreaminko_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037795447331582050",
+    "in_reply_to_user_id": "1427912474158718976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037717835754192992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dreaminko_ 提醒到我了，忘了给quest控制器买电池"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037717824907714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdtkMIbIAAxkO_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2037717835754192992",
+        "created_at": "2026-03-28T07:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037795447331582050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427912474158718976",
+              "start": 0,
+              "username": "Dreaminko_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037795447331582050",
+        "in_reply_to_user_id": "1427912474158718976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037717835754192992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dreaminko_ 提醒到我了，忘了给quest控制器买电池"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037717824907714560"
+          ]
+        },
+        "author_id": "1427912474158718976",
+        "conversation_id": "2037717835754192992",
+        "created_at": "2026-03-28T02:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037717835754192992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/knZJEB2bXV",
+              "end": 27,
+              "expanded_url": "https://x.com/Dreaminko_/status/2037717835754192992/photo/1",
+              "media_key": "3_2037717824907714560",
+              "start": 4,
+              "url": "https://t.co/knZJEB2bXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037717835754192992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安心感 https://t.co/knZJEB2bXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 322,
+          "like_count": 7141,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4905
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-18T08:37:27.000Z",
+        "description": "ゆめみごこち。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Dreamo.ink",
+                "end": 23,
+                "expanded_url": "https://Dreamo.ink",
+                "start": 0,
+                "url": "https://t.co/foW9WlHdPa"
+              }
+            ]
+          }
+        },
+        "id": "1427912474158718976",
+        "location": "☁",
+        "name": "夢墨不會做夢💤",
+        "pinned_tweet_id": "1967561302743957724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911076296471240704/SOTDhp88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 607,
+          "like_count": 49577,
+          "listed_count": 6,
+          "media_count": 1303,
+          "tweet_count": 5109
+        },
+        "url": "https://t.co/foW9WlHdPa",
+        "username": "Dreaminko_",
+        "verified": false
+      }
+    ]
+  }
+}

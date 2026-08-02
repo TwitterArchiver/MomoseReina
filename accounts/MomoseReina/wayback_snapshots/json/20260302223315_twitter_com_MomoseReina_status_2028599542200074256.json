@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2028509135550267509",
+    "created_at": "2026-03-02T22:33:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T23:33:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028599542200074256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363787997007597568",
+          "start": 0,
+          "username": "NiuBoss123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028599542200074256",
+    "in_reply_to_user_id": "1363787997007597568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028509135550267509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiuBoss123 不如去apple store摸iPhone17😋\n想买😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028509125634846723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCa2TWEacAMrQhd.jpg",
+        "width": 1153
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2028509135550267509",
+        "created_at": "2026-03-02T22:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T23:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028599542200074256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363787997007597568",
+              "start": 0,
+              "username": "NiuBoss123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028599542200074256",
+        "in_reply_to_user_id": "1363787997007597568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028509135550267509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiuBoss123 不如去apple store摸iPhone17😋\n想买😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028509125634846723"
+          ]
+        },
+        "author_id": "1363787997007597568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          }
+        ],
+        "conversation_id": "2028509135550267509",
+        "created_at": "2026-03-02T16:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028509135550267509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jACz4s8FPc",
+              "end": 135,
+              "expanded_url": "https://x.com/NiuBoss123/status/2028509135550267509/photo/1",
+              "media_key": "3_2028509125634846723",
+              "start": 112,
+              "url": "https://t.co/jACz4s8FPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028509135550267509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做的最正确也最错误的决定就是去三星授权店摸 s26u，丝毫没有考虑自身负债情况就决定明年要买台版\n也许是没吃过细糠，我觉得这屏幕也没那么差（\n（同时预装 Microsoft 365 和 WPS Office 的也是无敌了） https://t.co/jACz4s8FPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 316,
+          "like_count": 6505,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 4545
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-22T09:49:39.000Z",
+        "description": "平面设计新手 | Kigurumi 新人 | 有点社恐 | 多语言废弃者 | 在邕城二十年 | 是落寞之人，是舰长，是旅行者，是开拓者，是博士，是老师，更是时刻陪伴你的朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akio.top",
+                "end": 23,
+                "expanded_url": "https://www.akio.top",
+                "start": 0,
+                "url": "https://t.co/snCQ3AzE7i"
+              }
+            ]
+          }
+        },
+        "id": "1363787997007597568",
+        "location": "安林省安津市城北区",
+        "name": "NiuBoss123 | 御坂秋生",
+        "pinned_tweet_id": "1982334514027507950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929938744066617352/-70zm1MO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 493,
+          "like_count": 1888,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/snCQ3AzE7i",
+        "username": "NiuBoss123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1978539502189834593",
+    "created_at": "2025-10-15T19:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T20:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978543929315205575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758454063535198208",
+          "start": 0,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978543929315205575",
+    "in_reply_to_user_id": "1758454063535198208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978539502189834593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanli233 教教咱w⁠(⁠°⁠ｏ⁠°⁠)⁠w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978539498901504000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UvMQYagAAzr9p.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1978539502189834593",
+        "created_at": "2025-10-15T19:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T20:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978543929315205575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758454063535198208",
+              "start": 0,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978543929315205575",
+        "in_reply_to_user_id": "1758454063535198208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978539502189834593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanli233 教教咱w⁠(⁠°⁠ｏ⁠°⁠)⁠w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978539498901504000"
+          ]
+        },
+        "author_id": "1758454063535198208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978539502189834593",
+        "created_at": "2025-10-15T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978539502189834593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XhzBMittAv",
+              "end": 45,
+              "expanded_url": "https://x.com/huanli233/status/1978539502189834593/photo/1",
+              "media_key": "3_1978539498901504000",
+              "start": 22,
+              "url": "https://t.co/XhzBMittAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978539502189834593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷了很久的命嫌 AP！下次出勤整个称号玩（ https://t.co/XhzBMittAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(请私信哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 167,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "虚无主义者 无证含糖 ASD alt @imhuanli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "imhuanli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67Havjra"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "LOVE U",
+        "name": "huanli233🤤🍥",
+        "pinned_tweet_id": "1940320822478213331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914779782866481152/g7Y2pf9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 526,
+          "like_count": 3394,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1563
+        },
+        "url": "https://t.co/ci67Havjra",
+        "username": "huanli233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2000174531504398520",
+    "created_at": "2025-12-14T12:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T13:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000174531504398520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DustSwallo1580…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/DustSwallo15805/status/1997296088412496138",
+          "start": 13,
+          "url": "https://t.co/GXwkWn17ZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000174531504398520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997296088412496138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕你们这些有外币卡的😭 https://t.co/GXwkWn17ZY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2000174531504398520",
+        "created_at": "2025-12-14T12:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T13:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000174531504398520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/1997296088412496138",
+              "start": 13,
+              "url": "https://t.co/GXwkWn17ZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000174531504398520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997296088412496138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕你们这些有外币卡的😭 https://t.co/GXwkWn17ZY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647170304844914689",
+        "conversation_id": "1997296088412496138",
+        "created_at": "2025-12-06T13:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997296088412496138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saonanaa/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/saonanaa/status/1997267169907003754",
+              "start": 13,
+              "url": "https://t.co/B5yxmxtRWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997296088412496138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997267169907003754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕你们这些有外币卡的😭 https://t.co/B5yxmxtRWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 273,
+          "like_count": 3204,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "铁道、集邮、摄影、卡迷｜尼康大法好｜喜欢全国各地乱跑｜黄河入海，各回各家｜可爱xyn：@Murong_WangKezi @EimeiLait |感谢关注喵｜欢迎找我交换明信片喵｜若有错字请谅解喵｜コイビト： @EimeiLait",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Murong_WangKezi"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "EimeiLait"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "EimeiLait"
+              }
+            ]
+          }
+        },
+        "id": "1647170304844914689",
+        "location": "济局青段           沙老师翻车委员会",
+        "name": "SwallowingDust",
+        "pinned_tweet_id": "2000152786701635677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998177645369163776/eKTcdgRo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 567,
+          "like_count": 58191,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 3103
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

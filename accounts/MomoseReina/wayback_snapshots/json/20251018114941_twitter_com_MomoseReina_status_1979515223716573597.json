@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979511613892997135",
+    "created_at": "2025-10-18T11:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979515223716573597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1769904101704552448",
+          "start": 0,
+          "username": "ShengTian22332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979515223716573597",
+    "in_reply_to_user_id": "1769904101704552448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979511613892997135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShengTian22332 会很累哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979511613892997135",
+        "created_at": "2025-10-18T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979515223716573597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1769904101704552448",
+              "start": 0,
+              "username": "ShengTian22332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979515223716573597",
+        "in_reply_to_user_id": "1769904101704552448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979511613892997135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShengTian22332 会很累哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769904101704552448",
+        "conversation_id": "1979511613892997135",
+        "created_at": "2025-10-18T11:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979511613892997135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979511613892997135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想被人依赖，不知道是什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 180,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-19T01:50:31.000Z",
+        "description": "mtf🏳️‍⚧️/小证含糖🍥/HRT2024.06/健身/爱吃好吃的/同类贴贴互fo/日常推美食推\n已被开除音游籍/可愛妹妹 @KoishinFlandre\n/打maimai的可爱妹妹@Raychan_da/数学物理/intp/贴贴/应该是温柔的人/欢迎来找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "KoishinFlandre"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Raychan_da"
+              }
+            ]
+          }
+        },
+        "id": "1769904101704552448",
+        "location": "Los Angeles, CA",
+        "name": "甜普生🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769904776354160640/T01noA-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 289,
+          "like_count": 1556,
+          "listed_count": 0,
+          "media_count": 259,
+          "tweet_count": 1423
+        },
+        "username": "ShengTian22332",
+        "verified": false
+      }
+    ]
+  }
+}

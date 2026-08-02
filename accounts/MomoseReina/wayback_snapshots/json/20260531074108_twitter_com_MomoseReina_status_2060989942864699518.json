@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2060960353023037650",
+    "created_at": "2026-05-31T07:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060989942864699518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690796824486195201",
+          "start": 0,
+          "username": "wobushiyitoulv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060989942864699518",
+    "in_reply_to_user_id": "1690796824486195201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060962523235721217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobushiyitoulv 《手势跳舞机》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2060960353023037650",
+        "created_at": "2026-05-31T07:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060989942864699518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690796824486195201",
+              "start": 0,
+              "username": "wobushiyitoulv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060989942864699518",
+        "in_reply_to_user_id": "1690796824486195201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060962523235721217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobushiyitoulv 《手势跳舞机》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690796824486195201",
+        "conversation_id": "2060960353023037650",
+        "created_at": "2026-05-31T05:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060962523235721217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060962523235721217",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060960353023037650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 是的！以及街机音游似乎都可能都会被理解为跳舞机？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 341,
+          "like_count": 8561,
+          "listed_count": 5,
+          "media_count": 352,
+          "tweet_count": 5960
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T18:46:11.000Z",
+        "description": "なんお 為に(C呆语气)",
+        "id": "1690796824486195201",
+        "location": "宿舍，机厅，实验室，食堂",
+        "name": "Carolean",
+        "pinned_tweet_id": "2044804492856832444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690799389714038784/fC7layMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 614,
+          "like_count": 11100,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1197
+        },
+        "username": "wobushiyitoulv",
+        "verified": false
+      }
+    ]
+  }
+}

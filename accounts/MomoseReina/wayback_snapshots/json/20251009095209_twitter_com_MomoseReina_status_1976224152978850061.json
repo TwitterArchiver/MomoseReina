@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976223632520249442",
+    "created_at": "2025-10-09T09:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T10:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976224152978850061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976224152978850061",
+    "in_reply_to_user_id": "1870108535268487169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976223632520249442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讨厌讨厌讨厌！\n天上这么多轰炸机😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976223632520249442",
+        "created_at": "2025-10-09T09:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976224152978850061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976224152978850061",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976223632520249442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讨厌讨厌讨厌！\n天上这么多轰炸机😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976223632520249442",
+        "created_at": "2025-10-09T09:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T10:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976223632520249442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976223632520249442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌讨厌讨厌讨厌讨厌！！！\n出门散步鸟shi落头上了啊啊啊啊啊！\n(⁠ノ⁠｀⁠Д⁠´⁠)⁠ノ⁠彡⁠┻⁠━⁠┻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 暂不线下 | 不见证 | 不加墙内哦~",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 91,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 267
+        },
+        "username": "MomoseReina",
+        "verified": false
+      }
+    ]
+  }
+}

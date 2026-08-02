@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1991036533626048815",
+    "created_at": "2025-11-19T06:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991036533626048815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991036533626048815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "以下是关于 Cloudflare 2025年11月18日服务中断事故的总结：\n事故概览\n * 时间： 2025年11月18日 11:20 UTC 至 17:06 UTC。\n * 现象： Cloudflare 核心网络流量出现大规模故障，用户访问客户网站时遇到 HTTP 5xx 错误页面。受影响的服务包括核心 CDN、Turnstile、Workers KV、Dashboard（仪表盘）和 Access。\n根本原因 (Root Cause)\n * 非网络攻击： 事故并非由 DDoS 攻击或恶意活动引起。\n * 数据库权限变更导致配置错误：\n   * Cloudflare 对其 ClickHouse 数据库集群进行了权限管理更新。\n   * 这一变更导致 Bot Management（机器人管理）系统使用的“特征文件”生成查询返回了大量重复数据，使文件大小翻倍。\n * 内存预分配限制触发崩溃：\n   * 该特征文件被分发到全网所有边缘节点。\n   * 负责路由流量的软件（核心代理 FL2）对该文件有预分配的内存限制（上限为 200 个特征，而平时仅使用约 60 个）。\n   * 由于文件大小超出限制，导致软件发生 Panic（崩溃），进而引发服务中断。\n事故处理与误判\n * 初期误判： 由于故障表现为间歇性波动（因为 ClickHouse 集群只有部分节点生成了错误文件，导致好坏文件交替分发），且 Cloudflare 的状态页（Status Page）恰好同时也出现了无关的故障，团队最初误以为遭遇了超大规模的 DDoS 攻击。\n * 排查与修复：\n   * 团队最终确认问题源于 Bot Management 的配置文件。\n   * 14:24 UTC： 停止了错误配置文件的生成和分发。\n   * 14:30 UTC： 手动部署了已知的旧版正常文件，核心流量开始恢复。\n   * 17:06 UTC： 所有相关服务（包括 Dashboard 和 Workers KV）的积压负载处理完毕，系统完全恢复正常。\n后续改进措施\n * 加强对内部生成的配置文件的验证和“硬化”处理（像对待用户输入一样）。\n * 为功能特性启用更全局的“Kill Switches”（熔断机制）。\n * 防止错误报告（如 Core Dumps）耗尽系统资源。\n * 全面审查核心代理模块的错误处理机制。\n这是 Cloudflare 自 2019 年以来最严重的一次中断事故，导致了核心流量无法正常路由。官方已为此致歉并承诺改进系统的弹性。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以下是关于 Cloudflare 2025年11月18日服务中断事故的总结：\n事故概览\n * 时间： 2025年11月18日 11:20 UTC 至 17:06 UTC。\n * 现象： Cloudflare 核心网络流量出现大规模故障，用户访问客户网站时遇到 HTTP 5xx 错误页面。受影响的服务包括核心 CDN、Turnstile、Workers KV、Dashboard（仪表盘）和"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1991036533626048815",
+        "created_at": "2025-11-19T06:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991036533626048815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991036533626048815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "以下是关于 Cloudflare 2025年11月18日服务中断事故的总结：\n事故概览\n * 时间： 2025年11月18日 11:20 UTC 至 17:06 UTC。\n * 现象： Cloudflare 核心网络流量出现大规模故障，用户访问客户网站时遇到 HTTP 5xx 错误页面。受影响的服务包括核心 CDN、Turnstile、Workers KV、Dashboard（仪表盘）和 Access。\n根本原因 (Root Cause)\n * 非网络攻击： 事故并非由 DDoS 攻击或恶意活动引起。\n * 数据库权限变更导致配置错误：\n   * Cloudflare 对其 ClickHouse 数据库集群进行了权限管理更新。\n   * 这一变更导致 Bot Management（机器人管理）系统使用的“特征文件”生成查询返回了大量重复数据，使文件大小翻倍。\n * 内存预分配限制触发崩溃：\n   * 该特征文件被分发到全网所有边缘节点。\n   * 负责路由流量的软件（核心代理 FL2）对该文件有预分配的内存限制（上限为 200 个特征，而平时仅使用约 60 个）。\n   * 由于文件大小超出限制，导致软件发生 Panic（崩溃），进而引发服务中断。\n事故处理与误判\n * 初期误判： 由于故障表现为间歇性波动（因为 ClickHouse 集群只有部分节点生成了错误文件，导致好坏文件交替分发），且 Cloudflare 的状态页（Status Page）恰好同时也出现了无关的故障，团队最初误以为遭遇了超大规模的 DDoS 攻击。\n * 排查与修复：\n   * 团队最终确认问题源于 Bot Management 的配置文件。\n   * 14:24 UTC： 停止了错误配置文件的生成和分发。\n   * 14:30 UTC： 手动部署了已知的旧版正常文件，核心流量开始恢复。\n   * 17:06 UTC： 所有相关服务（包括 Dashboard 和 Workers KV）的积压负载处理完毕，系统完全恢复正常。\n后续改进措施\n * 加强对内部生成的配置文件的验证和“硬化”处理（像对待用户输入一样）。\n * 为功能特性启用更全局的“Kill Switches”（熔断机制）。\n * 防止错误报告（如 Core Dumps）耗尽系统资源。\n * 全面审查核心代理模块的错误处理机制。\n这是 Cloudflare 自 2019 年以来最严重的一次中断事故，导致了核心流量无法正常路由。官方已为此致歉并承诺改进系统的弹性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以下是关于 Cloudflare 2025年11月18日服务中断事故的总结：\n事故概览\n * 时间： 2025年11月18日 11:20 UTC 至 17:06 UTC。\n * 现象： Cloudflare 核心网络流量出现大规模故障，用户访问客户网站时遇到 HTTP 5xx 错误页面。受影响的服务包括核心 CDN、Turnstile、Workers KV、Dashboard（仪表盘）和"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 241,
+          "like_count": 2004,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2016438840903504211",
+    "created_at": "2026-01-28T09:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016440336332300354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016440336332300354",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016438840903504211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 姐姐wm大神🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016438830656798720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vUbtSaQAA1L_r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016438830669406209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vUbtVaoAETFc4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016438830652694529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vUbtRboAE_Lz1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016438830677794816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vUbtXaoAAjiAE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2016438840903504211",
+        "created_at": "2026-01-28T09:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016440336332300354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016440336332300354",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016438840903504211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 姐姐wm大神🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016438830656798720",
+            "3_2016438830669406209",
+            "3_2016438830652694529",
+            "3_2016438830677794816"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016438840903504211",
+        "created_at": "2026-01-28T09:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016438840903504211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkLHCygOLe",
+              "end": 33,
+              "expanded_url": "https://x.com/45_206MHz/status/2016438840903504211/photo/1",
+              "media_key": "3_2016438830656798720",
+              "start": 10,
+              "url": "https://t.co/KkLHCygOLe"
+            },
+            {
+              "display_url": "pic.x.com/KkLHCygOLe",
+              "end": 33,
+              "expanded_url": "https://x.com/45_206MHz/status/2016438840903504211/photo/1",
+              "media_key": "3_2016438830669406209",
+              "start": 10,
+              "url": "https://t.co/KkLHCygOLe"
+            },
+            {
+              "display_url": "pic.x.com/KkLHCygOLe",
+              "end": 33,
+              "expanded_url": "https://x.com/45_206MHz/status/2016438840903504211/photo/1",
+              "media_key": "3_2016438830652694529",
+              "start": 10,
+              "url": "https://t.co/KkLHCygOLe"
+            },
+            {
+              "display_url": "pic.x.com/KkLHCygOLe",
+              "end": 33,
+              "expanded_url": "https://x.com/45_206MHz/status/2016438840903504211/photo/1",
+              "media_key": "3_2016438830677794816",
+              "start": 10,
+              "url": "https://t.co/KkLHCygOLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016438840903504211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这分啊真是好吃爱吃 https://t.co/KkLHCygOLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 299,
+          "like_count": 5247,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 3885
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 也可以 | 生日27/04 | AMAB | gender apathetic | 舞萌痴 | MBTI: ISTP | 里推: @45_206io | 这是一只🍊: @YesterdayOrange | 笨蛋妹妹: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "45_206io"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "YesterdayOrange"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "Maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009572352519213057/8DgrF8uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 440,
+          "like_count": 25804,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

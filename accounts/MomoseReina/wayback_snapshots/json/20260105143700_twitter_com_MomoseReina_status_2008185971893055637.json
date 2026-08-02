@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2008125634246287807",
+    "created_at": "2026-01-05T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008185971893055637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1197488719906738176",
+          "start": 0,
+          "username": "nina456777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008185971893055637",
+    "in_reply_to_user_id": "1197488719906738176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008125634246287807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nina456777 咱在外也喝粉魔爪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008125628193849344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G95LnozaQAAar_o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2008125634246287807",
+        "created_at": "2026-01-05T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008185971893055637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1197488719906738176",
+              "start": 0,
+              "username": "nina456777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008185971893055637",
+        "in_reply_to_user_id": "1197488719906738176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008125634246287807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nina456777 咱在外也喝粉魔爪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008125628193849344"
+          ]
+        },
+        "author_id": "1197488719906738176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008125634246287807",
+        "created_at": "2026-01-05T10:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008125634246287807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pnUt5xSWqM",
+              "end": 45,
+              "expanded_url": "https://x.com/nina456777/status/2008125634246287807/photo/1",
+              "media_key": "3_2008125628193849344",
+              "start": 22,
+              "url": "https://t.co/pnUt5xSWqM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008125634246287807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "←在家               在外→ https://t.co/pnUt5xSWqM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 292,
+          "like_count": 4310,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 3227
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-21T12:15:50.000Z",
+        "description": "看到这句话的人立刻失去所有烦恼！然后起来伸个懒腰喝口水保持身体健康 / xnn / 泛性恋 / 留子 / 无糖 / 友跨 / 清水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nina456777",
+                "end": 23,
+                "expanded_url": "https://t.me/nina456777",
+                "start": 0,
+                "url": "https://t.co/UVuJTXgptP"
+              }
+            ]
+          }
+        },
+        "id": "1197488719906738176",
+        "location": "不告诉你",
+        "name": "nina🏳️‍⚧️（求互fo",
+        "pinned_tweet_id": "2004863264736579726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007048719586451456/UOdQfZ-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 905,
+          "like_count": 1221,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/UVuJTXgptP",
+        "username": "nina456777",
+        "verified": false
+      }
+    ]
+  }
+}

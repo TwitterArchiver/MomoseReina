@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983162437810688258",
+    "created_at": "2025-10-29T12:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983509823372300425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkStarNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983509823372300425",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983162437810688258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkStarNeko 是纺星大神QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983162424439255041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Wbt8CasAELPsE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983162425101918209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Wbt-gaIAEATwC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983162437810688258",
+        "created_at": "2025-10-29T12:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983509823372300425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkStarNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509823372300425",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983162437810688258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkStarNeko 是纺星大神QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983162424439255041",
+            "3_1983162425101918209"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983162437810688258",
+        "created_at": "2025-10-28T13:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T14:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983162437810688258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVP5GVimOR",
+              "end": 55,
+              "expanded_url": "https://x.com/MilkStarNeko/status/1983162437810688258/photo/1",
+              "media_key": "3_1983162424439255041",
+              "start": 32,
+              "url": "https://t.co/tVP5GVimOR"
+            },
+            {
+              "display_url": "pic.x.com/tVP5GVimOR",
+              "end": 55,
+              "expanded_url": "https://x.com/MilkStarNeko/status/1983162437810688258/photo/1",
+              "media_key": "3_1983162425101918209",
+              "start": 32,
+              "url": "https://t.co/tVP5GVimOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983162437810688258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃专注达本来是为了答辩不社恐的结果进入躁狂期了舞萌大上分😘😘😘 https://t.co/tVP5GVimOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 204,
+          "like_count": 1395,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "牛奶貓🐈系統&水母🪼系統。バグバウンティハンター（見習い）Rust🦀。Co-Founder of @0xSomeLab。貓抓板 @StarNekOvO。杭州・シンガポール・東京・深圳・重慶あたりに出没するかも。 INFJ｜双極性II型・重度うつ・不安・BPD・ADHD・地雷注意｜已失去夢想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "0xSomeLab"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "StarNekOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBbua"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "牛奶猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979924394630619136/ScimS47h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 1934,
+          "like_count": 29555,
+          "listed_count": 16,
+          "media_count": 1228,
+          "tweet_count": 10306
+        },
+        "url": "https://t.co/nVL53sBbua",
+        "username": "MilkStarNeko",
+        "verified": true
+      }
+    ]
+  }
+}

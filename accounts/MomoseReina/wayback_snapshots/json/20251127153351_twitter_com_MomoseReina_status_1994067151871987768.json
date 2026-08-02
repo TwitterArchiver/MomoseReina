@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1993907055208603794",
+    "created_at": "2025-11-27T15:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994067151871987768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795603153414508544",
+          "start": 0,
+          "username": "Xiaochen520qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994067151871987768",
+    "in_reply_to_user_id": "1795603153414508544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993907055208603794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaochen520qwq 还有dlx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993907052222271491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vH5lra0AMbTLL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1993907055208603794",
+        "created_at": "2025-11-27T15:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994067151871987768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795603153414508544",
+              "start": 0,
+              "username": "Xiaochen520qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994067151871987768",
+        "in_reply_to_user_id": "1795603153414508544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993907055208603794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaochen520qwq 还有dlx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993907052222271491"
+          ]
+        },
+        "author_id": "1795603153414508544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993907055208603794",
+        "created_at": "2025-11-27T04:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993907055208603794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBIlTwkShX",
+              "end": 31,
+              "expanded_url": "https://x.com/Xiaochen520qwq/status/1993907055208603794/photo/1",
+              "media_key": "3_1993907052222271491",
+              "start": 8,
+              "url": "https://t.co/SBIlTwkShX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993907055208603794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我梦中的电脑桌 https://t.co/SBIlTwkShX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 256,
+          "like_count": 2460,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1879
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-28T23:48:57.000Z",
+        "description": "17岁/srs 27.1/持证含糖/浙江/INTP/车迷/Minecraft /私信互fo/爱人@_Nix24_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "_Nix24_"
+              }
+            ]
+          }
+        },
+        "id": "1795603153414508544",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "淆晨Xiaochen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992861915333509120/eupjOloi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 129,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 104
+        },
+        "username": "Xiaochen520qwq",
+        "verified": false
+      }
+    ]
+  }
+}

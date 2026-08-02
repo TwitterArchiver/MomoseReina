@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2074401705375182872",
+    "created_at": "2026-07-07T11:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074458701235356046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1386539491054088198",
+          "start": 0,
+          "username": "yoooyoyooy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074458701235356046",
+    "in_reply_to_user_id": "1386539491054088198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074401705375182872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoooyoyooy AI中转站备案没有一点好处，国外大模型合规性几乎没有，出了事直接就能找到相关主体\n而且国外大模型的上游基本上都走境外，你备案后服务器就必须放在境内。你前端服务器响应是快了，但是从上游回调延迟+300ms。唯一好处就是接国内大模型速度确实快了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 396,
+        "media_key": "3_2074401695619338241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnBWfzb0AEW84T.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2074401705375182872",
+        "created_at": "2026-07-07T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074458701235356046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1386539491054088198",
+              "start": 0,
+              "username": "yoooyoyooy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074458701235356046",
+        "in_reply_to_user_id": "1386539491054088198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074401705375182872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoooyoyooy AI中转站备案没有一点好处，国外大模型合规性几乎没有，出了事直接就能找到相关主体\n而且国外大模型的上游基本上都走境外，你备案后服务器就必须放在境内。你前端服务器响应是快了，但是从上游回调延迟+300ms。唯一好处就是接国内大模型速度确实快了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074401695619338241"
+          ]
+        },
+        "author_id": "1386539491054088198",
+        "conversation_id": "2074401705375182872",
+        "created_at": "2026-07-07T07:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074401705375182872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "oproxy.world",
+              "end": 63,
+              "expanded_url": "http://oproxy.world",
+              "start": 40,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "http://oproxy.world",
+              "url": "https://t.co/Ea00iCjJFK"
+            },
+            {
+              "display_url": "cn.oproxy.world",
+              "end": 119,
+              "expanded_url": "http://cn.oproxy.world",
+              "start": 96,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "https://cn.oproxy.world/",
+              "url": "https://t.co/uifef7ZO3k"
+            },
+            {
+              "display_url": "pic.x.com/5zg18XTlqA",
+              "end": 200,
+              "expanded_url": "https://x.com/yoooyoyooy/status/2074401705375182872/photo/1",
+              "media_key": "3_2074401695619338241",
+              "start": 177,
+              "url": "https://t.co/5zg18XTlqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074401705375182872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1342,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你站的SLA达到了惊人的100%，可喜可贺，感谢大家的支持和信任😸\n\n另外，目前https://t.co/Ea00iCjJFK正在进行国内备案管理，预计将在96小时内恢复，有需要的客户，可访问https://t.co/uifef7ZO3k进行面板管理、续费等操作；api服务不受影响\n\n最后，Claude、Gemini和其他国模将会很快上线，敬请期待👀 https://t.co/5zg18XTlqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 336,
+          "like_count": 9168,
+          "listed_count": 6,
+          "media_count": 414,
+          "tweet_count": 6541
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜AI集合站绝赞建设中 https://t.co/t72Bt0t6TY ｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "LannchanOwo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "oproxy.world",
+                "end": 39,
+                "expanded_url": "http://oproxy.world",
+                "start": 16,
+                "url": "https://t.co/t72Bt0t6TY"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 968,
+          "like_count": 254850,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 5612
+        },
+        "url": "",
+        "username": "yoooyoyooy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2039033038819241990",
+    "created_at": "2026-04-01T05:41:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:41:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039216595923517645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1614184245781479424",
+          "start": 0,
+          "username": "wjcc20040206"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "myaccount.google.com/google-account…",
+          "end": 37,
+          "expanded_url": "http://myaccount.google.com/google-account-email",
+          "start": 14,
+          "status": 200,
+          "title": "Sign in - Google Accounts",
+          "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&dsh=S809119049%3A1774677300351037&followup=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&osid=1&passive=1209600&rart=ANgoxcc2rC13vruRTbXS20nkYexhq-fghb_vGIm4mCdL5xn_JuOmqNVkMKq-w-Y-fNXJ94H3ZvUqZAkFSAKwzBADZh3kXuYy3RV8Ik-s9Nhz64WL2dmP3sM&service=accountsettings&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XrkGW5fMdKLh8lgnwpxxAJhzx8SB_VkthbR6IIAS2rZHFO9lZvzLRWcKope-dHRdt0-AouIQ",
+          "url": "https://t.co/bwskIjHm9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039216595923517645",
+    "in_reply_to_user_id": "1614184245781479424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039154435516137805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjcc20040206 https://t.co/bwskIjHm9d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T05:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039216595923517645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614184245781479424",
+              "start": 0,
+              "username": "wjcc20040206"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "myaccount.google.com/google-account…",
+              "end": 37,
+              "expanded_url": "http://myaccount.google.com/google-account-email",
+              "start": 14,
+              "status": 200,
+              "title": "Sign in - Google Accounts",
+              "unwound_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&dsh=S809119049%3A1774677300351037&followup=https%3A%2F%2Fmyaccount.google.com%2Fgoogle-account-email&osid=1&passive=1209600&rart=ANgoxcc2rC13vruRTbXS20nkYexhq-fghb_vGIm4mCdL5xn_JuOmqNVkMKq-w-Y-fNXJ94H3ZvUqZAkFSAKwzBADZh3kXuYy3RV8Ik-s9Nhz64WL2dmP3sM&service=accountsettings&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=AT1y2_XrkGW5fMdKLh8lgnwpxxAJhzx8SB_VkthbR6IIAS2rZHFO9lZvzLRWcKope-dHRdt0-AouIQ",
+              "url": "https://t.co/bwskIjHm9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039216595923517645",
+        "in_reply_to_user_id": "1614184245781479424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039154435516137805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjcc20040206 https://t.co/bwskIjHm9d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614184245781479424",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T01:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039154435516137805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039154435516137805",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039033038819241990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 咋弄的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 323,
+          "like_count": 7236,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 4966
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-14T08:55:51.000Z",
+        "description": "不是五毛 也不恨国",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com",
+                "end": 23,
+                "expanded_url": "http://YouTube.com",
+                "start": 0,
+                "url": "https://t.co/i6nfUI93gN"
+              }
+            ]
+          }
+        },
+        "id": "1614184245781479424",
+        "location": "Ottawa, Ontario",
+        "name": "不正经",
+        "pinned_tweet_id": "1632773979017555971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628037716658061312/RmDCUf0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 374,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/i6nfUI93gN",
+        "username": "wjcc20040206",
+        "verified": false
+      }
+    ]
+  }
+}

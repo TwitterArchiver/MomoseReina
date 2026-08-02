@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2060584128236638669",
+    "created_at": "2026-05-30T06:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060605221165056334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060605221165056334",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060584128236638669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 这价格都能上专线了，打扰了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_2060582916313522176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJipPrUbIAAoNFV.jpg",
+        "width": 1990
+      },
+      {
+        "height": 610,
+        "media_key": "3_2060582916317732864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJipPrVbYAAXL4P.jpg",
+        "width": 1616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2060584128236638669",
+        "created_at": "2026-05-30T06:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060605221165056334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060605221165056334",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060584128236638669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 这价格都能上专线了，打扰了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060582916313522176",
+            "3_2060582916317732864"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2060584128236638669",
+        "created_at": "2026-05-30T04:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:47:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060583750493413675",
+          "2060584128236638669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "VPS"
+            },
+            {
+              "end": 39,
+              "start": 9,
+              "tag": "Bandwagonhost上线新加坡机房SG_8系列服务器"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/frCgCo5VY7",
+              "end": 195,
+              "expanded_url": "https://x.com/landiantech/status/2060584128236638669/photo/1",
+              "media_key": "3_2060582916313522176",
+              "start": 172,
+              "url": "https://t.co/frCgCo5VY7"
+            },
+            {
+              "display_url": "pic.x.com/frCgCo5VY7",
+              "end": 195,
+              "expanded_url": "https://x.com/landiantech/status/2060584128236638669/photo/1",
+              "media_key": "3_2060582916317732864",
+              "start": 172,
+              "url": "https://t.co/frCgCo5VY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060584128236638669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "VPS"
+              },
+              {
+                "end": 39,
+                "start": 9,
+                "tag": "Bandwagonhost上线新加坡机房SG_8系列服务器"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/113160?t",
+                "end": 341,
+                "expanded_url": "https://ourl.co/113160?t",
+                "start": 318,
+                "url": "https://t.co/2HLnlpYBfo"
+              },
+              {
+                "display_url": "lancdn.co/bw173",
+                "end": 376,
+                "expanded_url": "https://lancdn.co/bw173",
+                "start": 353,
+                "url": "https://t.co/eP1xAMWBcJ"
+              }
+            ]
+          },
+          "text": "#VPS 搬瓦工 #Bandwagonhost上线新加坡机房SG_8系列服务器，三网回程CN2GIA/CTGNET精品线路，国内直连单线程下载速度可达25MB/秒。\n\n回程路由如下：\n\n中国电信：中国电信 CN2GIA 精品线路→中国电信 CTGNET 精品线路\n\n中国移动：中国电信 CN2GIA 精品线路→中国电信 CTGNET 精品线路\n\n中国联通：中国电信 CN2GIA 精品线路→中国电信 CTGNET 精品线路→中国联通 AS4837 普通线路\n\nIP解锁：\n\n几乎可以原生解锁所有主流AI服务和视频网站。\n\n当然这种服务器主要也是面向AI和企业网站的，所以价格也非常感人，起步价每月49.99美元。\n\n访问蓝点网查看测试：https://t.co/2HLnlpYBfo\n\n直接查看起步款配置：https://t.co/eP1xAMWBcJ\n\n【对于搬瓦工新用户，可以购买测试，30天内不满意可以申请退款，注意：该政策主要方便用户测试，需遵循公平使用原则】"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2396,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#VPS 搬瓦工 #Bandwagonhost上线新加坡机房SG_8系列服务器，三网回程CN2GIA/CTGNET精品线路，国内直连单线程下载速度可达25MB/秒。\n\n回程路由如下：\n\n中国电信：中国电信 CN2GIA 精品线路→中国电信 CTGNET 精品线路\n\n中国移动：中国电信 CN2GIA 精品线路→中国电信 CTGNET 精品线路 https://t.co/frCgCo5VY7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 341,
+          "like_count": 8535,
+          "listed_count": 5,
+          "media_count": 351,
+          "tweet_count": 5943
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2058782197973450956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35582,
+          "following_count": 725,
+          "like_count": 4875,
+          "listed_count": 276,
+          "media_count": 5636,
+          "tweet_count": 15562
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

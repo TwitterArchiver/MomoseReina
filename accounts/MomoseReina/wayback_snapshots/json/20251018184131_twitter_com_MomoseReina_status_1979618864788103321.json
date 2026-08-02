@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979577993904423137",
+    "created_at": "2025-10-18T18:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T19:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979618864788103321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871502099202330624",
+          "start": 0,
+          "username": "keplerD080311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979618864788103321",
+    "in_reply_to_user_id": "1871502099202330624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979577993904423137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keplerD080311 恭喜阿罗娜酱！贴贴！\n(⁠/⁠^⁠-⁠^⁠(⁠^⁠ ⁠^⁠*⁠)⁠/"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1994,
+        "media_key": "3_1979577978569826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jfrunXIAAyyoI.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979577993904423137",
+        "created_at": "2025-10-18T18:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T19:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979618864788103321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871502099202330624",
+              "start": 0,
+              "username": "keplerD080311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979618864788103321",
+        "in_reply_to_user_id": "1871502099202330624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979577993904423137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keplerD080311 恭喜阿罗娜酱！贴贴！\n(⁠/⁠^⁠-⁠^⁠(⁠^⁠ ⁠^⁠*⁠)⁠/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979577978569826304"
+          ]
+        },
+        "author_id": "1871502099202330624",
+        "conversation_id": "1979577993904423137",
+        "created_at": "2025-10-18T15:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979577993904423137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjcLxAeJRa",
+              "end": 39,
+              "expanded_url": "https://x.com/keplerD080311/status/1979577993904423137/photo/1",
+              "media_key": "3_1979577978569826304",
+              "start": 16,
+              "url": "https://t.co/yjcLxAeJRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979577993904423137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo达成！！！！🥳🥳🥳🥳 https://t.co/yjcLxAeJRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 181,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T10:24:17.000Z",
+        "description": "苦逼职高人一枚（失恋中）「现小男娘」\n喜欢普拉娜的宅（）\n喜歡攝影/音遊（冰与火之舞/phigros/phira）\n希望和各位成为好朋友wwww\n生日🎂：20090210\nQQ：3617571542",
+        "id": "1871502099202330624",
+        "location": "什亭之匣/ipad",
+        "name": "𝐀.𝐑.𝐎.𝐍.𝐀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979052055453892608/y5xIYi7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 230,
+          "like_count": 1863,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 553
+        },
+        "username": "keplerD080311",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2007844418632724789",
+    "created_at": "2026-01-04T16:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007847678567469299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007847678567469299",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007844418632724789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 富🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2007844418632724789",
+        "created_at": "2026-01-04T16:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007847678567469299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007847678567469299",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007844418632724789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 富🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856699710981251072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple Macbook",
+              "id": "972168210182111232",
+              "name": "Apple Macbook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2007844418632724789",
+        "created_at": "2026-01-04T15:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007844418632724789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momosereina/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/momosereina/status/2007371242878484778",
+              "start": 28,
+              "url": "https://t.co/KTJ5qNIHHl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007844418632724789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007371242878484778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今年要集齐大疆所有产品（包括行业但不包括运输、农业） https://t.co/KTJ5qNIHHl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 290,
+          "like_count": 4221,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 3163
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb | 私养の猫：@mtnya123｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng  ｜里推@alfaromeoorlen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "mtnya123"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "alfaromeoorlen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFkZ5x"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Chuo-ku, Tokyo",
+        "name": "Jonathan",
+        "pinned_tweet_id": "2002006475573719305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005179040982818816/AKc2_zkF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 258,
+          "like_count": 1186,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/hxccVFkZ5x",
+        "username": "Tim_Pan_5",
+        "verified": false
+      }
+    ]
+  }
+}

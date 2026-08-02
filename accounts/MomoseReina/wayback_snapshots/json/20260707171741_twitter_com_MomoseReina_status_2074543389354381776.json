@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2074490176609603595",
+    "created_at": "2026-07-07T17:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074543389354381776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485864487676743681",
+          "start": 0,
+          "username": "Goldbro233"
+        }
+      ],
+      "urls": [
+        {
+          "description": "A simple server monitor tool. Contribute to komari-monitor/komari development by creating an account on GitHub.",
+          "display_url": "github.com/komari-monitor…",
+          "end": 35,
+          "expanded_url": "https://github.com/komari-monitor/komari",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2074543394706345984/tFIKqCUY?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074543394706345984/tFIKqCUY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "GitHub - komari-monitor/komari: A simple server monitor tool.",
+          "unwound_url": "https://github.com/komari-monitor/komari",
+          "url": "https://t.co/4KW89BmqzH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074543389354381776",
+    "in_reply_to_user_id": "1485864487676743681",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074542584089985451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldbro233 https://t.co/4KW89BmqzH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2074490176609603595",
+        "created_at": "2026-07-07T17:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074543389354381776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485864487676743681",
+              "start": 0,
+              "username": "Goldbro233"
+            }
+          ],
+          "urls": [
+            {
+              "description": "A simple server monitor tool. Contribute to komari-monitor/komari development by creating an account on GitHub.",
+              "display_url": "github.com/komari-monitor…",
+              "end": 35,
+              "expanded_url": "https://github.com/komari-monitor/komari",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2074543394706345984/tFIKqCUY?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074543394706345984/tFIKqCUY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "GitHub - komari-monitor/komari: A simple server monitor tool.",
+              "unwound_url": "https://github.com/komari-monitor/komari",
+              "url": "https://t.co/4KW89BmqzH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074543389354381776",
+        "in_reply_to_user_id": "1485864487676743681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074542584089985451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldbro233 https://t.co/4KW89BmqzH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485864487676743681",
+        "conversation_id": "2074490176609603595",
+        "created_at": "2026-07-07T17:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074542584089985451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074542584089985451",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074490176609603595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 好奇这是什么面板👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 336,
+          "like_count": 9185,
+          "listed_count": 6,
+          "media_count": 416,
+          "tweet_count": 6550
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-25T06:38:11.000Z",
+        "description": "平和的、宁静的生活在我出生那刻就一去不复返了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.goldbro.top",
+                "end": 23,
+                "expanded_url": "https://blog.goldbro.top",
+                "start": 0,
+                "url": "https://t.co/uJa8eCavVX"
+              }
+            ]
+          }
+        },
+        "id": "1485864487676743681",
+        "location": "Tokyo - 3",
+        "name": "布羅",
+        "pinned_tweet_id": "1776246924586406046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762505763657076737/nOC_PJJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 299,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/uJa8eCavVX",
+        "username": "Goldbro233",
+        "verified": false
+      }
+    ]
+  }
+}

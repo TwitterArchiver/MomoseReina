@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1986769057660723395",
+    "created_at": "2025-11-07T12:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986769057660723395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kagura_Yukikaz…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/1986747738164539883",
+          "start": 15,
+          "url": "https://t.co/LDwnrhKFAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986769057660723395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986747738164539883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱就是互联网试吃小点心😭😭😭 https://t.co/LDwnrhKFAg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1986769057660723395",
+        "created_at": "2025-11-07T12:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986769057660723395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/1986747738164539883",
+              "start": 15,
+              "url": "https://t.co/LDwnrhKFAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986769057660723395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986747738164539883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱就是互联网试吃小点心😭😭😭 https://t.co/LDwnrhKFAg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1986747738164539883",
+        "created_at": "2025-11-07T10:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986747738164539883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/littlelambqwq/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/littlelambqwq/status/1986640691053928865",
+              "start": 15,
+              "url": "https://t.co/S3bigVP7Ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986747738164539883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986640691053928865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "我就是互联网试吃小点心😭😭😭 https://t.co/S3bigVP7Ab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 230,
+          "like_count": 1761,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️Femboy🍥 |09|HRT since 25.3.19|A student |want to be friends with everyone! |en/cn/jp(a little)|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983163485979849025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984586907804975105/oGoNnLYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 1805,
+          "like_count": 69197,
+          "listed_count": 2,
+          "media_count": 542,
+          "tweet_count": 7720
+        },
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

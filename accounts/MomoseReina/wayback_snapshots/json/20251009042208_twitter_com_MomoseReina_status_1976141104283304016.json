@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1975948780609712500",
+    "created_at": "2025-10-09T04:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T05:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976141104283304016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "865108548631408640",
+          "start": 0,
+          "username": "HIBIKI4LIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976141104283304016",
+    "in_reply_to_user_id": "865108548631408640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976129774348325127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HIBIKI4LIFE 抱抱(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1975948780609712500",
+        "created_at": "2025-10-09T04:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976141104283304016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "865108548631408640",
+              "start": 0,
+              "username": "HIBIKI4LIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976141104283304016",
+        "in_reply_to_user_id": "865108548631408640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976129774348325127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HIBIKI4LIFE 抱抱(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "865108548631408640",
+        "conversation_id": "1975948780609712500",
+        "created_at": "2025-10-09T03:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976129774348325127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976129774348325127",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975948780609712500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 暂不线下 | 不加墙内哦~",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 86,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 250
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-18T07:35:25.000Z",
+        "description": "INFP-A / INFP-T 一只缺爱的猫咪 欢迎同类来贴贴 ／影视爱好者／FPS，单机玩家 ／业余摄影 /守望先锋激推！！！！/wanna be the angel catgirl for the people in need of love",
+        "id": "865108548631408640",
+        "location": "utopia",
+        "name": "寒月Kalt monat",
+        "pinned_tweet_id": "1804193435907477616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654050522935201798/kQVb0l16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 229,
+          "like_count": 5171,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 2728
+        },
+        "username": "HIBIKI4LIFE",
+        "verified": false
+      }
+    ]
+  }
+}

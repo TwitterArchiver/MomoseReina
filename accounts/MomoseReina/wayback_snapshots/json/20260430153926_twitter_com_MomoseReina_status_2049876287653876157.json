@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2049835761189728746",
+    "created_at": "2026-04-30T15:39:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:39:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049876287653876157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760246726500462592",
+          "start": 0,
+          "username": "llsswssw3243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049876287653876157",
+    "in_reply_to_user_id": "1760246726500462592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049874226002399494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llsswssw3243 而且esim还有就是落地ip很干净，你套cf就本末倒置了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T15:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049876287653876157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760246726500462592",
+              "start": 0,
+              "username": "llsswssw3243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049876287653876157",
+        "in_reply_to_user_id": "1760246726500462592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049874226002399494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llsswssw3243 而且esim还有就是落地ip很干净，你套cf就本末倒置了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760246726500462592",
+        "conversation_id": "2049835761189728746",
+        "created_at": "2026-04-30T15:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049874226002399494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874226002399494",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049835761189728746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 双持隔离，一个专门装国内app不装任何翻墙的；一个专门用来翻墙，只装国外app，然后支持esim，esim流量确实有点不放心，再套一层梯子。我用cf的cdn，走esim的落地比国内网快很多。当然esim肯定不是主用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 336,
+          "like_count": 7889,
+          "listed_count": 2,
+          "media_count": 314,
+          "tweet_count": 5396
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-21T10:15:15.000Z",
+        "description": "趣味はACGとLinux | \nDCS rookie | \nThe only good commie is a dead commie | Slava Ukraini 🇺🇦",
+        "id": "1760246726500462592",
+        "location": "中南海",
+        "name": "llsswssw3243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049165618805719041/_UZyFBqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 2178,
+          "like_count": 39040,
+          "listed_count": 1,
+          "media_count": 1218,
+          "tweet_count": 5439
+        },
+        "username": "llsswssw3243",
+        "verified": false
+      }
+    ]
+  }
+}

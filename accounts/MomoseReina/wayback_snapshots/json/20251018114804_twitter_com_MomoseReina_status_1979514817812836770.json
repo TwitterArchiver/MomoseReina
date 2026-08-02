@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1979435697565241568",
+    "created_at": "2025-10-18T11:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979514817812836770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1713528787378245632",
+          "start": 0,
+          "username": "a487671853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979514817812836770",
+    "in_reply_to_user_id": "1713528787378245632",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979510322043261220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a487671853 awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1979435697565241568",
+        "created_at": "2025-10-18T11:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979514817812836770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1713528787378245632",
+              "start": 0,
+              "username": "a487671853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979514817812836770",
+        "in_reply_to_user_id": "1713528787378245632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979510322043261220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a487671853 awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713528787378245632",
+        "conversation_id": "1979435697565241568",
+        "created_at": "2025-10-18T11:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979510322043261220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6499,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979510322043261220",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979435697565241568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 恭喜🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 180,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-15T12:14:50.000Z",
+        "description": "一个来自仙女座星系的吟游诗人，已经在宇宙中流浪了上千万年。我愿穿越所有的时间和空间，去聆听希格斯场所演奏的宏伟乐章。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "science.nasa.gov/mission/webb/",
+                "end": 23,
+                "expanded_url": "https://science.nasa.gov/mission/webb/",
+                "start": 0,
+                "url": "https://t.co/3YuwgHpdPY"
+              }
+            ]
+          }
+        },
+        "id": "1713528787378245632",
+        "location": "Laniakea Supercluster",
+        "name": "Walk in Stars星海旅人👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969366145070481412/Ww4QeMYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 2706,
+          "like_count": 39624,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 3777
+        },
+        "url": "https://t.co/3YuwgHpdPY",
+        "username": "a487671853",
+        "verified": false
+      }
+    ]
+  }
+}

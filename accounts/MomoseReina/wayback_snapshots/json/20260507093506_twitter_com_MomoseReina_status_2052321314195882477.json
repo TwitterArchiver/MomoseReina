@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2052321314195882477",
+    "created_at": "2026-05-07T09:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052321314195882477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2052059752600060044",
+          "start": 21,
+          "url": "https://t.co/2HBSCkgK0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052321314195882477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052059752600060044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想迁移数据了！好累！我想打异环😭😭😭 https://t.co/2HBSCkgK0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2052059657330622465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHphYtUaAAEY7CH.png",
+        "width": 1515
+      },
+      {
+        "height": 973,
+        "media_key": "3_2052059731976736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHphdDZbUAAziHj.jpg",
+        "width": 1749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2052321314195882477",
+        "created_at": "2026-05-07T09:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052321314195882477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2052059752600060044",
+              "start": 21,
+              "url": "https://t.co/2HBSCkgK0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052321314195882477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052059752600060044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想迁移数据了！好累！我想打异环😭😭😭 https://t.co/2HBSCkgK0s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052059657330622465",
+            "3_2052059731976736768"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2052059752600060044",
+        "created_at": "2026-05-06T16:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:14:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052059447770722395",
+          "2052059752600060044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RazqeFm0HQ",
+              "end": 55,
+              "expanded_url": "https://x.com/MomoseReina/status/2052059752600060044/photo/1",
+              "media_key": "3_2052059657330622465",
+              "start": 32,
+              "url": "https://t.co/RazqeFm0HQ"
+            },
+            {
+              "display_url": "pic.x.com/RazqeFm0HQ",
+              "end": 55,
+              "expanded_url": "https://x.com/MomoseReina/status/2052059752600060044/photo/1",
+              "media_key": "3_2052059731976736768",
+              "start": 32,
+              "url": "https://t.co/RazqeFm0HQ"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/realNyarime/status/2052046881233285303",
+              "start": 56,
+              "url": "https://t.co/harjAOSDHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052059752600060044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3353,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052046881233285303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋！火速迁移数据去\n目前狐蒂云主站所有活动和产品全部下架了！ https://t.co/RazqeFm0HQ https://t.co/harjAOSDHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 338,
+          "like_count": 8034,
+          "listed_count": 3,
+          "media_count": 319,
+          "tweet_count": 5513
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

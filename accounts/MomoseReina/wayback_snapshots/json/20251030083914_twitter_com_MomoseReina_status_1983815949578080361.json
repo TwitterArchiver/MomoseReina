@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1983599816790962263",
+    "created_at": "2025-10-30T08:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983815949578080361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938284042702708736",
+          "start": 0,
+          "username": "shalangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983815949578080361",
+    "in_reply_to_user_id": "1938284042702708736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983599816790962263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shalangOfficial 来啦(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1983599816790962263",
+        "created_at": "2025-10-30T08:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983815949578080361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938284042702708736",
+              "start": 0,
+              "username": "shalangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983815949578080361",
+        "in_reply_to_user_id": "1938284042702708736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983599816790962263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shalangOfficial 来啦(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938284042702708736",
+        "conversation_id": "1983599816790962263",
+        "created_at": "2025-10-29T18:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983599816790962263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983599816790962263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要互fo🥺🥺有人嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 207,
+          "like_count": 1463,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T17:12:11.000Z",
+        "description": "“虽然那听上去很痛…但是，最后印在画壁中的我，一定展露着笑容。”\n“因为…我能治愈天空。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/t8EKak9",
+                "end": 23,
+                "expanded_url": "https://b23.tv/t8EKak9",
+                "start": 0,
+                "url": "https://t.co/Rgw0nooJ8S"
+              }
+            ]
+          }
+        },
+        "id": "1938284042702708736",
+        "location": "「云端遗堡」晨昏之眼",
+        "name": "白砂狼_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938285213596913664/3bexcPCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 135,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/Rgw0nooJ8S",
+        "username": "shalangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

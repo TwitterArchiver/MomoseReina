@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2060960353023037650",
+    "created_at": "2026-05-31T07:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060989993045397627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672585826633658372",
+          "start": 0,
+          "username": "HaisenMinoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060989993045397627",
+    "in_reply_to_user_id": "1672585826633658372",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060973217268081136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaisenMinoki 🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2060960353023037650",
+        "created_at": "2026-05-31T07:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060989993045397627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672585826633658372",
+              "start": 0,
+              "username": "HaisenMinoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060989993045397627",
+        "in_reply_to_user_id": "1672585826633658372",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060973217268081136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaisenMinoki 🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672585826633658372",
+        "conversation_id": "2060960353023037650",
+        "created_at": "2026-05-31T06:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060973217268081136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060973217268081136",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060960353023037650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 我还听到过圆形的节奏大师这种称呼\n是哪个音游呢好难猜啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 341,
+          "like_count": 8563,
+          "listed_count": 5,
+          "media_count": 352,
+          "tweet_count": 5961
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T12:42:45.000Z",
+        "description": "喜欢初音未来，大好きミク\n我宝宝@index_ourFusion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "index_ourFusion"
+              }
+            ]
+          }
+        },
+        "id": "1672585826633658372",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "裴川巳泷",
+        "pinned_tweet_id": "2058184639924281349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060758405615415296/fsEBwLXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 726,
+          "like_count": 1496,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 3922
+        },
+        "username": "HaisenMinoki",
+        "verified": false
+      }
+    ]
+  }
+}

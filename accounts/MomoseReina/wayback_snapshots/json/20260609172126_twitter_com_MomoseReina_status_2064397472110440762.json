@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064397305407811584"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2064397472110440762",
+    "created_at": "2026-06-09T17:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064397472110440762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HpBOMiTqpJ",
+          "end": 54,
+          "expanded_url": "https://x.com/MomoseReina/status/2064397472110440762/photo/1",
+          "media_key": "3_2064397305407811584",
+          "start": 31,
+          "url": "https://t.co/HpBOMiTqpJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064397472110440762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2x啊！2x！Pro说两句话就没了，我还是用Opus4.6吧 https://t.co/HpBOMiTqpJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 895,
+        "media_key": "3_2064397305407811584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKY2aWAbMAA5E1g.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064397305407811584"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2064397472110440762",
+        "created_at": "2026-06-09T17:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064397472110440762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HpBOMiTqpJ",
+              "end": 54,
+              "expanded_url": "https://x.com/MomoseReina/status/2064397472110440762/photo/1",
+              "media_key": "3_2064397305407811584",
+              "start": 31,
+              "url": "https://t.co/HpBOMiTqpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064397472110440762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2x啊！2x！Pro说两句话就没了，我还是用Opus4.6吧 https://t.co/HpBOMiTqpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 345,
+          "like_count": 8713,
+          "listed_count": 5,
+          "media_count": 367,
+          "tweet_count": 6105
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

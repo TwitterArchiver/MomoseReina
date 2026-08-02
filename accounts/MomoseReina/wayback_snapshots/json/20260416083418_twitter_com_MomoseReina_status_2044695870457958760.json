@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2044695225143357608",
+    "created_at": "2026-04-16T08:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044695870457958760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        },
+        {
+          "end": 27,
+          "id": "2031560806563987456",
+          "start": 11,
+          "username": "hitorinchinchin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044695870457958760",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044695225143357608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 @hitorinchinchin 我伤心了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2044695206499606528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA3dQFaYAAMMOS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2044695225143357608",
+        "created_at": "2026-04-16T08:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044695870457958760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            },
+            {
+              "end": 27,
+              "id": "2031560806563987456",
+              "start": 11,
+              "username": "hitorinchinchin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044695870457958760",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044695225143357608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 @hitorinchinchin 我伤心了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044695206499606528"
+          ]
+        },
+        "author_id": "1488080791125237760",
+        "conversation_id": "2044695225143357608",
+        "created_at": "2026-04-16T08:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044695225143357608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2031560806563987456",
+              "start": 3,
+              "username": "hitorinchinchin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eUYbh5igh",
+              "end": 58,
+              "expanded_url": "https://x.com/MengXi969/status/2044695225143357608/photo/1",
+              "media_key": "3_2044695206499606528",
+              "start": 35,
+              "url": "https://t.co/6eUYbh5igh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044695225143357608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢 @hitorinchinchin 送的水月雨和天使吉米耳机喵🥺 https://t.co/6eUYbh5igh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 330,
+          "like_count": 7618,
+          "listed_count": 1,
+          "media_count": 296,
+          "tweet_count": 5209
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 2963,
+          "like_count": 87129,
+          "listed_count": 6,
+          "media_count": 1053,
+          "tweet_count": 6158
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T02:43:17.000Z",
+        "description": "former regulator of cGMP.",
+        "id": "2031560806563987456",
+        "name": "Hitori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032080068676370436/RBb1qIj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 126,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 235
+        },
+        "username": "hitorinchinchin",
+        "verified": false
+      }
+    ]
+  }
+}

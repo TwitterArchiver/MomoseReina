@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1999869281123913735",
+    "created_at": "2025-12-14T09:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000140341073400019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000140341073400019",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999869281123913735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 您😱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999869179512705024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2bEobUAANWPM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999869179441332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2bEXaQAATOcp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999869272538177536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2gfLbYAAK0aU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1999869216787456000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8D2dPfa4AAyOym.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1999869281123913735",
+        "created_at": "2025-12-14T09:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000140341073400019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000140341073400019",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999869281123913735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 您😱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999869179512705024",
+            "3_1999869179441332224",
+            "3_1999869272538177536",
+            "3_1999869216787456000"
+          ]
+        },
+        "author_id": "1676228046247038976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999869281123913735",
+        "created_at": "2025-12-13T15:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999869281123913735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwtdxTbFHn",
+              "end": 43,
+              "expanded_url": "https://x.com/ElP15_/status/1999869281123913735/photo/1",
+              "media_key": "3_1999869179512705024",
+              "start": 20,
+              "url": "https://t.co/NwtdxTbFHn"
+            },
+            {
+              "display_url": "pic.x.com/NwtdxTbFHn",
+              "end": 43,
+              "expanded_url": "https://x.com/ElP15_/status/1999869281123913735/photo/1",
+              "media_key": "3_1999869179441332224",
+              "start": 20,
+              "url": "https://t.co/NwtdxTbFHn"
+            },
+            {
+              "display_url": "pic.x.com/NwtdxTbFHn",
+              "end": 43,
+              "expanded_url": "https://x.com/ElP15_/status/1999869281123913735/photo/1",
+              "media_key": "3_1999869272538177536",
+              "start": 20,
+              "url": "https://t.co/NwtdxTbFHn"
+            },
+            {
+              "display_url": "pic.x.com/NwtdxTbFHn",
+              "end": 43,
+              "expanded_url": "https://x.com/ElP15_/status/1999869281123913735/photo/1",
+              "media_key": "3_1999869216787456000",
+              "start": 20,
+              "url": "https://t.co/NwtdxTbFHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999869281123913735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又飞升\nb30rating 16.7了 https://t.co/NwtdxTbFHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 272,
+          "like_count": 3188,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "好朋友@Quitewaterqwq | @Allknowbody2 |@aya__maimai/最喜欢的姐姐@FusiKayoko/最喜欢的宝宝❤️@hhngki7292924",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 33,
+                "start": 20,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 65,
+                "start": 54,
+                "username": "FusiKayoko"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "hhngki7292924"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an（互fo）",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994488004623347712/F8BI0fzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 1293,
+          "like_count": 33848,
+          "listed_count": 4,
+          "media_count": 368,
+          "tweet_count": 10910
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

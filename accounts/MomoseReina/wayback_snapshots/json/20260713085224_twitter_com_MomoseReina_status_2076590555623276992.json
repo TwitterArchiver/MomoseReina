@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076590486048083968"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2076590555623276992",
+    "created_at": "2026-07-13T08:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076590555623276992"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rkv4p8g8n",
+          "end": 123,
+          "expanded_url": "https://x.com/MomoseReina/status/2076590555623276992/photo/1",
+          "media_key": "3_2076590486048083968",
+          "start": 100,
+          "url": "https://t.co/8rkv4p8g8n"
+        },
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2076260855377989676",
+          "start": 124,
+          "url": "https://t.co/5MzISweqsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076590555623276992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076260855377989676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是华为公司人员，目前位于中国，我翻墙出来不仅要蒸馏你的模型，还要挂上自己的名号并大肆宣扬“华为模型已经超越Claude的最强模型”，AI遥遥领先于西方，让那些说西方AI比华为AI好的人全部封号禁言 https://t.co/8rkv4p8g8n https://t.co/5MzISweqsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2076590486048083968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGIC3jaEAAVzSl.jpg",
+        "width": 1552
+      },
+      {
+        "height": 1424,
+        "media_key": "3_2076260851653496832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBcPnvbUAA1-Ix.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076590486048083968"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2076590555623276992",
+        "created_at": "2026-07-13T08:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076590555623276992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rkv4p8g8n",
+              "end": 123,
+              "expanded_url": "https://x.com/MomoseReina/status/2076590555623276992/photo/1",
+              "media_key": "3_2076590486048083968",
+              "start": 100,
+              "url": "https://t.co/8rkv4p8g8n"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2076260855377989676",
+              "start": 124,
+              "url": "https://t.co/5MzISweqsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076590555623276992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076260855377989676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是华为公司人员，目前位于中国，我翻墙出来不仅要蒸馏你的模型，还要挂上自己的名号并大肆宣扬“华为模型已经超越Claude的最强模型”，AI遥遥领先于西方，让那些说西方AI比华为AI好的人全部封号禁言 https://t.co/8rkv4p8g8n https://t.co/5MzISweqsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076260851653496832"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "conversation_id": "2076260855377989676",
+        "created_at": "2026-07-12T11:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T12:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076260855377989676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9k2Hj4uL0E",
+              "end": 61,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2076260855377989676/photo/1",
+              "media_key": "3_2076260851653496832",
+              "start": 38,
+              "url": "https://t.co/9k2Hj4uL0E"
+            },
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2076160717485756817",
+              "start": 62,
+              "url": "https://t.co/6eYCUfy5Pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076260855377989676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 117243,
+          "like_count": 339,
+          "quote_count": 3,
+          "reply_count": 63,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076160717485756817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是中国政府人员，目前位于中国，我翻墙出来是要蒸馏你的模型的，我还开中转站 https://t.co/9k2Hj4uL0E https://t.co/6eYCUfy5Pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 334,
+          "like_count": 9261,
+          "listed_count": 6,
+          "media_count": 423,
+          "tweet_count": 6603
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/留长发中/无糖/向往自由/原创&二创meme/秋月姐姐 @qiuylove/阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              },
+              {
+                "end": 60,
+                "start": 47,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh4nHV"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "廈門 Amoy",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1044,
+          "like_count": 199311,
+          "listed_count": 3,
+          "media_count": 945,
+          "tweet_count": 7749
+        },
+        "url": "https://t.co/ENDNzh4nHV",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}

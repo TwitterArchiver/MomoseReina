@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974645704967836003",
+    "created_at": "2025-10-05T11:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T12:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974804071589814374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974804071589814374",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974645704967836003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 小方妈妈awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974645702073737216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dZzc1bYAAswD7.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974645704967836003",
+        "created_at": "2025-10-05T11:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974804071589814374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974804071589814374",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974645704967836003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 小方妈妈awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974645702073737216"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1974645704967836003",
+        "created_at": "2025-10-05T01:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974645704967836003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bTla18rGi",
+              "end": 174,
+              "expanded_url": "https://x.com/ceobrus/status/1974645704967836003/photo/1",
+              "media_key": "3_1974645702073737216",
+              "start": 151,
+              "url": "https://t.co/4bTla18rGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974645704967836003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5947,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在网上发涩涩的事快要瞒不住了\n\n今天吃饭我妈问我“你天天拍这些饭菜干啥用啊”\n\n我心虚的回答：只是拍饭菜和自...照片发到网上玩，网友们可有意思了看到好吃的会喊妈妈...\n\n她“是吗？那能不能帮我开个账号，按道理你做饭都我教的，我作为师母会不会更有意思”\n\n我：啊不..要不...你还是先发朋友圈玩吧 https://t.co/4bTla18rGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "femboy丨天残党丨180cm/55kg增重中丨ISFP-T丨一米八+天空树丨可互fo丨@ceoberus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "ceoberus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "小方(增肥版)",
+        "pinned_tweet_id": "1974786085386604591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970098823126192129/wLmmXOnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 1653,
+          "like_count": 7964,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 1724
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

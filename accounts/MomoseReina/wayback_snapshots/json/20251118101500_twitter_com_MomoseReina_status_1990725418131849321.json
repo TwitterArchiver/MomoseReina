@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990725408980152320"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1990725418131849321",
+    "created_at": "2025-11-18T10:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990725418131849321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v93sAMtKur",
+          "end": 99,
+          "expanded_url": "https://x.com/MomoseReina/status/1990725418131849321/photo/1",
+          "media_key": "3_1990725408980152320",
+          "start": 76,
+          "url": "https://t.co/v93sAMtKur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990725418131849321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃品尝绿猫袜子\n怎么说呢，第一口的感觉直冲天灵盖，第二口喝到一种絮状物的感觉就像是绿猫袜子的毛絮，第三口喝到果冻状物就像是绿猫的小脚，滑滑的😋😋😋 https://t.co/v93sAMtKur"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990725408980152320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6B6Nk-bMAAYzZm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990725408980152320"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1990725418131849321",
+        "created_at": "2025-11-18T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990725418131849321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v93sAMtKur",
+              "end": 99,
+              "expanded_url": "https://x.com/MomoseReina/status/1990725418131849321/photo/1",
+              "media_key": "3_1990725408980152320",
+              "start": 76,
+              "url": "https://t.co/v93sAMtKur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990725418131849321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃品尝绿猫袜子\n怎么说呢，第一口的感觉直冲天灵盖，第二口喝到一种絮状物的感觉就像是绿猫袜子的毛絮，第三口喝到果冻状物就像是绿猫的小脚，滑滑的😋😋😋 https://t.co/v93sAMtKur"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 234,
+          "like_count": 1935,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1502
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

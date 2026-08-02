@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2025179557201129582",
+    "created_at": "2026-02-22T05:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025448169535132011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1881295527763128320",
+          "start": 0,
+          "username": "M1ku_02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025448169535132011",
+    "in_reply_to_user_id": "1881295527763128320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025420518439223733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1ku_02 不想当木棍人，而且想买vr很久了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2025179557201129582",
+        "created_at": "2026-02-22T05:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025448169535132011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881295527763128320",
+              "start": 0,
+              "username": "M1ku_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025448169535132011",
+        "in_reply_to_user_id": "1881295527763128320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025420518439223733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1ku_02 不想当木棍人，而且想买vr很久了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881295527763128320",
+        "conversation_id": "2025179557201129582",
+        "created_at": "2026-02-22T04:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025420518439223733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025420518439223733",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025179557201129582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 要是不追求效果的话，pc也行的说（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 317,
+          "like_count": 6262,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-20T10:59:49.000Z",
+        "description": "Aqours, shining!",
+        "id": "1881295527763128320",
+        "location": "Kyoto-shi Kita, Kyoto",
+        "name": "ちかっち",
+        "pinned_tweet_id": "1998063076537737711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021028810398072832/gquaf_bf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 177,
+          "like_count": 2408,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 685
+        },
+        "username": "M1ku_02",
+        "verified": false
+      }
+    ]
+  }
+}

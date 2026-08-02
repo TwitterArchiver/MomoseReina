@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983509651972100096"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983110880637452797",
+    "created_at": "2025-10-29T12:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983509666715091230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509391402484080646",
+          "start": 0,
+          "username": "moran_neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0utOc26RIS",
+          "end": 42,
+          "expanded_url": "https://x.com/MomoseReina/status/1983509666715091230/photo/1",
+          "media_key": "3_1983509651972100096",
+          "start": 19,
+          "url": "https://t.co/0utOc26RIS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983509666715091230",
+    "in_reply_to_user_id": "1509391402484080646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983110880637452797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moran_neko 到处偷awa https://t.co/0utOc26RIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1983509651972100096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bXhPZbEAAghCG.jpg",
+        "width": 702
+      },
+      {
+        "height": 600,
+        "media_key": "3_1983110874270457857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Vs1Usa4AE8Ooh.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983509651972100096"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983110880637452797",
+        "created_at": "2025-10-29T12:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983509666715091230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0utOc26RIS",
+              "end": 42,
+              "expanded_url": "https://x.com/MomoseReina/status/1983509666715091230/photo/1",
+              "media_key": "3_1983509651972100096",
+              "start": 19,
+              "url": "https://t.co/0utOc26RIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983509666715091230",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983110880637452797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 到处偷awa https://t.co/0utOc26RIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983110874270457857"
+          ]
+        },
+        "author_id": "1509391402484080646",
+        "conversation_id": "1983110880637452797",
+        "created_at": "2025-10-28T09:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T10:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983110880637452797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8DsjcPfW3Y",
+              "end": 37,
+              "expanded_url": "https://x.com/moran_neko/status/1983110880637452797/photo/1",
+              "media_key": "3_1983110874270457857",
+              "start": 14,
+              "url": "https://t.co/8DsjcPfW3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983110880637452797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5295,
+          "like_count": 140,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都哪来这么多可爱小表情 https://t.co/8DsjcPfW3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 204,
+          "like_count": 1394,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "pluviophile (n.)嗜雨生物┋音乐就是生命┋52Hz🎶┋♂┋日常&碎碎念&梗图┋战地1/6┋MC┋数码┋Malody reg10┋🚫不键政┋电吉他暂缓中🎸┋ENFP┋宝宝@BlueberryFungi┋小号@mokuneko_21┋最好的哥们@xxKaradax┋逃跑的吉他手@KITA1145┋网站↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "BlueberryFungi"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "mokuneko_21"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "xxKaradax"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "username": "KITA1145"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe",
+                "start": 0,
+                "url": "https://t.co/X5SScEnMpN"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "もくねこ🐱𝑀𝑜𝑅𝑎𝑛²¹",
+        "pinned_tweet_id": "1974093214048305419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918685355508932608/QeN0qub6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 1523,
+          "like_count": 27645,
+          "listed_count": 6,
+          "media_count": 1319,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/X5SScEnMpN",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

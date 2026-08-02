@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993813562553454594"
+      ],
+      "media_source_tweet_id": [
+        "1993813564931625302"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1994219845412381130",
+    "created_at": "2025-11-28T01:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994219845412381130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1744316513291747328",
+          "start": 3,
+          "username": "shuifenziya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/he23Uxx5Uk",
+          "end": 40,
+          "expanded_url": "https://x.com/shuifenziya/status/1993813564931625302/photo/1",
+          "media_key": "3_1993813562553454594",
+          "start": 17,
+          "url": "https://t.co/he23Uxx5Uk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994219845412381130",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993813564931625302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuifenziya: https://t.co/he23Uxx5Uk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_1993813562553454594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ty3xha0AIkMxp.jpg",
+        "width": 1176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993813562553454594"
+          ],
+          "media_source_tweet_id": [
+            "1993813564931625302"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1994219845412381130",
+        "created_at": "2025-11-28T01:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994219845412381130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1744316513291747328",
+              "start": 3,
+              "username": "shuifenziya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/he23Uxx5Uk",
+              "end": 40,
+              "expanded_url": "https://x.com/shuifenziya/status/1993813564931625302/photo/1",
+              "media_key": "3_1993813562553454594",
+              "start": 17,
+              "url": "https://t.co/he23Uxx5Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994219845412381130",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993813564931625302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuifenziya: https://t.co/he23Uxx5Uk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993813562553454594"
+          ]
+        },
+        "author_id": "1744316513291747328",
+        "conversation_id": "1993813564931625302",
+        "created_at": "2025-11-26T22:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T23:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993813564931625302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/he23Uxx5Uk",
+              "end": 23,
+              "expanded_url": "https://x.com/shuifenziya/status/1993813564931625302/photo/1",
+              "media_key": "3_1993813562553454594",
+              "start": 0,
+              "url": "https://t.co/he23Uxx5Uk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993813564931625302",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 40664,
+          "like_count": 857,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/he23Uxx5Uk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 256,
+          "like_count": 2465,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "我...我....是水分子呀/08年17岁/休学中ing.../大证🍥hrt？个月/💥已炸柜/167cm60kg/坐标广东清远/负能/🚪35/不接线下/是条杂鱼🐟~~/SAD/互fo/喜欢六花和六花/不鉴证/小鸟游六花单推/",
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "水分子🍥［已死］",
+        "pinned_tweet_id": "1976921242499531228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791671798509572/InGBy1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 857,
+          "like_count": 23320,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 1694
+        },
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

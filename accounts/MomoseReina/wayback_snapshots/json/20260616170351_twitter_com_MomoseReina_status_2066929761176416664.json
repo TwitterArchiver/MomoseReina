@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2066929760136261632"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2066929761176416664",
+    "created_at": "2026-06-16T17:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T18:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066929761176416664"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066929761176416664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你最喜欢哪个工具来写代码"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2026-06-19T17:03:51.000Z",
+        "id": "2066929760136261632",
+        "options": [
+          {
+            "label": "Claude Code",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "Codex",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "Google Antigravity",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "豆包",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2066929760136261632"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2066929761176416664",
+        "created_at": "2026-06-16T17:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066929761176416664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066929761176416664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你最喜欢哪个工具来写代码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 342,
+          "like_count": 8863,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 6231
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2039033038819241990",
+    "created_at": "2026-04-01T05:42:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T06:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039216900870443316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "156961481",
+          "start": 0,
+          "username": "ouchaiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039216900870443316",
+    "in_reply_to_user_id": "156961481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039211850425147647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouchaiya 能改更好，而且我也有小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T05:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039216900870443316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "156961481",
+              "start": 0,
+              "username": "ouchaiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039216900870443316",
+        "in_reply_to_user_id": "156961481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039211850425147647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouchaiya 能改更好，而且我也有小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "156961481",
+        "conversation_id": "2039033038819241990",
+        "created_at": "2026-04-01T05:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T06:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039211850425147647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039211850425147647",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039033038819241990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 你怎么不再注册一个？把旧邮箱设置邮件转发到新邮箱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 323,
+          "like_count": 7240,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 4968
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-18T12:30:43.000Z",
+        "description": "毒舌。杠精。喜欢说尖酸刻薄的话。总是忍不住想要吐槽。无恶意，纯娱乐，别太当真，开心就好。正在学习日语中。\n日本語勉強中。たまに日本語でポスト（呟き）するけど、変な日本語だったら突っ込んでね！繋がれると嬉しいです 📌",
+        "id": "156961481",
+        "location": "Tokyo, Japan",
+        "name": "アイヤ＠毒舌評論家",
+        "pinned_tweet_id": "2028783007835070613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021866135596232704/LEYZQ2zm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 1045,
+          "like_count": 1352,
+          "listed_count": 8,
+          "media_count": 166,
+          "tweet_count": 99648
+        },
+        "username": "ouchaiya",
+        "verified": true
+      }
+    ]
+  }
+}

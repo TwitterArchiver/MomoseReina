@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2018352775714013274",
+    "created_at": "2026-02-02T17:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T18:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018370995204370775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488080791125237760",
+          "start": 0,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018370995204370775",
+    "in_reply_to_user_id": "1488080791125237760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018352775714013274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MengXi969 又在恰esa饭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 560,
+        "media_key": "3_2018352771762917376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKhJvhakAAgpIx.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2018352775714013274",
+        "created_at": "2026-02-02T17:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T18:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018370995204370775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488080791125237760",
+              "start": 0,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018370995204370775",
+        "in_reply_to_user_id": "1488080791125237760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018352775714013274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MengXi969 又在恰esa饭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018352771762917376"
+          ]
+        },
+        "author_id": "1488080791125237760",
+        "conversation_id": "2018352775714013274",
+        "created_at": "2026-02-02T15:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T16:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018352775714013274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ESA developer promotion: limited-time event,Edge Security Acceleration:You can use the ESA Entrance plan and unlock acceleration for the Chinese mainland by posting. You can also post every week to receive multiple Pro plans.",
+              "display_url": "alibabacloud.com/help/doc-detai…",
+              "end": 147,
+              "expanded_url": "https://www.alibabacloud.com/help/doc-detail/2936616.html",
+              "images": [
+                {
+                  "height": 1362,
+                  "url": "https://pbs.twimg.com/news_img/2017131528955056136/Bq8dMENH?format=jpg&name=orig",
+                  "width": 2184
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2017131528955056136/Bq8dMENH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 124,
+              "status": 200,
+              "title": "ESA developer promotion: limited-time event - Edge Security Acceleration - Alibaba Cloud Documentation Center",
+              "unwound_url": "https://www.alibabacloud.com/help/en/edge-security-acceleration/esa/product-overview/how-to-get-esa-for-free",
+              "url": "https://t.co/tmDtnYsrIU"
+            },
+            {
+              "display_url": "pic.x.com/l98E5rXFuP",
+              "end": 171,
+              "expanded_url": "https://x.com/MengXi969/status/2018352775714013274/photo/1",
+              "media_key": "3_2018352771762917376",
+              "start": 148,
+              "url": "https://t.co/l98E5rXFuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018352775714013274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "alibabacloud.com/help/doc-detai…",
+                "end": 147,
+                "expanded_url": "https://www.alibabacloud.com/help/doc-detail/2936616.html",
+                "start": 124,
+                "url": "https://t.co/KCEyaTplLz"
+              },
+              {
+                "display_url": "discord.gg/2XT2GB6KA6",
+                "end": 189,
+                "expanded_url": "https://discord.gg/2XT2GB6KA6",
+                "start": 166,
+                "url": "https://t.co/l4TZQ3pMup"
+              }
+            ]
+          },
+          "text": "阿里云的ESA，1个产品可以同时提供 CDN + WAF + DDoS防护 + 边缘函数 + DNS 的多种产品功能。\n现在他们的国际站推出了ESA免费版，既不限量，也不需要抢邀请码，可以随时免费接入，感兴趣的可以抓紧时间试试！\n免费版领取地址: https://t.co/KCEyaTplLz\n加入ESA的Discord参与讨论：https://t.co/l4TZQ3pMup"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿里云的ESA，1个产品可以同时提供 CDN + WAF + DDoS防护 + 边缘函数 + DNS 的多种产品功能。\n现在他们的国际站推出了ESA免费版，既不限量，也不需要抢邀请码，可以随时免费接入，感兴趣的可以抓紧时间试试！\n免费版领取地址: https://t.co/tmDtnYsrIU https://t.co/l98E5rXFuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 299,
+          "like_count": 5474,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 4025
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvfMd"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 2844,
+          "like_count": 79346,
+          "listed_count": 6,
+          "media_count": 914,
+          "tweet_count": 5531
+        },
+        "url": "https://t.co/TIHBlJvfMd",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1995389753592877060",
+    "created_at": "2025-12-03T14:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996224057260589477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639983809226735616",
+          "start": 0,
+          "username": "jianxincai0227"
+        },
+        {
+          "end": 27,
+          "id": "1555140316629307393",
+          "start": 16,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996224057260589477",
+    "in_reply_to_user_id": "1639983809226735616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995496407411916821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianxincai0227 @MTNEKO8964 港版唯一的实体卡槽就是用来插+86的🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1995389753592877060",
+        "created_at": "2025-12-03T14:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996224057260589477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639983809226735616",
+              "start": 0,
+              "username": "jianxincai0227"
+            },
+            {
+              "end": 27,
+              "id": "1555140316629307393",
+              "start": 16,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996224057260589477",
+        "in_reply_to_user_id": "1639983809226735616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995496407411916821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxincai0227 @MTNEKO8964 港版唯一的实体卡槽就是用来插+86的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639983809226735616",
+        "conversation_id": "1995389753592877060",
+        "created_at": "2025-12-01T14:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995496407411916821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1555140316629307393",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995496407411916821",
+        "in_reply_to_user_id": "1555140316629307393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995389753592877060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 国内卡绑不了eSIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996201879488045056/nMvJb3Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 266,
+          "like_count": 2679,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T13:33:23.000Z",
+        "description": "因为我塔学水平高",
+        "id": "1639983809226735616",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "稻子.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823990935786831872/cA_J30Cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 116,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 146
+        },
+        "username": "jianxincai0227",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T10:35:41.000Z",
+        "description": "MtX🍥｜hrt：25.2.11｜泛性恋 / 社恐 / 抑郁焦虑 / 社会化程度极低的阿斯｜面条的tg频道https://t.co/lTJOZv0FHG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 76,
+                "expanded_url": "https://t.me/MTNEKO123456",
+                "start": 53,
+                "url": "https://t.co/lTJOZv0FHG"
+              }
+            ]
+          }
+        },
+        "id": "1555140316629307393",
+        "name": "面条喵🍥🐱🐈（重新开始",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993999956198477824/GL9pGhbD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 44,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

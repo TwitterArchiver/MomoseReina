@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1991838800398713191",
+    "created_at": "2025-11-21T14:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991881857764577371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632336255823519744",
+          "start": 0,
+          "username": "y2Kstar___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991881857764577371",
+    "in_reply_to_user_id": "1632336255823519744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991838800398713191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2Kstar___ 是好玩的😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1991838792081412096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Ru1APbEAAU0ym.jpg",
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1991838800398713191",
+        "created_at": "2025-11-21T14:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991881857764577371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "y2Kstar___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991881857764577371",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991838800398713191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2Kstar___ 是好玩的😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991838792081412096"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "1991838800398713191",
+        "created_at": "2025-11-21T11:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991838800398713191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjElIsq4fv",
+              "end": 37,
+              "expanded_url": "https://x.com/y2Kstar___/status/1991838800398713191/photo/1",
+              "media_key": "3_1991838792081412096",
+              "start": 14,
+              "url": "https://t.co/NjElIsq4fv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991838800398713191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "star ： 舞萌是什么🤔 https://t.co/NjElIsq4fv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 246,
+          "like_count": 2148,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1661
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "y2Kstar___",
+        "id": "1632336255823519744",
+        "name": "y2Kstar",
+        "pinned_tweet_id": "1991502915790598432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989689827760246785/7WVmll8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 325,
+          "like_count": 134,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 77
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

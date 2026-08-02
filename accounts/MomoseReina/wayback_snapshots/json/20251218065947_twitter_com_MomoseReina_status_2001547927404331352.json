@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2001501044820566029",
+    "created_at": "2025-12-18T06:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T07:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001547927404331352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1094132353058783232",
+          "start": 0,
+          "username": "ONCBBLHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001547927404331352",
+    "in_reply_to_user_id": "1094132353058783232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001501044820566029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ONCBBLHH xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_2001501037103058947",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bClr4akAMoeHv.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2001501044820566029",
+        "created_at": "2025-12-18T06:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T07:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001547927404331352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1094132353058783232",
+              "start": 0,
+              "username": "ONCBBLHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001547927404331352",
+        "in_reply_to_user_id": "1094132353058783232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001501044820566029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ONCBBLHH xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001501037103058947"
+          ]
+        },
+        "author_id": "1094132353058783232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001501044820566029",
+        "created_at": "2025-12-18T03:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001501044820566029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fRAqhEm7P",
+              "end": 63,
+              "expanded_url": "https://x.com/ONCBBLHH/status/2001501044820566029/photo/1",
+              "media_key": "3_2001501037103058947",
+              "start": 40,
+              "url": "https://t.co/7fRAqhEm7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001501044820566029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3776,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老爸知道我喜欢初音未来于是悄悄给我买了两张初音未来的公交卡，还充了300…🥺🥺 https://t.co/7fRAqhEm7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 274,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2537
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-09T07:14:15.000Z",
+        "description": "坐标上海，大四在读，数学专业，是个超i的enfj，欢迎扩列，纯碎碎念里推：@LKZYYIEE，ngl：https://t.co/DGpkqyT28s，欢迎来提问！♬(ノ゜∇゜)ノ♩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "LKZYYIEE"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hlbbc",
+                "end": 74,
+                "expanded_url": "https://ngl.link/hlbbc",
+                "start": 51,
+                "url": "https://t.co/DGpkqyT28s"
+              }
+            ]
+          }
+        },
+        "id": "1094132353058783232",
+        "location": "Shanghai",
+        "name": "HHLBBCNO",
+        "pinned_tweet_id": "1874372558738575847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778997715495755776/VlWPkcq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 1170,
+          "like_count": 62254,
+          "listed_count": 11,
+          "media_count": 1998,
+          "tweet_count": 10727
+        },
+        "username": "ONCBBLHH",
+        "verified": false
+      }
+    ]
+  }
+}

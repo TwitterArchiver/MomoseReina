@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1978871345489547453",
+    "created_at": "2025-10-17T15:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979201090324431329"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "恭喜",
+          "probability": 0.468,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975191075502567424",
+          "start": 0,
+          "username": "fisa_ling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979201090324431329",
+    "in_reply_to_user_id": "1975191075502567424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978871345489547453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fisa_ling 恭喜awa~~~"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1978871340795891713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Zc__xXEAE9Deu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1978871345489547453",
+        "created_at": "2025-10-17T15:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979201090324431329"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "恭喜",
+              "probability": 0.468,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975191075502567424",
+              "start": 0,
+              "username": "fisa_ling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979201090324431329",
+        "in_reply_to_user_id": "1975191075502567424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978871345489547453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fisa_ling 恭喜awa~~~"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978871340795891713"
+          ]
+        },
+        "author_id": "1975191075502567424",
+        "conversation_id": "1978871345489547453",
+        "created_at": "2025-10-16T17:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T18:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978871345489547453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yadXWjsGuF",
+              "end": 36,
+              "expanded_url": "https://x.com/fisa_ling/status/1978871345489547453/photo/1",
+              "media_key": "3_1978871340795891713",
+              "start": 13,
+              "url": "https://t.co/yadXWjsGuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978871345489547453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 994,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "50fo恭喜🥳感谢支持喵 https://t.co/yadXWjsGuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦(会查成分哦awa)~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 174,
+          "like_count": 929,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T13:27:13.000Z",
+        "description": "喜欢初音未来and喵喵叫\n大号（日常）:@fisa_wo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "fisa_wo"
+              }
+            ]
+          }
+        },
+        "id": "1975191075502567424",
+        "name": "Fisa",
+        "pinned_tweet_id": "1975194390504308824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977067464896004097/Pyngh89n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 83,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 85
+        },
+        "username": "fisa_ling",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1989156300614459710",
+    "created_at": "2025-11-14T12:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989309572465446989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750929042008907781",
+          "start": 0,
+          "username": "Kawakaze_Prism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989309572465446989",
+    "in_reply_to_user_id": "1750929042008907781",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989156300614459710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kawakaze_Prism xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1989156298500554752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rnHU7bQAAdV7l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1989156300614459710",
+        "created_at": "2025-11-14T12:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989309572465446989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750929042008907781",
+              "start": 0,
+              "username": "Kawakaze_Prism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989309572465446989",
+        "in_reply_to_user_id": "1750929042008907781",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989156300614459710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kawakaze_Prism xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989156298500554752"
+          ]
+        },
+        "author_id": "1750929042008907781",
+        "conversation_id": "1989156300614459710",
+        "created_at": "2025-11-14T02:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T03:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989156300614459710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "舞萌"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Uu7r6uiJf",
+              "end": 44,
+              "expanded_url": "https://x.com/Kawakaze_Prism/status/1989156300614459710/photo/1",
+              "media_key": "3_1989156298500554752",
+              "start": 21,
+              "url": "https://t.co/7Uu7r6uiJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989156300614459710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4894,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在墙内发舞萌视频就这样\n#舞萌 #男娘 https://t.co/7Uu7r6uiJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 233,
+          "like_count": 1847,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T17:09:58.000Z",
+        "description": "这里江风Kawakaze喵 ‖ 男生不是mtf ‖ 166/56 ‖ 身体健康，无精神疾病史 ‖ 水色系重度依赖 ‖ 🚪20好友位，赞赏码在置顶 ‖ 喜欢可爱宝宝 ‖ 想玩绳",
+        "id": "1750929042008907781",
+        "name": "Kawakaze",
+        "pinned_tweet_id": "1975938051139637307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956226257684926464/TdwwvXBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 134,
+          "like_count": 83,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 562
+        },
+        "username": "Kawakaze_Prism",
+        "verified": false
+      }
+    ]
+  }
+}

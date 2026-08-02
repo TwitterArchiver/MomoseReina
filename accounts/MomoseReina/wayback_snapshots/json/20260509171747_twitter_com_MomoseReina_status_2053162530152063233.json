@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2053070152254861321",
+    "created_at": "2026-05-09T17:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053162530152063233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1637070779975352320",
+          "start": 0,
+          "username": "arkuy99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053162530152063233",
+    "in_reply_to_user_id": "1637070779975352320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053070152254861321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arkuy99 大妈和瓦工是让你当家宽中转的，直接拿来落地除非跑量环境否则不适合"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2053070152254861321",
+        "created_at": "2026-05-09T17:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053162530152063233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1637070779975352320",
+              "start": 0,
+              "username": "arkuy99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053162530152063233",
+        "in_reply_to_user_id": "1637070779975352320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053070152254861321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arkuy99 大妈和瓦工是让你当家宽中转的，直接拿来落地除非跑量环境否则不适合"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637070779975352320",
+        "conversation_id": "2053070152254861321",
+        "created_at": "2026-05-09T11:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053070152254861321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053070152254861321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3655,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DMIT 的 IP 其实挺垃圾的 每次我用 DMIT 的 ip 刷推 \n\n全他妈刷到的中推营销号  用干净的美国 IP 很少出现！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 336,
+          "like_count": 8058,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 5539
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-18T12:37:54.000Z",
+        "description": "building  https://t.co/m270kq0Knj  a native iOS app for Claude Code / ex @TencentGames / ex @TempleRun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "TencentGames"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "TempleRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 33,
+                "expanded_url": "https://seedex.app",
+                "start": 10,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seedex.app",
+                "end": 23,
+                "expanded_url": "https://seedex.app",
+                "start": 0,
+                "url": "https://t.co/m270kq0Knj"
+              }
+            ]
+          }
+        },
+        "id": "1637070779975352320",
+        "location": "距离你 500 m",
+        "name": "Go学长",
+        "pinned_tweet_id": "2049086152318263359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929775085520670720/nyG5k8ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4877,
+          "following_count": 965,
+          "like_count": 5042,
+          "listed_count": 27,
+          "media_count": 515,
+          "tweet_count": 7293
+        },
+        "url": "https://t.co/m270kq0Knj",
+        "username": "arkuy99",
+        "verified": true
+      }
+    ]
+  }
+}

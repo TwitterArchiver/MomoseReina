@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1986793315807998094",
+    "created_at": "2025-11-07T14:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986800100610584702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1685499489493323776",
+          "start": 0,
+          "username": "GuiMengNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986800100610584702",
+    "in_reply_to_user_id": "1685499489493323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986793315807998094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiMengNya 这不对，这种得招打舞萌的awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1986793315807998094",
+        "created_at": "2025-11-07T14:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986800100610584702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1685499489493323776",
+              "start": 0,
+              "username": "GuiMengNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986800100610584702",
+        "in_reply_to_user_id": "1685499489493323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986793315807998094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiMengNya 这不对，这种得招打舞萌的awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685499489493323776",
+        "conversation_id": "1986793315807998094",
+        "created_at": "2025-11-07T13:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986793315807998094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986793315807998094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有偿急需两名嵌入式开发工程师！！！\n要求如下⚠⚠⚠\n✅ 熟悉 STM32、ESP32、NXP 等主流 MCU 平台优先\n✅ 熟练掌握 FreeRTOS、RT-Thread 等实时操作系统，有任务调度与内存管理经验优先\n✅ 熟练使用 Keil、IAR、VS Code + CMake + GDB 等开发环境优先\n✅ 精通 HAL、LL 库底层驱动开发，擅长调试 UART、SPI、I2C、CAN 总线优先\n✅ 用汇编写过 Bootloader 的给双倍工资\n工作条件、工资待遇及工作内容：\n工作条件： 当天不需要带电脑\n工资待遇： 800元/人\n工作内容： 有8000袋水泥要卸车"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有偿急需两名嵌入式开发工程师！！！\n要求如下⚠⚠⚠\n✅ 熟悉 STM32、ESP32、NXP 等主流 MCU 平台优先\n✅ 熟练掌握 FreeRTOS、RT-Thread 等实时操作系统，有任务调度与内存管理经验优先\n✅ 熟练使用 Keil、IAR、VS Code + CMake + GDB 等开发环境优先\n✅ 精通 HAL、LL 库底层驱动开发，擅长调试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 232,
+          "like_count": 1776,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-30T03:56:30.000Z",
+        "description": "「查无此人」| /音游|机车|旅游|努力成为全栈 / 常年浙江省内随机tp/ 想要有现实生活中的朋友 / 真实年龄是18 岁",
+        "id": "1685499489493323776",
+        "location": "就在你的心里(｡･ω･｡)ﾉ♡",
+        "name": "归梦",
+        "pinned_tweet_id": "1977091161212043555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918058755155214339/2xDmLUwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1422,
+          "following_count": 316,
+          "like_count": 5863,
+          "listed_count": 7,
+          "media_count": 171,
+          "tweet_count": 1804
+        },
+        "username": "GuiMengNya",
+        "verified": true
+      }
+    ]
+  }
+}

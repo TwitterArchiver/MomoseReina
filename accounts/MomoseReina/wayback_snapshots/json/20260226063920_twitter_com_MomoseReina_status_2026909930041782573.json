@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2026631177877205169",
+    "created_at": "2026-02-26T06:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026909930041782573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672585826633658372",
+          "start": 0,
+          "username": "HaisenMinoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026909930041782573",
+    "in_reply_to_user_id": "1672585826633658372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026890195774353814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaisenMinoki 不会打🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2026631177877205169",
+        "created_at": "2026-02-26T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026909930041782573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672585826633658372",
+              "start": 0,
+              "username": "HaisenMinoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026909930041782573",
+        "in_reply_to_user_id": "1672585826633658372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026890195774353814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaisenMinoki 不会打🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672585826633658372",
+        "conversation_id": "2026631177877205169",
+        "created_at": "2026-02-26T05:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026890195774353814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026890195774353814",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026631177877205169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina teach me"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 317,
+          "like_count": 6399,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 4483
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-24T12:42:45.000Z",
+        "description": "喜欢初音未来，大好きミク",
+        "id": "1672585826633658372",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "裴川巳泷",
+        "pinned_tweet_id": "1924093217827688817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962608965470298113/cFrfr_J7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 615,
+          "like_count": 1452,
+          "listed_count": 3,
+          "media_count": 263,
+          "tweet_count": 3363
+        },
+        "username": "HaisenMinoki",
+        "verified": false
+      }
+    ]
+  }
+}

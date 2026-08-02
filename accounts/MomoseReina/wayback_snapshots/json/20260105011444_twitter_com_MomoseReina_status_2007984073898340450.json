@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2007875142224076929",
+    "created_at": "2026-01-05T01:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T02:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007984073898340450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        },
+        {
+          "end": 21,
+          "id": "1817959860249706497",
+          "start": 9,
+          "username": "jnchn115125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007984073898340450",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007875212419940555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 @jnchn115125 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2007875142224076929",
+        "created_at": "2026-01-05T01:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T02:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007984073898340450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 21,
+              "id": "1817959860249706497",
+              "start": 9,
+              "username": "jnchn115125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007984073898340450",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007875212419940555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 @jnchn115125 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678976564662273",
+        "conversation_id": "2007875142224076929",
+        "created_at": "2026-01-04T18:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007875212419940555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817959860249706497",
+              "start": 0,
+              "username": "jnchn115125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007875212419940555",
+        "in_reply_to_user_id": "1817959860249706497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007875142224076929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnchn115125 呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 291,
+          "like_count": 4247,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114777,
+          "following_count": 1014,
+          "like_count": 49631,
+          "listed_count": 258,
+          "media_count": 18350,
+          "tweet_count": 27611
+        },
+        "username": "hsn8086",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T16:26:38.000Z",
+        "description": "特此声明：此账号在网络上所有的攻击性和冒犯性语言文字均非本人发布，是我家猫发的，它四个爪子，打字比我快 \n邪恶二号机：@VanillaArana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "VanillaArana"
+              }
+            ]
+          }
+        },
+        "id": "1817959860249706497",
+        "location": "赫尔·沙雷姆兹罗特",
+        "name": "Ayanami",
+        "pinned_tweet_id": "1920898780892704824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007028020255862784/lbmywfqv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 625,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 2222
+        },
+        "username": "jnchn115125",
+        "verified": false
+      }
+    ]
+  }
+}

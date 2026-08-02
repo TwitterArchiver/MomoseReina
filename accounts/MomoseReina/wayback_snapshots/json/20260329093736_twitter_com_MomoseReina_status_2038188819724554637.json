@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2038140837268541610",
+    "created_at": "2026-03-29T09:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038188819724554637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1467505552682995719",
+          "start": 0,
+          "username": "suMtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038188819724554637",
+    "in_reply_to_user_id": "1467505552682995719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038140837268541610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suMtF 为啥不直接在学校办个走读，就能大摇大摆回家了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038140823108501504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjuR7OawAAw7wa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038140823116914688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEjuR7QbIAAwWYX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2038140837268541610",
+        "created_at": "2026-03-29T09:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038188819724554637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1467505552682995719",
+              "start": 0,
+              "username": "suMtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038188819724554637",
+        "in_reply_to_user_id": "1467505552682995719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038140837268541610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suMtF 为啥不直接在学校办个走读，就能大摇大摆回家了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038140823108501504",
+            "3_2038140823116914688"
+          ]
+        },
+        "author_id": "1467505552682995719",
+        "conversation_id": "2038140837268541610",
+        "created_at": "2026-03-29T06:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038140837268541610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yj1jAwSehw",
+              "end": 99,
+              "expanded_url": "https://x.com/suMtF/status/2038140837268541610/photo/1",
+              "media_key": "3_2038140823108501504",
+              "start": 76,
+              "url": "https://t.co/Yj1jAwSehw"
+            },
+            {
+              "display_url": "pic.x.com/Yj1jAwSehw",
+              "end": 99,
+              "expanded_url": "https://x.com/suMtF/status/2038140837268541610/photo/1",
+              "media_key": "3_2038140823116914688",
+              "start": 76,
+              "url": "https://t.co/Yj1jAwSehw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038140837268541610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5915,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个学期打算从宿舍逃出来了，目前在学校外面租了一间房子，一室一厅一厨一卫一个人住还是挺爽的awa\n不过目前还是偷偷住，每天晚上要回寝室扫个脸避免被发现 https://t.co/Yj1jAwSehw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005660761834856449/TnAJdfr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 324,
+          "like_count": 7196,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 4937
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-05T14:46:20.000Z",
+        "description": "欢迎互fo或者找咱聊聊 咱很可爱哒 | 今年19，在校大学生 ，不含糖MtF | 身高只有160（天生药娘圣体qwq | 平时会做点小东西比如代码 | 计算机方面的问题也可以一起跟咱讨论 | 应急联系方式+44 7933802231 纸飞机的手机号同号（是手机号！）",
+        "id": "1467505552682995719",
+        "location": "CN-HuNan",
+        "name": "susu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010974389953839105/tBkxKWcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 549,
+          "like_count": 2287,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 343
+        },
+        "username": "suMtF",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992217152091553793"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "1992217169929892232",
+    "created_at": "2025-11-22T13:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T14:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992217169929892232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBnCWt79Bv",
+          "end": 27,
+          "expanded_url": "https://x.com/MomoseReina/status/1992217169929892232/photo/1",
+          "media_key": "3_1992217152091553793",
+          "start": 4,
+          "url": "https://t.co/kBnCWt79Bv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992217169929892232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赚麻了 https://t.co/kBnCWt79Bv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_1992217152091553793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6XG8dHbgAEI7-Z.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992217152091553793"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "1992217169929892232",
+        "created_at": "2025-11-22T13:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T14:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992217169929892232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBnCWt79Bv",
+              "end": 27,
+              "expanded_url": "https://x.com/MomoseReina/status/1992217169929892232/photo/1",
+              "media_key": "3_1992217152091553793",
+              "start": 4,
+              "url": "https://t.co/kBnCWt79Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992217169929892232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赚麻了 https://t.co/kBnCWt79Bv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 249,
+          "like_count": 2206,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

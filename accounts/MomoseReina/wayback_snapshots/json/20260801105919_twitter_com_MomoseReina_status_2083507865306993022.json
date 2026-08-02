@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2083341103147958490",
+    "created_at": "2026-08-01T10:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083507865306993022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "881844856770904065",
+          "start": 0,
+          "username": "yyl04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083507865306993022",
+    "in_reply_to_user_id": "881844856770904065",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083366942581354612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyl04 陪我打cs😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2083341103147958490",
+        "created_at": "2026-08-01T10:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083507865306993022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "881844856770904065",
+              "start": 0,
+              "username": "yyl04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083507865306993022",
+        "in_reply_to_user_id": "881844856770904065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083366942581354612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl04 陪我打cs😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881844856770904065",
+        "conversation_id": "2083341103147958490",
+        "created_at": "2026-08-01T01:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083366942581354612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083366942581354612",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083341103147958490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 泻药正在打cs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 339,
+          "like_count": 9653,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 6865
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-03T11:59:32.000Z",
+        "description": "xp展示，🇨🇳🏳️‍🌈⚤中文/En，男孩子20↑，原绝粥铁光遇，霉粉🧡✨，喜欢一切可爱的事物！最喜欢的人、BFF @Stapx_Happy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Stapx_Happy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yyl04.…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/yyl04.stapxs.cn",
+                "start": 0,
+                "url": "https://t.co/waBzyoON1L"
+              }
+            ]
+          }
+        },
+        "id": "881844856770904065",
+        "location": "云南 昆明",
+        "name": "林霂凌yyl",
+        "pinned_tweet_id": "1705263229658861670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033827472639463424/gdO-hJm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 4320,
+          "like_count": 174911,
+          "listed_count": 4,
+          "media_count": 1099,
+          "tweet_count": 17428
+        },
+        "url": "https://t.co/waBzyoON1L",
+        "username": "yyl04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1976304734597439708",
+    "created_at": "2025-10-10T08:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T09:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976568771881185749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1476448742622449664",
+          "start": 0,
+          "username": "l93374231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976568771881185749",
+    "in_reply_to_user_id": "1476448742622449664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976304734597439708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l93374231 盐巴可爱捏(⁠≧⁠▽⁠≦⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1976304728423411712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20-rfmaMAAh42c.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1976304734597439708",
+        "created_at": "2025-10-10T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976568771881185749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1476448742622449664",
+              "start": 0,
+              "username": "l93374231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976568771881185749",
+        "in_reply_to_user_id": "1476448742622449664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976304734597439708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l93374231 盐巴可爱捏(⁠≧⁠▽⁠≦⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976304728423411712"
+          ]
+        },
+        "author_id": "1476448742622449664",
+        "conversation_id": "1976304734597439708",
+        "created_at": "2025-10-09T15:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976304734597439708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Vu9F4PVyk",
+              "end": 29,
+              "expanded_url": "https://x.com/l93374231/status/1976304734597439708/photo/1",
+              "media_key": "3_1976304728423411712",
+              "start": 6,
+              "url": "https://t.co/0Vu9F4PVyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976304734597439708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大盐巴 🥰 https://t.co/0Vu9F4PVyk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友！互fo也欢迎哦~ | 友跨不含糖(随时翻车) | 音游吃 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 100,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T07:03:30.000Z",
+        "description": "Beijing 友跨🍥热爱自由，喜欢冒险和尝试新鲜事物，记录生活，求关注～欢迎交流（生活/学术皆可），请礼貌温柔对待🥰 认出我的可以私信但请不要传播🥺",
+        "id": "1476448742622449664",
+        "location": "Mars",
+        "name": "等风来🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897693514785583104/-jI46upz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1046,
+          "like_count": 19359,
+          "listed_count": 5,
+          "media_count": 660,
+          "tweet_count": 2379
+        },
+        "username": "l93374231",
+        "verified": false
+      }
+    ]
+  }
+}

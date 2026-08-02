@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974738750380052634",
+    "created_at": "2025-10-05T15:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974858945589399990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688101533198475264",
+          "start": 0,
+          "username": "Distorted_ming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974858945589399990",
+    "in_reply_to_user_id": "1688101533198475264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974858653678330224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Distorted_ming 嗯嗯awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974738750380052634",
+        "created_at": "2025-10-05T15:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974858945589399990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688101533198475264",
+              "start": 0,
+              "username": "Distorted_ming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974858945589399990",
+        "in_reply_to_user_id": "1688101533198475264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974858653678330224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Distorted_ming 嗯嗯awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688101533198475264",
+        "conversation_id": "1974738750380052634",
+        "created_at": "2025-10-05T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974858653678330224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974858653678330224",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974853680659915050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 也可以的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 38,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:16:08.000Z",
+        "description": "千世可爱捏💙💙💙 | 喜欢听HDM | TANO*C👊👊👊 | Kobaryo爽💜💜💜 | 音游人 | 时不时发神经的理科生 | 可以叫我小千 | 想要变可爱 | 心理可能是女 | 疑似双性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "guthib.com",
+                "end": 23,
+                "expanded_url": "http://guthib.com",
+                "start": 0,
+                "url": "https://t.co/55oeyPdTsj"
+              }
+            ]
+          }
+        },
+        "id": "1688101533198475264",
+        "name": "拧巴的命",
+        "pinned_tweet_id": "1972089445404103176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958539311487520768/nq36PK4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 835,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/55oeyPdTsj",
+        "username": "Distorted_ming",
+        "verified": false
+      }
+    ]
+  }
+}

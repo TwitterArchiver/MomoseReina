@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1974080405201646062",
+    "created_at": "2025-10-05T15:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T16:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974852447832260935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856699710981251072",
+          "start": 0,
+          "username": "Tim_Pan_5"
+        },
+        {
+          "end": 22,
+          "id": "1817821126640496640",
+          "start": 11,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974852447832260935",
+    "in_reply_to_user_id": "1856699710981251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974080405201646062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tim_Pan_5 @MTNEKO8964 哇哇哇，咱的耳朵啊QAQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60861,
+        "height": 1278,
+        "media_key": "7_1974080343188910080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1974080343188910080/pu/img/aaXLyq-zFyNTWWVY.jpg",
+        "public_metrics": {
+          "view_count": 2883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974080343188910080/pu/vid/avc1/320x686/sjjzHlzIBHWeup0u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974080343188910080/pu/vid/avc1/480x1028/Fj9H67pVKZvGoBwd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1974080343188910080/pu/vid/avc1/596x1278/7JDGLBqqbbm_VHE0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1974080343188910080/pu/pl/0eFvwVmR0zgHwcuy.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1974080405201646062",
+        "created_at": "2025-10-05T15:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974852447832260935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856699710981251072",
+              "start": 0,
+              "username": "Tim_Pan_5"
+            },
+            {
+              "end": 22,
+              "id": "1817821126640496640",
+              "start": 11,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974852447832260935",
+        "in_reply_to_user_id": "1856699710981251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974080405201646062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tim_Pan_5 @MTNEKO8964 哇哇哇，咱的耳朵啊QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1974080343188910080"
+          ]
+        },
+        "author_id": "1856699710981251072",
+        "conversation_id": "1974080405201646062",
+        "created_at": "2025-10-03T11:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T12:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974080405201646062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1817821126640496640",
+              "start": 13,
+              "username": "MTNEKO8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Rs8R4nOY9",
+              "end": 48,
+              "expanded_url": "https://x.com/Tim_Pan_5/status/1974080405201646062/video/1",
+              "media_key": "7_1974080343188910080",
+              "start": 25,
+              "url": "https://t.co/4Rs8R4nOY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974080405201646062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 6689,
+          "like_count": 90,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不是很想打这个人电话啊。\n@MTNEKO8964 https://t.co/4Rs8R4nOY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "不知道怎么写...先逛一逛吧",
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973633149646282755/76agY16f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 37,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 67
+        },
+        "username": "MomoseReina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:04:49.000Z",
+        "description": "Danke Seb ｜（我知道你在期待什么，但是我不承认）| 最爱最爱的饱饱：@bushi_8964｜私养の猫：@MTNEKO8964｜有钱入😡：@Nightcord25o | 姐姐 @Moningmeng ｜高一生｜居住长沙 | 热爱是唯一的理由和答案",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "bushi_8964"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "MTNEKO8964"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Nightcord25o"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "Moningmeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "checo.top",
+                "end": 23,
+                "expanded_url": "http://checo.top",
+                "start": 0,
+                "url": "https://t.co/hxccVFlwV5"
+              }
+            ]
+          }
+        },
+        "id": "1856699710981251072",
+        "location": "Monaco",
+        "name": "Sebastian",
+        "pinned_tweet_id": "1962165553478721988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958933778044510208/FJ0RIsDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 236,
+          "like_count": 1206,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/hxccVFlwV5",
+        "username": "Tim_Pan_5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫｜面条的tg频道https://t.co/6TaiTWHzEF｜我的tg@MTNEKO123｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "sanmiguelnoodle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123456",
+                "end": 101,
+                "expanded_url": "http://t.me/MTNEKO123456",
+                "start": 78,
+                "url": "https://t.co/6TaiTWHzEF"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 2304,
+          "like_count": 38014,
+          "listed_count": 6,
+          "media_count": 514,
+          "tweet_count": 5300
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

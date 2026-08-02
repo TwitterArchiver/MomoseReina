@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "1998703313605234733",
+    "created_at": "2025-12-11T08:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999037124377796623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 26,
+          "id": "1869031385425743872",
+          "start": 16,
+          "username": "AkaHenrry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999037124377796623",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998954064051319205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @AkaHenrry 不！手机考虑的是隐私性，电脑考虑的是可用性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "1998703313605234733",
+        "created_at": "2025-12-11T08:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999037124377796623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 26,
+              "id": "1869031385425743872",
+              "start": 16,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999037124377796623",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998954064051319205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @AkaHenrry 不！手机考虑的是隐私性，电脑考虑的是可用性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "1998703313605234733",
+        "created_at": "2025-12-11T03:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998954064051319205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869031385425743872",
+              "start": 0,
+              "username": "AkaHenrry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998954064051319205",
+        "in_reply_to_user_id": "1869031385425743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998952821774012691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaHenrry 手机真的是是能用就行，电脑可不能疏忽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 不加墙内哦~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998063258050478080/ZKmPNxWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 269,
+          "like_count": 3071,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "et omnia vanitas｜アズサ推し！｜中文/English/日本語(下手)｜「止まない雨はなく、明けない夜はない。」｜逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NineteenYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "1898218103731048603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998553360207925248/RInTmQ8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 1179,
+          "like_count": 34938,
+          "listed_count": 4,
+          "media_count": 1273,
+          "tweet_count": 20668
+        },
+        "username": "JyushitiYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T14:47:13.000Z",
+        "description": "中文/日本語（勉強ing..）/EN ｜BI头指定二区卡局qeg | code｜同好互fo｜working together for better tomorrow!｜不要键政，这是日常推｜ 系二刺螈，很好说话。希望和大家好好相处(๑•ᴗ•๑)♡\n小账：@wi98114\n 大笨猪：@rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "wi98114"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akahenrry",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akahenrry",
+                "start": 0,
+                "url": "https://t.co/MO3Hag55s4"
+              }
+            ]
+          }
+        },
+        "id": "1869031385425743872",
+        "location": "Koto-ku, Tokyo",
+        "name": "希文｜しうん",
+        "pinned_tweet_id": "1877649170246279307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882667906129141761/-7Ox4Oz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 257,
+          "like_count": 4821,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/MO3Hag55s4",
+        "username": "AkaHenrry",
+        "verified": false
+      }
+    ]
+  }
+}

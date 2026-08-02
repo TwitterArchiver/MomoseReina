@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2046303231702426024",
+    "created_at": "2026-04-22T02:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046782285157105676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874680837322706945",
+          "start": 0,
+          "username": "NineteenYizuka"
+        },
+        {
+          "end": 29,
+          "id": "1815097256112201728",
+          "start": 16,
+          "username": "Sora06222206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046782285157105676",
+    "in_reply_to_user_id": "1874680837322706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046590230111912331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NineteenYizuka @Sora06222206 两年前就退游了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046590230111912331].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046590230111912331",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046590230111912331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2046303231702426024",
+        "created_at": "2026-04-22T02:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046782285157105676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874680837322706945",
+              "start": 0,
+              "username": "NineteenYizuka"
+            },
+            {
+              "end": 29,
+              "id": "1815097256112201728",
+              "start": 16,
+              "username": "Sora06222206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046782285157105676",
+        "in_reply_to_user_id": "1874680837322706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046590230111912331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NineteenYizuka @Sora06222206 两年前就退游了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 332,
+          "like_count": 7738,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 5296
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-02T04:55:43.000Z",
+        "description": "これは@JyushitiYizukaの脱出ポッド｜查成分后放行，只fo熟悉的人｜本账号作息与主账分开｜会存放一些主帐号不想发的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1874680837322706945",
+        "location": "距离你17m",
+        "name": "JYUKYU拾玖",
+        "pinned_tweet_id": "1987527377161982104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911010527930703872/Urwbufmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 131,
+          "like_count": 1957,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 432
+        },
+        "username": "NineteenYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T18:51:37.000Z",
+        "description": "CN JP EN OK/一般路过二次元/\n心智小学生水准的大学生😗/在这里大概发一些不想现实认识的人看到的生活碎碎念////\n小帐  @Sora15225",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Sora15225"
+              }
+            ]
+          }
+        },
+        "id": "1815097256112201728",
+        "location": "广州",
+        "name": "是悠空喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043952861361410048/oxFy6asP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 707,
+          "like_count": 37835,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 4157
+        },
+        "username": "Sora06222206",
+        "verified": false
+      }
+    ]
+  }
+}
