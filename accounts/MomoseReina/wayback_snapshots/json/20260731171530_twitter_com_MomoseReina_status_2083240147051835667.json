@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2083232050413527188",
+    "created_at": "2026-07-31T17:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083240147051835667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083240147051835667",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "就是VPS网络问题，你没买优化线路机器\n中国大陆不让外国运营商进来，不接入电信联通移动多半绕地球一圈\n就算接入了大陆运营商，还得看接入线路好坏，AS4134/AS4837和AS4809/AS9929速度延迟丢包肯定不一样\n同时还得看你是什么运营商，移动基本上玩亚太舒服，联通玩美西舒服，电信不加钱没法玩（世界加钱可及\n自建的水很深，到后面你的服务器探针可能就常驻30+机器在线了（"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083232050413527188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Ak1raQ_love 就是VPS网络问题，你没买优化线路机器\n中国大陆不让外国运营商进来，不接入电信联通移动多半绕地球一圈\n就算接入了大陆运营商，还得看接入线路好坏，AS4134/AS4837和AS4809/AS9929速度延迟丢包肯定不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2083232050413527188",
+        "created_at": "2026-07-31T17:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083240147051835667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083240147051835667",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "就是VPS网络问题，你没买优化线路机器\n中国大陆不让外国运营商进来，不接入电信联通移动多半绕地球一圈\n就算接入了大陆运营商，还得看接入线路好坏，AS4134/AS4837和AS4809/AS9929速度延迟丢包肯定不一样\n同时还得看你是什么运营商，移动基本上玩亚太舒服，联通玩美西舒服，电信不加钱没法玩（世界加钱可及\n自建的水很深，到后面你的服务器探针可能就常驻30+机器在线了（"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083232050413527188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Ak1raQ_love 就是VPS网络问题，你没买优化线路机器\n中国大陆不让外国运营商进来，不接入电信联通移动多半绕地球一圈\n就算接入了大陆运营商，还得看接入线路好坏，AS4134/AS4837和AS4809/AS9929速度延迟丢包肯定不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663066129923981312",
+        "conversation_id": "2083232050413527188",
+        "created_at": "2026-07-31T16:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083232050413527188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083232050413527188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "你说中国大陆的国际网络连接咋就低人一等呢，有墙不说了，搞VPS代理还得找好一点的线路，刚弄了一个日本的VPS，reality弄半天连上速度20kb/s都给我气笑了，结果一用漫游测下速直接10mb/s，这说明问题不出在VPS网络啊，反正退款了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 340,
+          "like_count": 9646,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 6858
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "zhwevea"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8929,
+          "following_count": 1195,
+          "like_count": 207159,
+          "listed_count": 6,
+          "media_count": 1065,
+          "tweet_count": 8358
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      }
+    ]
+  }
+}
