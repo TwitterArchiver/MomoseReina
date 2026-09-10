@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2088243230383169863",
+    "created_at": "2026-08-14T16:15:30.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T17:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088298477474521195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1422409226287128581",
+          "start": 0,
+          "username": "Kase_1st_lecker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088298477474521195",
+    "in_reply_to_user_id": "1422409226287128581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088294223548469344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kase_1st_lecker 可以保存你的所有账号凭证，订阅要去网页端"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2088243230383169863",
+        "created_at": "2026-08-14T16:15:30.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088298477474521195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1422409226287128581",
+              "start": 0,
+              "username": "Kase_1st_lecker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088298477474521195",
+        "in_reply_to_user_id": "1422409226287128581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088294223548469344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kase_1st_lecker 可以保存你的所有账号凭证，订阅要去网页端"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422409226287128581",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045019101",
+              "name": "1Password"
+            }
+          }
+        ],
+        "conversation_id": "2088243230383169863",
+        "created_at": "2026-08-14T15:58:36.000Z",
+        "display_text_range": [
+          13,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088294223548469344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088294223548469344",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088243230383169863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 1password的会员有什么用哦🤔\n我记得以前使用的时候连付款的界面都没有，只是一个备忘录似的app"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2088298477474521195",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 345,
+          "like_count": 9849,
+          "listed_count": 7,
+          "media_count": 461,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-03T04:09:32.000Z",
+        "description": "独立思考，明辨是非。",
+        "id": "1422409226287128581",
+        "is_identity_verified": false,
+        "location": "Taipei City, Taiwan",
+        "most_recent_tweet_id": "2088297377031733485",
+        "name": "梦想一颗冰糖橙🍊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1422409226287128581/1785862462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079938693708779520/2JvDCkfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 351,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "Kase_1st_lecker",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

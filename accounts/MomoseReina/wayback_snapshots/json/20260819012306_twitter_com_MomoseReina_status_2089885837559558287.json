@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2089771210297286873",
+    "created_at": "2026-08-19T01:23:06.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089885837559558287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345706318703722496",
+          "start": 0,
+          "username": "OriyukiAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089885837559558287",
+    "in_reply_to_user_id": "1345706318703722496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089771210297286873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OriyukiAkari 说实话有点小贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1196,
+        "media_key": "3_2089771202403524608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBb1iUaYAAgUQs.jpg",
+        "width": 2616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2089771210297286873",
+        "created_at": "2026-08-19T01:23:06.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089885837559558287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345706318703722496",
+              "start": 0,
+              "username": "OriyukiAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089885837559558287",
+        "in_reply_to_user_id": "1345706318703722496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089771210297286873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OriyukiAkari 说实话有点小贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089771202403524608"
+          ]
+        },
+        "author_id": "1345706318703722496",
+        "conversation_id": "2089771210297286873",
+        "created_at": "2026-08-18T17:47:37.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T18:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089771210297286873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJ9eJKyaze",
+              "end": 67,
+              "expanded_url": "https://x.com/OriyukiAkari/status/2089771210297286873/photo/1",
+              "media_key": "3_2089771202403524608",
+              "start": 44,
+              "url": "https://t.co/nJ9eJKyaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089771210297286873",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089771202403524608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了人生中的第一台小鸡\n起因是今晚我手上的节点全部飘红\n出于保底的压力 索性花了$30 https://t.co/nJ9eJKyaze"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2089885837559558287",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 352,
+          "like_count": 10061,
+          "listed_count": 7,
+          "media_count": 467,
+          "tweet_count": 7175
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2021-01-03T12:20:19.000Z",
+        "description": "@KazamaHanaka｜26/2/3｜Care And Love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "KazamaHanaka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akari.fun",
+                "end": 23,
+                "expanded_url": "http://akari.fun",
+                "start": 0,
+                "url": "https://t.co/jqEL8HZFti"
+              }
+            ]
+          }
+        },
+        "id": "1345706318703722496",
+        "is_identity_verified": false,
+        "location": "P.R.China",
+        "most_recent_tweet_id": "2089771210297286873",
+        "name": "鸢",
+        "pinned_tweet_id": "2022312912094912946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345706318703722496/1756508109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018200679102459904/3kUCO6-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 107,
+          "like_count": 8304,
+          "listed_count": 6,
+          "media_count": 660,
+          "tweet_count": 3804
+        },
+        "url": "https://t.co/jqEL8HZFti",
+        "username": "OriyukiAkari",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

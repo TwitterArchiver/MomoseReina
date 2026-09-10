@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084498614928461824"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "conversation_id": "2084282273852190929",
+    "created_at": "2026-08-04T04:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084498623598076169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "FascinatingAnon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/thCDq9vIZz",
+          "end": 50,
+          "expanded_url": "https://x.com/MomoseReina/status/2084498623598076169/photo/1",
+          "media_key": "3_2084498614928461824",
+          "start": 27,
+          "url": "https://t.co/thCDq9vIZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084498623598076169",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084282273852190929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FascinatingAnon 我觉得你需要这个🤓 https://t.co/thCDq9vIZz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2084498614928461824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2gcjWa0AAOTcc.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084498614928461824"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2084282273852190929",
+        "created_at": "2026-08-04T04:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084498623598076169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "FascinatingAnon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/thCDq9vIZz",
+              "end": 50,
+              "expanded_url": "https://x.com/MomoseReina/status/2084498623598076169/photo/1",
+              "media_key": "3_2084498614928461824",
+              "start": 27,
+              "url": "https://t.co/thCDq9vIZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084498623598076169",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084282273852190929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FascinatingAnon 我觉得你需要这个🤓 https://t.co/thCDq9vIZz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822380396497313792",
+        "conversation_id": "2084282273852190929",
+        "created_at": "2026-08-03T14:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084282273852190929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084282273852190929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点想问问看招行能不能给卡片换个外观（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 342,
+          "like_count": 9686,
+          "listed_count": 5,
+          "media_count": 450,
+          "tweet_count": 6888
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "明かり | 备用账号：@Akari_Hana_25 | 裏@Minami_Hana_25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "Akari_Hana_25"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Minami_Hana_25"
+              }
+            ]
+          }
+        },
+        "id": "1822380396497313792",
+        "location": "110m",
+        "name": "Akari.",
+        "pinned_tweet_id": "2075968811602415919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150927969218560/gJ6IUZmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1015,
+          "like_count": 23252,
+          "listed_count": 3,
+          "media_count": 2456,
+          "tweet_count": 13557
+        },
+        "url": "",
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2090154182053667248",
+    "created_at": "2026-08-19T21:59:33.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090197002047152626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1583687305193172993",
+          "start": 0,
+          "username": "lmzyuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090197002047152626",
+    "in_reply_to_user_id": "1583687305193172993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090154182053667248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmzyuxi 建议远离这种朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2090154182053667248",
+        "created_at": "2026-08-19T21:59:33.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090197002047152626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1583687305193172993",
+              "start": 0,
+              "username": "lmzyuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090197002047152626",
+        "in_reply_to_user_id": "1583687305193172993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090154182053667248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmzyuxi 建议远离这种朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583687305193172993",
+        "conversation_id": "2090154182053667248",
+        "created_at": "2026-08-19T19:09:24.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T20:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090154182053667248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090154182053667248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 837,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是说一下吧，其实我挺反感一些线下的朋友，或者是群友之类的，看到我的推特号之后，天天就在群里说复制粘贴我的文案，或者是搬我的图，说我是什么推特大网黄什么的，多少有点恶心人了，我也不知道该说些什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "45_206io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2090197002047152626",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 349,
+          "like_count": 10101,
+          "listed_count": 7,
+          "media_count": 468,
+          "tweet_count": 7208
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-22T05:11:04.000Z",
+        "description": "如果你是因为QQ群认识我，然后过来关注我的，那你可以取关了，因为这里不仅没有你想看的，我还会天天转垃圾污染你的主页",
+        "id": "1583687305193172993",
+        "is_identity_verified": false,
+        "location": "回收站♻️",
+        "most_recent_tweet_id": "2090163114092503530",
+        "name": "雨曦",
+        "pinned_tweet_id": "2076590936788754943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583687305193172993/1787170929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087021237470179328/SIWJ3gwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13422,
+          "following_count": 419,
+          "like_count": 2532,
+          "listed_count": 53,
+          "media_count": 76,
+          "tweet_count": 3432
+        },
+        "url": "",
+        "username": "lmzyuxi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

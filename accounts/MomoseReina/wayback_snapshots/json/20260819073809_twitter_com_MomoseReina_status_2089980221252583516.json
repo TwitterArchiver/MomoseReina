@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2089973912558039382",
+    "created_at": "2026-08-19T07:38:09.000Z",
+    "display_text_range": [
+      19,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089980221252583516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        },
+        {
+          "end": 18,
+          "id": "1751497892001685504",
+          "start": 8,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089980221252583516",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089977265472012493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ @45_206MHz 不知道，可能是发梗图发到🐜🐲雷点的了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [45_206MHz].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "45_206MHz",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "45_206MHz"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2089973912558039382",
+        "created_at": "2026-08-19T07:38:09.000Z",
+        "display_text_range": [
+          19,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089980221252583516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            },
+            {
+              "end": 18,
+              "id": "1751497892001685504",
+              "start": 8,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089980221252583516",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089977265472012493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ @45_206MHz 不知道，可能是发梗图发到🐜🐲雷点的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "2089973912558039382",
+        "created_at": "2026-08-19T07:26:24.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089977265472012493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 23,
+              "id": "1751497892001685504",
+              "start": 13,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089977265472012493",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089973912558039382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @45_206MHz ？这个人怎么被封号了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2089980221252583516",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 349,
+          "like_count": 10083,
+          "listed_count": 7,
+          "media_count": 468,
+          "tweet_count": 7189
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai|好朋友@Quitewaterqwq @aya__maimai|小号@5leep1ng_|防炸备用号@OU0CT8964|⭐️😡宝宝@Yue0227uwu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 50,
+                "start": 40,
+                "username": "5leep1ng_"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "OU0CT8964"
+              },
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Yue0227uwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0_an",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0_an",
+                "start": 0,
+                "url": "https://t.co/pKvp7ES0S4"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2089979759916904502",
+        "name": "0_an",
+        "pinned_tweet_id": "2026540174684074130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676228046247038976/1738846204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089433699238690816/ACCuKvG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1419,
+          "like_count": 43738,
+          "listed_count": 3,
+          "media_count": 448,
+          "tweet_count": 13331
+        },
+        "url": "https://t.co/pKvp7ES0S4",
+        "username": "ElP15_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

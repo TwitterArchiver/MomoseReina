@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2090311894133547071",
+    "created_at": "2026-08-20T11:30:09.000Z",
+    "display_text_range": [
+      26,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T12:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090400995700592981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        },
+        {
+          "end": 25,
+          "id": "1922267012702871552",
+          "start": 16,
+          "username": "45_206io"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090400995700592981",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090389444423749861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka @45_206io xmxnn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2090311894133547071",
+        "created_at": "2026-08-20T11:30:09.000Z",
+        "display_text_range": [
+          26,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090400995700592981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            },
+            {
+              "end": 25,
+              "id": "1922267012702871552",
+              "start": 16,
+              "username": "45_206io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090400995700592981",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090389444423749861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka @45_206io xmxnn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831363594556211200",
+        "conversation_id": "2090311894133547071",
+        "created_at": "2026-08-20T10:44:15.000Z",
+        "display_text_range": [
+          23,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090389444423749861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            },
+            {
+              "end": 22,
+              "id": "1922267012702871552",
+              "start": 13,
+              "username": "45_206io"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090389444423749861",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090311894133547071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina @45_206io xm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "45_206io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2090400995700592981",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 348,
+          "like_count": 10103,
+          "listed_count": 7,
+          "media_count": 471,
+          "tweet_count": 7228
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科喵~ | 请...请买一台Surface Pro吧！ | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3Dk6EN"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "is_identity_verified": false,
+        "location": "記錄の地平線",
+        "most_recent_tweet_id": "2090389444423749861",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1742492548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3119,
+          "following_count": 1356,
+          "like_count": 45898,
+          "listed_count": 9,
+          "media_count": 1903,
+          "tweet_count": 29409
+        },
+        "url": "https://t.co/cXoz3Dk6EN",
+        "username": "JyushitiYizuka",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-13T12:25:57.000Z",
+        "description": "这里是45的里推哦～ （看来要变成表推了啊喂）\n表推（死了）：@45_206MHz \n家猫：@MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "45_206MHz"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "MomoseReina"
+              }
+            ]
+          }
+        },
+        "id": "1922267012702871552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090358801795035518",
+        "name": "45.206io",
+        "pinned_tweet_id": "2090335793667796993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1922267012702871552/1747139371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974296788258664449/avqFoOJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 67,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "45_206io",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

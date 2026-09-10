@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2087431215267876951",
+    "created_at": "2026-08-12T11:49:36.000Z",
+    "display_text_range": [
+      11,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087506787314602311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987885638038036480",
+          "start": 0,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087506787314602311",
+    "in_reply_to_user_id": "1987885638038036480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087431215267876951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewww 不知道是哪些人喜欢用微信，要不是舞萌上号需要我早卸了😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2087431204173975553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgLntnbEAEabaj.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2087431215267876951",
+        "created_at": "2026-08-12T11:49:36.000Z",
+        "display_text_range": [
+          11,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087506787314602311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087506787314602311",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087431215267876951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 不知道是哪些人喜欢用微信，要不是舞萌上号需要我早卸了😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087431204173975553"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2087431215267876951",
+        "created_at": "2026-08-12T06:49:18.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087431215267876951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMN0pDjMf9",
+              "end": 64,
+              "expanded_url": "https://x.com/mizorewww/status/2087431215267876951/photo/1",
+              "media_key": "3_2087431204173975553",
+              "start": 41,
+              "url": "https://t.co/HMN0pDjMf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087431215267876951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087431204173975553"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4330,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微信简直是划时代的产物\n\n我他妈一共就加了俩好友，有一个是我自己\n\n就他妈封号了 https://t.co/HMN0pDjMf9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2087506787314602311",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 345,
+          "like_count": 9822,
+          "listed_count": 6,
+          "media_count": 457,
+          "tweet_count": 6992
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3HDeN\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtA0JC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3HDeN"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtA0JC"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2087501863801471259",
+        "name": "雨夹雪❄️ | 名古屋萌脸超可爱!",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1019,
+          "like_count": 26956,
+          "listed_count": 4,
+          "media_count": 1108,
+          "tweet_count": 5734
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

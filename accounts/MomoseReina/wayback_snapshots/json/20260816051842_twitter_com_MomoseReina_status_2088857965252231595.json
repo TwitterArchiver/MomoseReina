@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2088853787624800431",
+    "created_at": "2026-08-16T05:18:42.000Z",
+    "display_text_range": [
+      10,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088857965252231595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2008360423771316224",
+          "start": 0,
+          "username": "Konizaza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088857965252231595",
+    "in_reply_to_user_id": "2008360423771316224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088857454402777498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konizaza 能啊，澳门只是没有广告业务\n送中IP不等于不能看，接的网络还是国际互联网，只是IP被标记为中国大陆，没有哪个冤大头广告商把广告投在YouTube中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2088853787624800431",
+        "created_at": "2026-08-16T05:18:42.000Z",
+        "display_text_range": [
+          10,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088857965252231595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2008360423771316224",
+              "start": 0,
+              "username": "Konizaza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088857965252231595",
+        "in_reply_to_user_id": "2008360423771316224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088857454402777498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konizaza 能啊，澳门只是没有广告业务\n送中IP不等于不能看，接的网络还是国际互联网，只是IP被标记为中国大陆，没有哪个冤大头广告商把广告投在YouTube中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008360423771316224",
+        "conversation_id": "2088853787624800431",
+        "created_at": "2026-08-16T05:16:40.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088857454402777498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088857454402777498",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088854599751090399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 😨可是这样视频不也没法看吗喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2088857965252231595",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1582,
+          "following_count": 350,
+          "like_count": 9919,
+          "listed_count": 7,
+          "media_count": 462,
+          "tweet_count": 7074
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T02:10:47.000Z",
+        "description": "互关/互fo喵～｜MTF断糖｜生产日期：08年九月|喜欢喵喵叫｜也喜欢大家｜小号@konizazadesu免得找不到请灌注一下喵～\n我喜欢你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "konizazadesu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/konizaza",
+                "end": 23,
+                "expanded_url": "https://ngl.link/konizaza",
+                "start": 0,
+                "url": "https://t.co/UxxyJbeFnU"
+              }
+            ]
+          }
+        },
+        "id": "2008360423771316224",
+        "is_identity_verified": false,
+        "location": "你的心里（江苏南京）",
+        "most_recent_tweet_id": "2088857454402777498",
+        "name": "azazinok❤️",
+        "pinned_tweet_id": "2088658366851907758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008360423771316224/1783678754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008360701203476480/8eFKwyGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1713,
+          "like_count": 8276,
+          "listed_count": 2,
+          "media_count": 334,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/UxxyJbeFnU",
+        "username": "Konizaza",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

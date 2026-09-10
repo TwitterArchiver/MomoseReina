@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2089363471314100342",
+    "created_at": "2026-08-17T15:15:17.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089370489106096433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089017741630156800",
+          "start": 0,
+          "username": "mizorewwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089370489106096433",
+    "in_reply_to_user_id": "2089017741630156800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089363471314100342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizorewwww 太贵了玩不起😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2089363471314100342",
+        "created_at": "2026-08-17T15:15:17.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089370489106096433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089017741630156800",
+              "start": 0,
+              "username": "mizorewwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089370489106096433",
+        "in_reply_to_user_id": "2089017741630156800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089363471314100342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewwww 太贵了玩不起😭"
+      },
+      {
+        "article": {
+          "cover_media": "3_2089363024675303424",
+          "entities": {
+            "urls": [
+              {
+                "text": "https://x.ai/bot"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "example.com"
+              },
+              {
+                "text": "https://x.ai/bot"
+              }
+            ]
+          },
+          "media_entities": [
+            "3_2089362233256235008",
+            "3_2089362391356276737",
+            "3_2089362474500014080",
+            "3_2089362646588112896"
+          ],
+          "plain_text": "每个 Grok Bot 都自带一台 7×24 小时不关机的云电脑。只要 3 条命令 + 1 句话，就能把这台电脑「据为己有」——SSH 随便连、VNC 图形桌面随便用，相当于白捡一台永不离线的私人服务器。\n全程 5 分钟，不需要任何运维基础。\n为什么 Grok Bot 能当服务器？\nGrok Bot 是 SpaceXAI（原 xAI，被 SpaceX 收购后更名）于 2026 年 8 月 11 日发布的 early beta 产品，与 Cursor 联合打造，官方定位是 \"AI teammates that do real work\"（能真正干活的 AI 队友）。\n它和你认识的普通 Grok 完全不是一个物种：\n普通 Grok Grok Bot     本质 对话式 AI 多智能体（Multi-Agent）云端产品   干活方式 你问它答，动手的还是你 你派任务，它自己登录工具从头做到尾   硬件 没有 每个 Bot 独占一台 7×24 云端电脑   你关机之后 对话结束 它继续干活，需要审批时才来找你\n重点就在第三行：每个 Bot 都配一台永不离线的云电脑——能装软件、能跑服务，还能让 Bot 自己动手配置。\n这台电脑平时只是 Bot 的「工位」，但只要稍作设置，它就是一台现成的私人服务器：24 小时在线、不占你家电费、还自带一个 AI 运维。\n值多少钱？ 这台云电脑的配置（8 核 Xeon / 16GB 内存 / 128GB 硬盘）对标 AWS 的计算优化型实例 c6i.2xlarge：按需价 $0.34/小时，7×24 跑满一个月约 $248；再加 128GB gp3 云盘约 $10/月，合计约 $258/月（人民币 1,800+），一年超过 $3,000（约 ¥2.2 万）。就算签 3 年合约拿到最低价，也要 $130/月。而这台机器，只是你 Grok Bot 订阅的「附赠品」。\n目前 Grok Bot 面向 SuperGrok Heavy / Cursor Ultra / Cursor Teams Premium 订阅用户开放，客户端首发 macOS 与 iOS（Windows / Linux 可经 Cursor 使用），本文基于 macOS 讲解。\n准备工作\n一台 Mac\n已安装并登录 Grok Bot（官网下载：https://x.ai/bot ）\n\n \n第一步：生成 SSH 密钥（30 秒）\n打开终端，输入：\nssh-keygen -t ed25519\n然后一路回车（连按 3 次），密钥就生成好了。\n第二步：把公钥复制到剪贴板\npbcopy < ~/.ssh/id_ed25519.pub\n就这一条，公钥已经在你的剪贴板里了。\n小科普：.pub 结尾的是公钥，可以随便发；没有后缀的 id_ed25519 是私钥，打死都别发出去——谁拿到私钥，谁就能进你的服务器。\n第三步：说一句话，让 Grok 自己装好一切\n回到 Grok Bot 界面，Cmd + V 粘贴公钥，然后对它说：\n这是我的 SSH 公钥：（粘贴的内容）帮我配置并运行 sshd 和 cloudflared，把本机的 SSH 和 VNC 端口通过 Cloudflare Tunnel 反代出来，并告诉我怎么连接。VNC 请帮我生成一个强密码。\n然后你可以去倒杯咖啡了。Grok 会在自己的云电脑上装好 sshd、配好 Cloudflare Tunnel，跑完直接甩给你两条连接信息：一条 SSH，一条 VNC。\n自己的服务器自己装，这很 Grok。\n怎么连？\nSSH：命令行随便玩\nGrok 会给你一条类似这样的命令：\nssh -i ~/.ssh/id_ed25519 -o ProxyCommand=\"cloudflared access ssh --hostname example.com\" box@127.0.0.1\n直接粘贴到终端，回车，你就进去了。（具体命令以 Grok 实际给你的为准）\nVNC：图形桌面随便用\nGrok 会给你一条类似这样的命令：\ncloudflared access tcp --hostname example.com --url 127.0.0.1:5902\n在终端运行它，保持这个窗口开着；\n打开 macOS 自带的「屏幕共享」（Screen Sharing）；\n \n地址填 127.0.0.1:5902（以 Grok 给你的为准），输入它生成的 VNC 密码。\n \n熟悉的桌面出现在眼前——这台 7×24 在线的云电脑，现在是你的了。\n\n \n拿到之后能干嘛？\n挂机跑任务：爬虫、脚本、定时任务，你本地关机它照跑\n7×24 下载机：挂下载、挂同步，不烧自己电脑的电\n远程桌面：出门在外，随时连回来应急办公\n专属跳板机：一台永远在线的中转节点\n最骚的玩法：让 Grok Bot 自己维护这台服务器——它是 AI，这是它的电脑，出了问题让它自己修\n注意事项\n私钥不外发：全程只用公钥，任何人（包括 Grok）找你要私钥都别给。\nVNC 用强密码：让 Grok 生成足够复杂的密码，别用 123456。\n别放重要数据：这是 beta 产品的云环境，随时可能重置或回收，重要文件务必自行备份。\n合规风险自负：把 Bot 的云电脑当私人服务器属于「邪修玩法」，可能触碰服务条款，请自行评估账号风险。",
+          "preview_text": "每个 Grok Bot 都自带一台 7×24 小时不关机的云电脑。只要 3 条命令 + 1 句话，就能把这台电脑「据为己有」——SSH 随便连、VNC 图形桌面随便用，相当于白捡一台永不离线的私人服务器。\n全程 5",
+          "title": "白嫖指南：把 Grok Bot 的云电脑，变成你的 7×24 私人服务器"
+        },
+        "attachments": {},
+        "author_id": "2089017741630156800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040695083",
+              "name": "Amazon Web Services (AWS)"
+            }
+          }
+        ],
+        "conversation_id": "2089363471314100342",
+        "created_at": "2026-08-17T14:47:24.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089363471314100342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2089…",
+              "end": 125,
+              "expanded_url": "https://x.com/i/article/2089360943105130496",
+              "start": 102,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2089360943105130496",
+              "url": "https://t.co/8PNZFzwF4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089363471314100342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教程:如何白嫖grok bot的云电脑!\n\n之前有99刀三个月grok heavy的bug,里面附赠了Grok bot\n\nGrok bot 送的云电脑在AWS里一个月就要卖258刀,所以这个还是很值的! https://t.co/8PNZFzwF4t"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2089370489106096433",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 351,
+          "like_count": 9994,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 7133
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T15:54:31.000Z",
+        "description": "",
+        "id": "2089017741630156800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089365347640238363",
+        "name": "小雪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089019219908472832/CT2osJ-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 50,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "mizorewwww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

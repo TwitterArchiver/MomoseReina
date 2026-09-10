@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2083714871083053319",
+    "created_at": "2026-08-02T14:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083929374525681977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1634807884268855297",
+          "start": 0,
+          "username": "teaGfx_MikuNET"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083929374525681977",
+    "in_reply_to_user_id": "1634807884268855297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083929124910125324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teaGfx_MikuNET 因为是一个wmc取的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2083714871083053319",
+        "created_at": "2026-08-02T14:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083929374525681977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1634807884268855297",
+              "start": 0,
+              "username": "teaGfx_MikuNET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083929374525681977",
+        "in_reply_to_user_id": "1634807884268855297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083929124910125324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teaGfx_MikuNET 因为是一个wmc取的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634807884268855297",
+        "conversation_id": "2083714871083053319",
+        "created_at": "2026-08-02T14:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083929124910125324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083929124910125324",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083714871083053319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 为什么用户名叫ALLS🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 342,
+          "like_count": 9666,
+          "listed_count": 5,
+          "media_count": 447,
+          "tweet_count": 6876
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-12T06:45:55.000Z",
+        "description": "Miku",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "home.wahleak.top",
+                "end": 23,
+                "expanded_url": "https://home.wahleak.top",
+                "start": 0,
+                "url": "https://t.co/YvhXzekAJX"
+              }
+            ]
+          }
+        },
+        "id": "1634807884268855297",
+        "location": "localhost:443",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006714419158323200/VI_0Cag9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 847,
+          "like_count": 15584,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/YvhXzekAJX",
+        "username": "teaGfx_MikuNET",
+        "verified": false
+      }
+    ]
+  }
+}

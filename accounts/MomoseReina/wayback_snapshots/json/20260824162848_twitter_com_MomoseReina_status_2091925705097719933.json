@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2091893353768182079",
+    "created_at": "2026-08-24T16:28:48.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T17:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091925705097719933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091925705097719933",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091893524061094128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ 富婆v我50看看实力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2091893510991699968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfmEJ6a4AAooEc.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2091893353768182079",
+        "created_at": "2026-08-24T16:28:48.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091925705097719933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091925705097719933",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091893524061094128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ 富婆v我50看看实力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091893510991699968"
+          ]
+        },
+        "author_id": "1995146888249778177",
+        "conversation_id": "2091893353768182079",
+        "created_at": "2026-08-24T14:20:56.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091893524061094128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZOIdXHHyj",
+              "end": 33,
+              "expanded_url": "https://x.com/Rin_Mashiro_/status/2091893524061094128/photo/1",
+              "media_key": "3_2091893510991699968",
+              "start": 10,
+              "url": "https://t.co/MZOIdXHHyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091893524061094128",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091893510991699968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091893353768182079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧好贵,不支援了 https://t.co/MZOIdXHHyj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "45_206io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2091925705097719933",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 350,
+          "like_count": 10259,
+          "listed_count": 7,
+          "media_count": 479,
+          "tweet_count": 7353
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女｜处于HRT与非HRT叠加态｜J-POP｜AI｜ACGN｜JP（N2） EN CN｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqcilif\n匿名提问:https://t.co/520DUeTbF0\nTG:https://t.co/mrZzq3tpLq(24h在线)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 95,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 72,
+                "url": "https://t.co/PVGkqcilif"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 124,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 101,
+                "url": "https://t.co/520DUeTbF0"
+              },
+              {
+                "display_url": "t.me/Rin_Mashiro",
+                "end": 151,
+                "expanded_url": "https://t.me/Rin_Mashiro",
+                "start": 128,
+                "url": "https://t.co/mrZzq3tpLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqcilif"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091917173283512429",
+        "name": "Rin",
+        "pinned_tweet_id": "2086473525876117597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995146888249778177/1782917546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 110,
+          "like_count": 1025,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/PVGkqcilif",
+        "username": "Rin_Mashiro_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

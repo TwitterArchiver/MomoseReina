@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2085207001416798352",
+    "created_at": "2026-08-06T03:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085207001416798352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Solitude_Donde…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Solitude_Donder/status/2084869943234081180",
+          "start": 23,
+          "url": "https://t.co/Dw1dhnnDKU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085207001416798352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084869943234081180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "音游大厦吗？这可能比勇哥大厦似的还快你知道吗 https://t.co/Dw1dhnnDKU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2084869936384745472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7yKTkaoAAgKLi.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2085207001416798352",
+        "created_at": "2026-08-06T03:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085207001416798352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Solitude_Donde…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Solitude_Donder/status/2084869943234081180",
+              "start": 23,
+              "url": "https://t.co/Dw1dhnnDKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085207001416798352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084869943234081180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "音游大厦吗？这可能比勇哥大厦似的还快你知道吗 https://t.co/Dw1dhnnDKU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084869936384745472"
+          ]
+        },
+        "author_id": "1922989310158176256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2084869943234081180",
+        "created_at": "2026-08-05T05:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084869943234081180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsgtZ9Z4Uk",
+              "end": 49,
+              "expanded_url": "https://x.com/Solitude_Donder/status/2084869943234081180/photo/1",
+              "media_key": "3_2084869936384745472",
+              "start": 26,
+              "url": "https://t.co/qsgtZ9Z4Uk"
+            },
+            {
+              "display_url": "x.com/Solitude_Donde…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Solitude_Donder/status/2084413655115026887",
+              "start": 50,
+              "url": "https://t.co/0krsedlYGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084869943234081180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 140447,
+          "like_count": 945,
+          "quote_count": 87,
+          "reply_count": 35,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084413655115026887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "改装工事しました！\n15階建て理論値音ゲー聖地爆誕 https://t.co/qsgtZ9Z4Uk https://t.co/0krsedlYGX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 345,
+          "like_count": 9738,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 6924
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-15T12:16:01.000Z",
+        "description": "25金超人　絵描きドンだー大好き\n日常アカ(フォロバします)→ @Donder_Solitude\n🫶極𝓵𝓸𝓿𝓮アイコン→ @kawausodon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "Donder_Solitude"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "kawausodon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEswM…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCEswMLBzxiLsrbClkqnK1Ag?si=s6EHYLxc7Zz--0aX",
+                "start": 0,
+                "url": "https://t.co/yLV3tCDUjP"
+              }
+            ]
+          }
+        },
+        "id": "1922989310158176256",
+        "location": "宝の丘",
+        "name": "こうちゃん",
+        "pinned_tweet_id": "2057298708308570475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058466165069152256/SAXNBSNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2176,
+          "following_count": 2032,
+          "like_count": 6380,
+          "listed_count": 3,
+          "media_count": 640,
+          "tweet_count": 4478
+        },
+        "url": "https://t.co/yLV3tCDUjP",
+        "username": "Solitude_Donder",
+        "verified": false
+      }
+    ]
+  }
+}

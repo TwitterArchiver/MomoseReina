@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2089592740321579151",
+    "created_at": "2026-08-18T06:02:56.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089593871437345176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089593871437345176",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089592740321579151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 同款鼠标"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_2089577523004973056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP-rr6VaIAA_VQp.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2089592740321579151",
+        "created_at": "2026-08-18T06:02:56.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089593871437345176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089593871437345176",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089592740321579151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 同款鼠标"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089577523004973056"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2089592740321579151",
+        "created_at": "2026-08-18T05:58:26.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089592740321579151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MccOZOAdJB",
+              "end": 54,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2089592740321579151/photo/1",
+              "media_key": "3_2089577523004973056",
+              "start": 31,
+              "url": "https://t.co/MccOZOAdJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089592740321579151",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089577523004973056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3k fo 大恭喜!\n...不过这样子真的能提高代码质量吗? https://t.co/MccOZOAdJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2089593871437345176",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 351,
+          "like_count": 10022,
+          "listed_count": 7,
+          "media_count": 466,
+          "tweet_count": 7155
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "is_identity_verified": false,
+        "location": "記錄の地平線",
+        "most_recent_tweet_id": "2089592784315687030",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1742492548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3007,
+          "following_count": 1348,
+          "like_count": 45704,
+          "listed_count": 9,
+          "media_count": 1898,
+          "tweet_count": 29250
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

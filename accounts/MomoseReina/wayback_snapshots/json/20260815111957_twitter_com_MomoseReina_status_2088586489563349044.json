@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2088476888801116512",
+    "created_at": "2026-08-15T11:19:57.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088586489563349044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1363787997007597568",
+          "start": 0,
+          "username": "NiuBoss123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088586489563349044",
+    "in_reply_to_user_id": "1363787997007597568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088476888801116512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiuBoss123 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2088476888801116512",
+        "created_at": "2026-08-15T11:19:57.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088586489563349044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1363787997007597568",
+              "start": 0,
+              "username": "NiuBoss123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088586489563349044",
+        "in_reply_to_user_id": "1363787997007597568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088476888801116512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiuBoss123 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363787997007597568",
+        "conversation_id": "2088476888801116512",
+        "created_at": "2026-08-15T04:04:26.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088476888801116512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088476888801116512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上床下桌的宿舍 / 公寓的最大缺点是睡觉把手机给蹭掉床即会概率获取到手机屏幕碎裂的美感（\n诶我的s24u，想官方修但是又不是很想，就怕第三方没有屏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2088586489563349044",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 345,
+          "like_count": 9875,
+          "listed_count": 7,
+          "media_count": 462,
+          "tweet_count": 7036
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-22T09:49:39.000Z",
+        "description": "平面设计新手 | Kigurumi 新人 | 有点社恐 | 多语言废弃者 | 在邕城二十年 | 是落寞之人，是舰长，是旅行者，是开拓者，是博士，是老师，更是时刻陪伴你的朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "akio.top",
+                "end": 23,
+                "expanded_url": "https://www.akio.top",
+                "start": 0,
+                "url": "https://t.co/snCQ3AzE7i"
+              }
+            ]
+          }
+        },
+        "id": "1363787997007597568",
+        "is_identity_verified": false,
+        "location": "安林省安津市城北区",
+        "most_recent_tweet_id": "2088476888801116512",
+        "name": "NiuBoss123 | 御坂秋生",
+        "pinned_tweet_id": "2043362662252425273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363787997007597568/1776010664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929938744066617352/-70zm1MO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 558,
+          "like_count": 2080,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/snCQ3AzE7i",
+        "username": "NiuBoss123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

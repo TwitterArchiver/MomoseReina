@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2090746517841952884",
+    "created_at": "2026-08-21T10:24:35.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090746879856566576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831363594556211200",
+          "start": 0,
+          "username": "JyushitiYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090746879856566576",
+    "in_reply_to_user_id": "1831363594556211200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090746517841952884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JyushitiYizuka 拾柒片😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2090746427802804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPSzICaYAAgHuz.jpg",
+        "width": 548
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090746457548861440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPS022bMAAbWY-.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2090746517841952884",
+        "created_at": "2026-08-21T10:24:35.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090746879856566576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831363594556211200",
+              "start": 0,
+              "username": "JyushitiYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090746879856566576",
+        "in_reply_to_user_id": "1831363594556211200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090746517841952884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JyushitiYizuka 拾柒片😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090746427802804224",
+            "3_2090746457548861440"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090746517841952884",
+        "created_at": "2026-08-21T10:23:08.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090746517841952884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xK7HUoPT5O",
+              "end": 34,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2090746517841952884/photo/1",
+              "media_key": "3_2090746427802804224",
+              "start": 11,
+              "url": "https://t.co/xK7HUoPT5O"
+            },
+            {
+              "display_url": "pic.x.com/xK7HUoPT5O",
+              "end": 34,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2090746517841952884/photo/1",
+              "media_key": "3_2090746457548861440",
+              "start": 11,
+              "url": "https://t.co/xK7HUoPT5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090746517841952884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090746427802804224"
+          },
+          {
+            "media_key": "3_2090746457548861440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "? ! 鱼片 ! ? https://t.co/xK7HUoPT5O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206io",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "45_206io"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2090746879856566576",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 347,
+          "like_count": 10123,
+          "listed_count": 7,
+          "media_count": 472,
+          "tweet_count": 7246
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科喵~ | 请...请买一台Surface Pro吧！ | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」| 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3Dk6EN"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "is_identity_verified": false,
+        "location": "記錄の地平線",
+        "most_recent_tweet_id": "2090746517841952884",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831363594556211200/1742492548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086042121308610560/C4onUYNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3121,
+          "following_count": 1357,
+          "like_count": 45934,
+          "listed_count": 9,
+          "media_count": 1908,
+          "tweet_count": 29444
+        },
+        "url": "https://t.co/cXoz3Dk6EN",
+        "username": "JyushitiYizuka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

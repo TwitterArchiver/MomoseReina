@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2089367641224032653",
+    "created_at": "2026-08-17T15:10:55.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T16:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089369388868903071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827985418438279168",
+          "start": 0,
+          "username": "kawa_chise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089369388868903071",
+    "in_reply_to_user_id": "1827985418438279168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089367641224032653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa_chise 你变"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089367191271751680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7sY_kbwAAlOAV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089367199974825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7sZf_aIAAdIJK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2089367641224032653",
+        "created_at": "2026-08-17T15:10:55.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089369388868903071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827985418438279168",
+              "start": 0,
+              "username": "kawa_chise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089369388868903071",
+        "in_reply_to_user_id": "1827985418438279168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089367641224032653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa_chise 你变"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089367191271751680",
+            "3_2089367199974825984"
+          ]
+        },
+        "author_id": "1827985418438279168",
+        "conversation_id": "2089367641224032653",
+        "created_at": "2026-08-17T15:03:58.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089367641224032653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ArimaKana"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "推しの子"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "有馬かな"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "有马加奈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiYvkfTRiE",
+              "end": 70,
+              "expanded_url": "https://x.com/kawa_chise/status/2089367641224032653/photo/1",
+              "media_key": "3_2089367191271751680",
+              "start": 47,
+              "url": "https://t.co/iiYvkfTRiE"
+            },
+            {
+              "display_url": "pic.x.com/iiYvkfTRiE",
+              "end": 70,
+              "expanded_url": "https://x.com/kawa_chise/status/2089367641224032653/photo/1",
+              "media_key": "3_2089367199974825984",
+              "start": 47,
+              "url": "https://t.co/iiYvkfTRiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089367641224032653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089367191271751680"
+          },
+          {
+            "media_key": "3_2089367199974825984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[代发]抖音@路西法333号\n\n🤍\n#ArimaKana #推しの子 #有馬かな ＃有马加奈 https://t.co/iiYvkfTRiE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2089369388868903071",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 351,
+          "like_count": 9994,
+          "listed_count": 7,
+          "media_count": 463,
+          "tweet_count": 7131
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T08:24:30.000Z",
+        "description": "@Chise_awa 转生（）\n成分很复杂的一只可爱小千 | 总之就是音游吃 | Kobaryo真的很好听不是吗 | 想要变可爱 | 欢迎来和我聊天 | 想要QQ可以私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Chise_awa"
+              }
+            ]
+          }
+        },
+        "id": "1827985418438279168",
+        "is_identity_verified": false,
+        "location": " Address",
+        "most_recent_tweet_id": "2089367641224032653",
+        "name": "千千千世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827985418438279168/1785661864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088912519838769152/eJr_8AfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 450,
+          "like_count": 8743,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "kawa_chise",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
