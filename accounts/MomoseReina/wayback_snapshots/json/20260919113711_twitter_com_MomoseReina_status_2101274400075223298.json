@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2101274400075223298",
+    "created_at": "2026-09-19T11:37:11.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101274400075223298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/heshan258/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/heshan258/status/2101204446323843527",
+          "start": 33,
+          "url": "https://t.co/vCEFO3jPK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101274400075223298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101204446323843527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点想笑，昨天响防空警报的时候，我还在电脑面前悠哉游哉听术力口🤓 https://t.co/vCEFO3jPK7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12608,
+        "height": 1280,
+        "media_key": "13_2101204418834358272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101204418834358272/img/b7bUi0TPeK85r_Q_.jpg",
+        "public_metrics": {
+          "view_count": 921
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101204418834358272/vid/avc1/320x568/zNBXbAkxA2aIoX7G.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101204418834358272/vid/avc1/480x852/l7Hh29y3HBtGubQ5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101204418834358272/vid/avc1/720x1280/G2ectDGcC4Y8jia3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101204418834358272/pl/4twB54AntURJkDVv.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2101274400075223298",
+        "created_at": "2026-09-19T11:37:11.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101274400075223298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/heshan258/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/heshan258/status/2101204446323843527",
+              "start": 33,
+              "url": "https://t.co/vCEFO3jPK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101274400075223298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101204446323843527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点想笑，昨天响防空警报的时候，我还在电脑面前悠哉游哉听术力口🤓 https://t.co/vCEFO3jPK7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101204418834358272"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "2101204446323843527",
+        "created_at": "2026-09-19T06:59:13.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101204446323843527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dd9cebdnXK",
+              "end": 115,
+              "expanded_url": "https://x.com/heshan258/status/2101204446323843527/video/1",
+              "media_key": "13_2101204418834358272",
+              "start": 92,
+              "url": "https://t.co/Dd9cebdnXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101204446323843527",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101204418834358272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2999,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "防空警报响彻校园!今天，许昌市八龙路小学小学生课间听见防空警报，停止玩耍，站立默哀。警钟，是历史的提醒。孩子静静低头，在肃穆的氛围中读懂家国二字，把勿忘国耻、吾辈自强的种子种进童心。 https://t.co/Dd9cebdnXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2101274400075223298",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 361,
+          "like_count": 10418,
+          "listed_count": 7,
+          "media_count": 486,
+          "tweet_count": 7461
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "我完全支持社会主义， 支持中国共产党的领导，本人忠于中华人民共和国宪法，维护宪法权威，履行法定职责， 忠于祖国、忠于人民，恪尽职守、廉洁奉公，接受人民监督，为建设富强民主文明和谐美丽的社会主义现代化强国 努力奋斗坚决反对历史虚无主义，拥护中国特色社会主义，坚持社会主义核心价值观， 尊重先驱伟人，向先烈致敬！",
+        "id": "1909553877739085825",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101204446323843527",
+        "name": "東雪蓮",
+        "pinned_tweet_id": "2101210691474772321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909553877739085825/1756140493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101204877594746880/0mboL0kn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8090,
+          "following_count": 623,
+          "like_count": 1266,
+          "listed_count": 34,
+          "media_count": 546,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "heshan258",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
