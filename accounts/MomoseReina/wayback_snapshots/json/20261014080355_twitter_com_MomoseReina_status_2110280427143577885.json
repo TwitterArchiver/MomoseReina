@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2110218361208705460",
+    "created_at": "2026-10-14T08:03:55.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-14T09:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110280427143577885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110280427143577885",
+    "in_reply_to_user_id": "286418121",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110218361208705460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberHono ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2110218361208705460",
+        "created_at": "2026-10-14T08:03:55.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110280427143577885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110280427143577885",
+        "in_reply_to_user_id": "286418121",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110218361208705460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "286418121",
+        "conversation_id": "2110218361208705460",
+        "created_at": "2026-10-14T03:57:17.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T04:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110218361208705460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110218361208705460",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👁️👅👁️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2110280427143577885",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 375,
+          "like_count": 10804,
+          "listed_count": 8,
+          "media_count": 513,
+          "tweet_count": 7679
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "🎮  https://t.co/xkvvOEaFaV 🏎️  https://t.co/JHy2gX2Ml7  ☎️  https://t.co/zZGI0xvTGU  📟 https://t.co/09eUmxlkeN\n\n🕘 GMT+9\n🔠 en, zh / ja, es (read-only)\nalt: @ieb233\n\navatar by @KGY_HN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 162,
+                "start": 155,
+                "username": "ieb233"
+              },
+              {
+                "end": 181,
+                "start": 174,
+                "username": "KGY_HN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 26,
+                "expanded_url": "http://majors.im",
+                "start": 3,
+                "url": "https://t.co/xkvvOEaFaV"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 54,
+                "expanded_url": "http://f1setup.it",
+                "start": 31,
+                "url": "https://t.co/JHy2gX2Ml7"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 83,
+                "expanded_url": "http://esim.gg",
+                "start": 60,
+                "url": "https://t.co/zZGI0xvTGU"
+              },
+              {
+                "display_url": "n.lpa.ee",
+                "end": 110,
+                "expanded_url": "http://n.lpa.ee",
+                "start": 87,
+                "url": "https://t.co/09eUmxlkeN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlmQf"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "is_identity_verified": true,
+        "location": "Fukuoka",
+        "most_recent_tweet_id": "2110218361208705460",
+        "name": "ieb",
+        "pinned_tweet_id": "2056327506102489437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/286418121/1483897736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090434400106516480/uRdBU7_1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2449,
+          "following_count": 615,
+          "like_count": 5555,
+          "listed_count": 9,
+          "media_count": 465,
+          "tweet_count": 5190
+        },
+        "url": "https://t.co/i6C0PXlmQf",
+        "username": "CyberHono",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

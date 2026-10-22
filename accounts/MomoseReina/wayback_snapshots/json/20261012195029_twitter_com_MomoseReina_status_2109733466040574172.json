@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2109703974710579621",
+    "created_at": "2026-10-12T19:50:29.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T20:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109733466040574172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2106826280012582912",
+          "start": 0,
+          "username": "LucisObscura520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109733466040574172",
+    "in_reply_to_user_id": "2106826280012582912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109732733094330393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LucisObscura520 对的，他把他中转站用户的对话内容，邮箱，指名道姓的发出来😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T19:50:29.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T20:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109733466040574172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2106826280012582912",
+              "start": 0,
+              "username": "LucisObscura520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109733466040574172",
+        "in_reply_to_user_id": "2106826280012582912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109732733094330393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LucisObscura520 对的，他把他中转站用户的对话内容，邮箱，指名道姓的发出来😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2106826280012582912",
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T19:47:35.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T20:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109732733094330393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109732733094330393",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109711293741678938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 不给用户打码的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2109733466040574172",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 369,
+          "like_count": 10776,
+          "listed_count": 8,
+          "media_count": 513,
+          "tweet_count": 7654
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-04T19:20:09.000Z",
+        "description": "09丨xNFP-A丨高中生 丨Web3 & AI丨Vibe Coding\n\n用 AI 做项目，记录实测、踩坑和经营日常。\n做过中转站与账号交易，现经营 AI 会员充值与数字服务。\n\n会员卡券服务：https://t.co/91hsc0UNzY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.haox.xin",
+                "end": 121,
+                "expanded_url": "http://shop.haox.xin",
+                "start": 98,
+                "url": "https://t.co/91hsc0UNzY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.haox.xin",
+                "end": 23,
+                "expanded_url": "https://shop.haox.xin/",
+                "start": 0,
+                "url": "https://t.co/OkWelnFxxm"
+              }
+            ]
+          }
+        },
+        "id": "2106826280012582912",
+        "is_identity_verified": false,
+        "location": "一日看尽长安花  Xi'an",
+        "most_recent_tweet_id": "2109732733094330393",
+        "name": "LucisObscura",
+        "pinned_tweet_id": "2109314707744317670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106826280012582912/1791141845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106827365485789185/y_M0ihQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1074,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/OkWelnFxxm",
+        "username": "LucisObscura520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

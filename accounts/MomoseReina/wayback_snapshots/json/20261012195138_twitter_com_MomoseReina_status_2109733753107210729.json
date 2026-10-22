@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1870108535268487169",
+    "conversation_id": "2109703974710579621",
+    "created_at": "2026-10-12T19:51:38.000Z",
+    "display_text_range": [
+      17,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T20:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109733753107210729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2106826280012582912",
+          "start": 0,
+          "username": "LucisObscura520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/thirteenyizuka…",
+          "end": 43,
+          "expanded_url": "https://x.com/thirteenyizuka/status/2065038459182764146?s=46",
+          "start": 20,
+          "url": "https://t.co/PxYTSWiNkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109733753107210729",
+    "in_reply_to_user_id": "2106826280012582912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065038459182764146",
+        "type": "quoted"
+      },
+      {
+        "id": "2109732733094330393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LucisObscura520 原帖\nhttps://t.co/PxYTSWiNkx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2065038377599303680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh9dqBbAAADyBF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870108535268487169",
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T19:51:38.000Z",
+        "display_text_range": [
+          17,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T20:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109733753107210729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2106826280012582912",
+              "start": 0,
+              "username": "LucisObscura520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/thirteenyizuka…",
+              "end": 43,
+              "expanded_url": "https://x.com/thirteenyizuka/status/2065038459182764146?s=46",
+              "start": 20,
+              "url": "https://t.co/PxYTSWiNkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109733753107210729",
+        "in_reply_to_user_id": "2106826280012582912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065038459182764146",
+            "type": "quoted"
+          },
+          {
+            "id": "2109732733094330393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LucisObscura520 原帖\nhttps://t.co/PxYTSWiNkx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2106826280012582912",
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T19:47:35.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T20:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109732733094330393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109732733094330393",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109711293741678938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 不给用户打码的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065038377599303680"
+          ]
+        },
+        "author_id": "1909562414162755584",
+        "conversation_id": "2065038459182764146",
+        "created_at": "2026-06-11T11:48:29.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065038459182764146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8O1Mq3Fuy",
+              "end": 31,
+              "expanded_url": "https://x.com/ThirteenYizuka/status/2065038459182764146/photo/1",
+              "media_key": "3_2065038377599303680",
+              "start": 8,
+              "url": "https://t.co/B8O1Mq3Fuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065038459182764146",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2065038377599303680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8204,
+          "like_count": 53,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "tyw你王朝了 https://t.co/B8O1Mq3Fuy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2109733753107210729",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 369,
+          "like_count": 10776,
+          "listed_count": 8,
+          "media_count": 513,
+          "tweet_count": 7655
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-04T19:20:09.000Z",
+        "description": "09丨xNFP-A丨高中生 丨Web3 & AI丨Vibe Coding\n\n用 AI 做项目，记录实测、踩坑和经营日常。\n做过中转站与账号交易，现经营 AI 会员充值与数字服务。\n\n会员卡券服务：https://t.co/91hsc0UNzY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.haox.xin",
+                "end": 121,
+                "expanded_url": "http://shop.haox.xin",
+                "start": 98,
+                "url": "https://t.co/91hsc0UNzY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.haox.xin",
+                "end": 23,
+                "expanded_url": "https://shop.haox.xin/",
+                "start": 0,
+                "url": "https://t.co/OkWelnFxxm"
+              }
+            ]
+          }
+        },
+        "id": "2106826280012582912",
+        "is_identity_verified": false,
+        "location": "一日看尽长安花  Xi'an",
+        "most_recent_tweet_id": "2109732733094330393",
+        "name": "LucisObscura",
+        "pinned_tweet_id": "2109314707744317670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106826280012582912/1791141845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106827365485789185/y_M0ihQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 1074,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/OkWelnFxxm",
+        "username": "LucisObscura520",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\n高性价比的大模型服务 https://t.co/H6HxLqxAqO\ntokenrouter https://t.co/KaC7IcLVAv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 78,
+                "expanded_url": "https://tokenflux.dev",
+                "start": 55,
+                "url": "https://t.co/H6HxLqxAqO"
+              },
+              {
+                "display_url": "discord.gg/kZnhrXQc",
+                "end": 114,
+                "expanded_url": "https://discord.gg/kZnhrXQc",
+                "start": 91,
+                "url": "https://t.co/KaC7IcLVAv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yDTE8"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "is_identity_verified": false,
+        "location": "クローゼットの中",
+        "most_recent_tweet_id": "2109602048677490695",
+        "name": "芒果刀🥭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909562414162755584/1765525005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086871763401756672/iVdJDNFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3394,
+          "following_count": 356,
+          "like_count": 11011,
+          "listed_count": 14,
+          "media_count": 249,
+          "tweet_count": 2477
+        },
+        "url": "https://t.co/f9cf7yDTE8",
+        "username": "ThirteenYizuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109711288670793728"
+      ]
+    },
+    "author_id": "1870108535268487169",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2109703974710579621",
+    "created_at": "2026-10-12T18:22:23.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T19:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109711293741678938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqVyp75xjI",
+          "end": 42,
+          "expanded_url": "https://x.com/MomoseReina/status/2109711293741678938/photo/1",
+          "media_key": "3_2109711288670793728",
+          "start": 19,
+          "url": "https://t.co/YqVyp75xjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109711293741678938",
+    "in_reply_to_user_id": "1870108535268487169",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2109711288670793728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109703974710579621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且你们这么大公司，招人都不做背调吗 https://t.co/YqVyp75xjI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1799,
+        "media_key": "3_2109711288670793728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUczPUPasAABUSc.jpg",
+        "width": 811
+      },
+      {
+        "height": 1520,
+        "media_key": "3_2109703965097197568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUcslBzaAAA_45T.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2109703965101502464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUcslB0bsAAMF_k.jpg",
+        "width": 1170
+      },
+      {
+        "height": 555,
+        "media_key": "3_2109703965105639424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUcslB1a0AAal9W.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109711288670793728"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T18:22:23.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T19:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109711293741678938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqVyp75xjI",
+              "end": 42,
+              "expanded_url": "https://x.com/MomoseReina/status/2109711293741678938/photo/1",
+              "media_key": "3_2109711288670793728",
+              "start": 19,
+              "url": "https://t.co/YqVyp75xjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109711293741678938",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109711288670793728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109703974710579621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且你们这么大公司，招人都不做背调吗 https://t.co/YqVyp75xjI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109703965097197568",
+            "3_2109703965101502464",
+            "3_2109703965105639424"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "conversation_id": "2109703974710579621",
+        "created_at": "2026-10-12T17:53:18.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T18:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109703974710579621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2MoJNFTeH",
+              "end": 52,
+              "expanded_url": "https://x.com/MomoseReina/status/2109703974710579621/photo/1",
+              "media_key": "3_2109703965097197568",
+              "start": 29,
+              "url": "https://t.co/L2MoJNFTeH"
+            },
+            {
+              "display_url": "pic.x.com/L2MoJNFTeH",
+              "end": 52,
+              "expanded_url": "https://x.com/MomoseReina/status/2109703974710579621/photo/1",
+              "media_key": "3_2109703965101502464",
+              "start": 29,
+              "url": "https://t.co/L2MoJNFTeH"
+            },
+            {
+              "display_url": "pic.x.com/L2MoJNFTeH",
+              "end": 52,
+              "expanded_url": "https://x.com/MomoseReina/status/2109703974710579621/photo/1",
+              "media_key": "3_2109703965105639424",
+              "start": 29,
+              "url": "https://t.co/L2MoJNFTeH"
+            },
+            {
+              "display_url": "x.com/acboxliu/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/acboxliu/status/2109369310162587829",
+              "start": 53,
+              "url": "https://t.co/rxsJFQJyNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109703974710579621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2109703965097197568"
+          },
+          {
+            "media_key": "3_2109703965101502464"
+          },
+          {
+            "media_key": "3_2109703965105639424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109369310162587829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我特别讨厌泄露用户隐私的行为，所以我对芒果刀没有任何好感 https://t.co/L2MoJNFTeH https://t.co/rxsJFQJyNB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | VPS梦女 | 社恐 | 帕罗西汀重度依赖 \n逃生舱: @NanaseReina @MomohaReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "MomohaReina"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "is_identity_verified": false,
+        "location": "舞萌DX 2026",
+        "most_recent_tweet_id": "2109711293741678938",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870108535268487169/1760192567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100856226414510080/xYwmKY56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 369,
+          "like_count": 10772,
+          "listed_count": 8,
+          "media_count": 513,
+          "tweet_count": 7651
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
